@@ -139,10 +139,6 @@ text	=	text
 
 
 
-
-
-
-
 function clean_all(word)
 {
 	word=normalize(word);
@@ -159,10 +155,8 @@ function clean_all(word)
 
 function resizeiframe(obj)
 {
-	obj.style.height = obj.contentWindow.document.body.scrollHeight+40 + 'px';
-	obj.style.width = obj.contentWindow.document.body.scrollWidth+40 + 'px';
+	obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
 }
-
 
 
 
@@ -180,7 +174,7 @@ function loadarray1()
 
 
 			xx2 = document.createElement("span");
-			xx2.innerHTML = '<iframe src="lsj/'+array1[0]+'.html" frameBorder="0" width="100%" onload="resizeiframe(this)" />';
+			xx2.innerHTML = '<iframe src="lsj/'+array1[0]+'.html" width="100%" height="300px" frameBorder="0" onload="resizeiframe(this)" />';
 			document.getElementById('trouve2').appendChild(xx2);
 
 

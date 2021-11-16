@@ -3,7 +3,7 @@
 //FILE
 fs			= require('fs');
 jsonf		= require('fs');
-result		= fs.readFileSync('ntlausanne.txt', 'utf8');
+result		= fs.readFileSync('colombe.txt', 'utf8');
 
 /***********************************************************************************************************
 Mat Mar Luk Joh Act Rom 1Co 2Co Gal Eph Phi Col 1Th 2Th 1Ti 2Ti Tit Phm Heb Jam 1Pe 2Pe 1Jo 2Jo 3Jo Jud Rev
@@ -69,6 +69,36 @@ getlivre = {
 27:'APOCALYPSE' }
 
 
+xlivre = {
+'MATTHIEU':'1',
+'MARC':'2',
+'LUC':'3',
+'JEAN':'4',
+'ACTES':'5',
+'ROMAINS':'6',
+'1CORINTHIENS':'7',
+'2CORINTHIENS':'8',
+'GALATES':'9',
+'EPHESIENS':'10',
+'PHILIPPIENS':'11',
+'COLOSSIENS':'12',
+'1THESSALONICIENS':'13',
+'2THESSALONICIENS':'14',
+'1TIMOTHEE':'15',
+'2TIMOTHEE':'16',
+'TITE':'17',
+'PHILEMON':'18',
+'HEBREUX':'19',
+'JACQUES':'20',
+'1PIERRE':'21',
+'2PIERRE':'22',
+'1JEAN':'23',
+'2JEAN':'24',
+'3JEAN':'25',
+'JUDE':'26',
+'APOCALYPSE':'27', }
+
+
 //ARRAY
 livre_a=[];
 chapitre_a=[];
@@ -106,7 +136,11 @@ for (nb=0;nb!=line.length;nb++)
 
 
 			//LIVRE CHAP VER
-			livre		= livres[word_space[0]];
+			livre		= word_space[0];
+
+			if (!xlivre[livre]) console.log(livre);
+			else livre=xlivre[livre];
+
 			ch_ve		= word_space[1];
 			chap		= ch_ve.match(/^[0-9]+/)[0];
 			ver			= ch_ve.match(/:([0-9]+)/)[1];
@@ -179,8 +213,8 @@ chapitre_a[0] = livre_avant+'-'+getlivre[livre_avant]+' - '+tchap+' chapitres';
 livre_a[livre_avant] = chapitre_a;
 
 tlivre = livre_a.length-1;
-livre_a[0]='BIBLE LAUSANNE - '+tlivre+' livres';
+livre_a[0]='BIBLE COLOMBE - '+tlivre+' livres';
 
 
 //FILE_JSON_TISCH
-jsonf.writeFileSync('lausanne.js', 'lausanne='+JSON.stringify(livre_a, null, 1), 'utf8');
+jsonf.writeFileSync('colombe.js', 'colombe='+JSON.stringify(livre_a, null, 1), 'utf8');

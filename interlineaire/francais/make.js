@@ -111,8 +111,10 @@ if (database_fr[line] != "")
 {
 	//V1 1:1:1:MATTHIEU:Sébastien:2021
 	//V2 1:1:1:MATTHIEU:1:SEBASTIEN-D-G:2021
-	//V3 1:1:1:MATTHIEU:1:2021:SEBASTIEN-D-G 
-	//   0 1 2 3        4 5    6
+	//V3 1:1:1:MATTHIEU:1:2021:SEBASTIEN-D-G
+	//V4 1:1:1:MATTHIEU:3:1:2021:SEBASTIEN-D-G Bible
+	//   0 1 2 3        4 5 6    7
+	
 	lcvt		= database_fr[line].split(' ');
 	lcv			= lcvt[0];
 	texte		= database_fr[line].replace(lcv,"");
@@ -122,8 +124,10 @@ if (database_fr[line] != "")
 	chapitre	= lcv_split[1];
 	verset		= lcv_split[2];
 	nomdulivre	= lcv_split[3];
-	date		= lcv_split[5];
-	traducteur	= lcv_split[6];
+	langue		= lcv_split[4];
+	classement	= lcv_split[5];
+	date		= lcv_split[6];
+	traducteur	= lcv_split[7];
 
 
 

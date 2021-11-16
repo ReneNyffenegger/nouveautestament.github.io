@@ -123,8 +123,10 @@ if (database_fr[line] != "")
 	chapitre	= lcv_split[1];
 	verset		= lcv_split[2];
 	nomdulivre	= lcv_split[3];
-	date		= lcv_split[5];
-	traducteur	= lcv_split[6];
+	langue		= lcv_split[4];
+	classement	= lcv_split[5];
+	date		= lcv_split[6];
+	traducteur	= lcv_split[7];
 
 
 

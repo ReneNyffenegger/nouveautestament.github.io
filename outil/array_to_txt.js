@@ -54,8 +54,8 @@ for (livre = 1 ; livre != 28 ; livre++)
 		for (verset = 1 ; verset != earray[livre][chapitre].length ; verset++)
 		{
 			lcv = livre+':'+chapitre+':'+verset;
-			//1:1:1:MATTHIEU:1:274:PAPYRUS1 βιβλος γενεσεως |ιυ|(ιησου) |χυ|(χριστου) |υυ|(υιου) δαυιδ υιου αβρααμ
-			console.log(lcv+':'book[livre]+':'+earray[livre][chapitre][verset])
+			//1:1:1:MATTHIEU:1:1:274:PAPYRUS1 βιβλος γενεσεως |ιυ|(ιησου) |χυ|(χριστου) |υυ|(υιου) δαυιδ υιου αβρααμ
+			console.log(lcv+':'+book[livre]+':2:1:2007:IERONYMUS '+earray[livre][chapitre][verset])
 	
 			
 		}

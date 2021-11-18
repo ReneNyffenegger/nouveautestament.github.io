@@ -279,7 +279,7 @@ if (backverset != verset)
 	else 
 		xxxxx +=`
 </tbody></table>
-<br><div id="V`+verset+`"><a href="#a"><b>`+xbook[livre]+' '+chapitre+' '+verset+`</b></a>&ensp;&ensp;
+<br><div id="V`+verset+`"></div><a href="#a"><b>`+xbook[livre]+' '+chapitre+' '+verset+`</b></a>&ensp;&ensp;
 <table cellspacing="0"><tbody>
 `;
 

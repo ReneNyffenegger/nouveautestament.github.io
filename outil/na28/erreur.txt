@@ -1,0 +1,216 @@
+	//ERREUR OFFICIELLE DU SITE
+	
+	if (book == 40 && chap == 12 && verset == 46)
+	{
+		if (verset_split.match(/ \[$/)) 
+			verset_split=verset_split.replace(/ \[$/,'')
+	}
+	
+	if (book == 40 && chap == 12 && verset == 47)
+	{
+		if (!verset_split.match(/^\[/)) 
+			verset_split='['+verset_split;
+	}
+	
+	if (book == 40 && chap == 14 && verset == 12)
+	{
+		//αὐτὸ [ν] | space !
+		verset_split=verset_split.replace('αὐτὸ [ν]','αὐτὸ[ν]')
+	}
+
+	if (book == 40 && chap == 21 && verset == 43)
+	{
+		if (verset_split.match(/ \[$/)) 
+			verset_split=verset_split.replace(/ \[$/,'')
+	}
+	
+	if (book == 40 && chap == 21 && verset == 44)
+	{
+		if (!verset_split.match(/^\[/)) 
+			verset_split='['+verset_split;
+	}
+	
+	if (book == 41 && chap == 3 && verset == 17)
+	{
+		//ὀνόμα [τα] | space !
+		verset_split=verset_split.replace('ὀνόμα [τα]','ὀνόμα[τα]')
+	}
+
+	if (book == 41 && chap == 4 && verset == 28)
+	{
+		//space !
+		verset_split=verset_split.replace('πλήρη [ς]','πλήρη[ς]')
+	}
+
+	if (book == 41 && chap == 16 && verset == 8)
+	{
+		//CROCHET !
+		verset_split=verset_split.replace('Πάντα δὲ τὰ παρηγγελμένα','⟦Πάντα δὲ τὰ παρηγγελμένα')
+		verset_split=verset_split.replace('σωτηρίας. ἀμήν.','σωτηρίας. ἀμήν.⟧')
+	}
+
+	
+	if (book == 41 && chap == 16 && verset == 9)
+	{
+		//CROCHET !
+		verset_split=verset_split.replace('Ἀναστὰς δὲ πρωῒ','⟦Ἀναστὰς δὲ πρωῒ')
+	}
+
+	if (book == 41 && chap == 16 && verset == 20)
+	{
+		//CROCHET !
+		verset_split=verset_split.replace('σημείων.','σημείων.⟧')
+	}
+
+
+	if (book == 42 && chap == 4 && verset == 41)
+	{
+		//space !
+		verset_split=verset_split.replace('κρ [αυγ]άζοντα','κρ[αυγ]άζοντα')
+	}
+
+	if (book == 42 && chap == 11 && verset == 10)
+	{
+		//space !
+		verset_split=verset_split.replace('ἀνοιγ [ήσ]εται','ἀνοιγ[ήσ]εται')
+	}
+	
+	if (book == 42 && chap == 19 && verset == 29)
+	{
+		//space !
+		verset_split=verset_split.replace('Βηθανία [ν]','Βηθανία[ν]')
+	}
+	
+	if (book == 42 && chap == 22 && verset == 43)
+	{
+		//space !
+		verset_split=verset_split.replace('ὤφθη δὲ','⟦ὤφθη δὲ')
+	}
+	
+	if (book == 42 && chap == 22 && verset == 44)
+	{
+		//space !
+		verset_split=verset_split.replace('ἐπὶ τὴν γῆν.','ἐπὶ τὴν γῆν.⟧')
+	}
+		
+	if (book == 42 && chap == 23 && verset == 34)
+	{
+		//space !
+		verset_split=verset_split.replace
+		('ὁ δὲ Ἰησοῦς ἔλεγεν· πάτερ, ἄφες αὐτοῖς, οὐ γὰρ οἴδασιν τί ποιοῦσιν.','⟦ὁ δὲ Ἰησοῦς ἔλεγεν· πάτερ, ἄφες αὐτοῖς, οὐ γὰρ οἴδασιν τί ποιοῦσιν.⟧')
+	}	
+	
+	
+	
+	
+	if (book == 43 && chap == 6 && verset == 23)
+	{
+		//space !
+		verset_split=verset_split.replace('πλοιά [ρια]','πλοιά[ρια]')
+	}
+	
+	if (book == 43 && chap == 7 && verset == 53)
+	{
+		//space !
+		verset_split=verset_split.replace('Καὶ ἐπορεύθησαν','⟦Καὶ ἐπορεύθησαν')
+	}
+	
+	if (book == 43 && chap == 8 && verset == 11)
+	{
+		//space !
+		verset_split=verset_split.replace('μηκέτι ἁμάρτανε.','μηκέτι ἁμάρτανε.⟧')
+	}
+	
+	if (book == 43 && chap == 19 && verset == 35)
+	{
+		//space !
+		verset_split=verset_split.replace('πιστεύ [σ]ητε.','πιστεύ[σ]ητε.')
+	}
+	
+	if (book == 43 && chap == 20 && verset == 31)
+	{
+		//space !
+		verset_split=verset_split.replace('πιστεύ [σ]ητε','πιστεύ[σ]ητε')
+	}
+	
+	
+	if (book == 44 && chap == 16 && verset == 12)
+	{
+		//space !
+		verset_split=verset_split.replace('πρώτη [ς]','πρώτη[ς]')
+	}
+	
+	
+	//NORMALIZE space !
+	if (book == 45 && chap == 15 && verset == 30)
+	{
+		verset_split=verset_split.replace('[, ἀδελφοί,]','[,ἀδελφοί,]')
+	}
+	
+	
+	
+	if (book == 45 && chap == 16 && verset == 23)
+	{
+		if (verset_split.match(/ \[$/)) 
+			verset_split=verset_split.replace(/ \[$/,'')
+	}
+
+	if (book == 45 && chap == 16 && verset == 25)
+	{
+		if (!verset_split.match(/^\[/)) 
+			verset_split='['+verset_split;
+	}
+	
+	
+	if (book == 46 && chap == 2 && verset == 4)
+	{
+		verset_split=verset_split.replace('πειθοῖ [ς]','πειθοῖ[ς]')
+	}
+	
+	
+	if (book == 46 && chap == 4 && verset == 14)
+	{
+		verset_split=verset_split.replace('νουθετῶ [ν]','νουθετῶ[ν]')
+	}
+	
+	
+	if (book == 47 && chap == 12 && verset == 15)
+	{
+		verset_split=verset_split.replace('ἀγαπῶ [ν]','ἀγαπῶ[ν]')
+	}
+
+
+
+	if (book == 58 && chap == 3 && verset == 6)
+	{
+		verset_split=verset_split.replace('ἐάν [περ]','ἐάν[περ]')
+	}
+
+	if (book == 58 && chap == 8 && verset == 6)
+	{
+		verset_split=verset_split.replace('νυν [ὶ]','νυν[ὶ]')
+	}
+
+
+	if (book == 66 && chap == 2 && verset == 25)
+	{
+		verset_split=verset_split.replace('ἄχρι [ς]','ἄχρι[ς]')
+	}
+
+
+	if (book == 66 && chap == 3 && verset == 18)
+	{
+		verset_split=verset_split.replace('κολλ [ο]ύριον','κολλ[ο]ύριον')
+	}
+
+
+	if (book == 66 && chap == 13 && verset == 1)
+	{
+		verset_split=verset_split.replace('ὀνόμα [τα]','ὀνόμα[τα]')
+	}
+	
+	if (book == 66 && chap == 17 && verset == 3)
+	{
+		verset_split=verset_split.replace('γέμον [τα]','γέμον[τα]')
+	}
+	

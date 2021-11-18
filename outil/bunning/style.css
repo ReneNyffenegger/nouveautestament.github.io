@@ -1,0 +1,51 @@
+﻿
+/* greek font */
+@font-face {font-family:KoineGreek; src:url('KoineGreek.eot?#iefix') format('embedded-opentype'), url('KoineGreek.ttf') format('truetype');}
+
+/* default elements */
+html {height:100%; font-size:16px;}
+table {border-collapse:collapse;}
+td {vertical-align:middle; line-height:1rem}
+* {margin:0;}
+
+/* collation elements */
+#collation h1 {font-family:Arial; font-size:1.66rem; margin-top:1rem;}
+#collation h2 {font-family:Arial; font-size:1rem; margin-top:1rem;}
+#collation a:link, a:visited {color:#0066CC; text-decoration:none;}
+#collation a:hover {color:#0066CC; text-decoration:underline;}
+#collation td:first-child, #collation tr:not(.intl,.rule) td:nth-child(2) {background:#E0EDFF; text-align:left; padding-left:.2rem; padding-right:.2rem; font-family:'Arial Narrow'; font-size:.83rem; white-space:nowrap;}
+#collation .rule td {background:black; color:white; text-align:center; font-family:Arial Narrow; font-size:.83rem;}
+#collation .base, #collation .intl, #collation .src, #collation .ref {border-bottom:.1rem solid; text-align:center; padding-left:.2rem; padding-right:.2rem; white-space:nowrap;}
+
+/* popup settings */
+.hover {position:relative;}
+.hover .popup {display:none; border-style:none; position:absolute; z-index:1; left:0; background:#999999; color:black; font-family:'Arial Narrow'; font-size:.83rem; white-space:nowrap;}
+.hover:hover span {display:inline-block;}
+
+/* greek text settings */
+.koine  {font-family:KoineGreek; font-size:1rem}
+.modern {font-family:NewTimesRoman;}
+.abbr   {text-decoration:overline;}
+
+/* reconstructions */
+.dam {background:silver;}
+.exp {background:black; color:white;}
+.vid {background:#500050; color:white;}
+.inc {background:#663300; color:white;}
+.sup {background:darkslateblue; color:white;}
+
+/* corrections */
+.edit {color:#FF0000;}
+.corr {color:#33AA33;}
+
+/* collation sections */
+.info {background:#E0EDFF;}                          /* 224 237 255 */
+.src  {background:#EAC17D; font-family:KoineGreek;}  /* 232 180 102 */
+.ref  {background:#F1D3A7;}                          /* 255 204 136 */
+.base {background:#F8E8D3; font-family:KoineGreek;}  /* 255 217 169  #FFD9A9 */
+.intl {background:#FFFFFF; font-family:Arial Narrow; font-size:.83rem;}
+
+/* interlinear certainty */
+.r100   {background:#F5F5F5;}
+.r50-99 {background:#CCCCCC;}
+.r0-49  {background:#999999;}

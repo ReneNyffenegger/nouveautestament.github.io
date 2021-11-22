@@ -107,11 +107,12 @@ morph[3] = morph[3].replace(/P/,'participe');
 
 
 //5
-//case (N=nominative, G=genitive, D=dative, A=accusative)
+//case (N=nominative, G=genitive, D=dative, A=accusative, V=Vocative)
 morph[4] = morph[4].replace(/N/,'nominatif');
 morph[4] = morph[4].replace(/G/,'génitif');
 morph[4] = morph[4].replace(/D/,'datif');
 morph[4] = morph[4].replace(/A/,'accusatif');
+morph[4] = morph[4].replace(/V/,'vocatif');
 
 
 //6

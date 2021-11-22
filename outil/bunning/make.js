@@ -154,7 +154,7 @@ nomsacre = {
 "πνοσ":"πνευματος",
 "πν":"πνευμα",
 "πνσι":"πνευμασι",
-"πνσ":"πνευματος_πνευματος",
+"πνσ":"πνευματος",
 "πντα":"πνευματα",
 "πντι":"πνευματι",
 "πνων":"πνευματων",
@@ -232,7 +232,7 @@ nomsacre = {
 "χρσ":"χριστος",
 "χρυ":"χριστου",
 "χρ":"χριστος_χριστου",
-"χρω":"κυριω_χριστω",
+"χρω":"χριστω",
 "χσ":"χριστος",
 "χυ":"χριστου",
 "χω":"χριστω",
@@ -684,19 +684,23 @@ for (book = 40 ; book != 67 ; book++)
 
 								
 								
+								
 
-
-
-								abbrev = linetd[mottd];
+								
 
 								
 								//check
 								//if (!linetd[mottd].match(/<span class=koine.*?>(.*?)<\/span/i)) console.log('erreur '+manuscrit+':'+lcv+"\n"+linetd[mottd]);
 								
-
-								abbrev = clean_ns(abbrev);
-								
+								abbrev = linetd[mottd]
+								abbrev = clean_ns(abbrev)
 								abbrevnew = clean_ns_for_test(abbrev)
+
+								//cntri_ns = clean_ns(tdcntri[mottd].match(/title=(.*?)>/)[1])
+								
+								//CHECK
+								//if (abbrevnew == "υι" && cntri_ns == "ιησου")console.log(lcv+' '+abbrevnew+' --> '+cntri_ns)
+
 
 								if (!nomsacre[abbrevnew])
 									console.log('\n\n\n\n\n\n\n\n\n\n\n\n\n\n : erreur nom sacre' +tbook+':'+chap+':'+verset+':'+getlivre[tbook]+':1:'+date+':'+manuscrit+' '+allmot )
@@ -714,10 +718,19 @@ for (book = 40 ; book != 67 ; book++)
 							{
 								
 								abbrev		= linetd[mottd].replace(/<.*?>/gi,"");
+
+								
+
 								abbrev		= clean_ns(abbrev);
 								abbrevnew	= clean_ns_for_test(abbrev)
+								
+								//cntri_ns = clean_ns(tdcntri[mottd].match(/title=(.*?)>/)[1])
+								
+								//CHECK
+								//if (abbrevnew == "υι" && cntri_ns == "ιησου")console.log(lcv+' '+abbrevnew+' --> '+cntri_ns)
 
 
+					
 								if (!nomsacre[abbrevnew])
 									console.log('\n\n\n\n : erreur nom sacre ----> \nLIGNE:'+linetd[mottd]+' \nABBREV:'+abbrev+' '+' \nABBREVNEW:'+abbrevnew +' \nLCV:'+tbook+':'+chap+':'+verset+':'+getlivre[tbook]+':1:'+date+':'+manuscrit+' \nALLMOT'+allmot )
 								else

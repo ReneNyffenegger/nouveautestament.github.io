@@ -36,22 +36,31 @@ book = {
 function clean(verset) {
 	
 
-
-	//verset = verset.replace(/[\.\[\]\;\᾽,\·\/#;\;!$%\^&\*;’…\⟦\⟧':{}=\-–_`~\(\) ]/g,''); //with space
-	//verset = verset.replace(/[\|a-zA-Z0-9\",-\.\/`¶\·\ʹ\ʼ\͵–‘’“”�]/g,'');
-
-	// !"'()*,-./:;?[]_`|¶·ëʹʼ–‘’“”…�
-	verset = verset.replace(/[a-zA-Z0-9\!\"'()*,-.\/:;\?\[\]_`\|¶·ëʹʼ– ‘’“”…�]/g,'');
+	verset = verset.replace(/[a-zA-Z0-9⟦⟧ˉ!"'*,-\\.\/:;᾽?\[\]`¶*+\-\/:;\··͵᾿—†↔◦⳨⸀⸁⸄⸅̣0\·ëʹʼ– ;‘’“”…�]/g,'');
 	verset = verset.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 	verset = verset.toLowerCase();
 	verset = verset.replace(/ς/ig,'σ');
 
+
+	//ϗ
+	verset = verset.replace(/ϗ/ig,'και');
 
 	return verset;
 }
 
 
 
+function multi_array(list, n = 0, result = [], current = [])
+{
+    
+	if (n == list.length) 
+		result.push(current)
+    else 
+		list[n].some(function (item) { multi_array(list, n+1, result, [...current, item])})
+ 
+    return result
+
+}
 
 
 fichier		= require('fs');
@@ -60,7 +69,7 @@ fichier2	= require('fs');
 
 
 apostolique	= fichier.readFileSync(process.argv[2], 'utf8');
-database	= fichier.readFileSync('data.txt', 'utf8');
+database	= fichier.readFileSync('../../database/database_el.txt', 'utf8');
 
 
 
@@ -71,12 +80,10 @@ lignedatabase		= database.match(/^.*$/mg);
 
 //pure line by line
 ligneapostolique_pure	= apostolique.match(/^.*$/mg);
-lignedatabase_pure	= database.match(/^.*$/mg);
 
 
 
-//CLEAN
-
+//CLEAN 1
 for (x=0 ; x!=ligneapostolique.length ; x++)
 {
 	arraysplit = ligneapostolique[x].split(' ');
@@ -88,31 +95,106 @@ for (x=0 ; x!=ligneapostolique.length ; x++)
 }
 
 
+
+
+
+
+//CLEAN 2
 for (x=0 ; x!=lignedatabase.length ; x++)
 {
 	arraysplit = lignedatabase[x].split(' ');
-	lcv = arraysplit[0];
+	
+	lcv		= arraysplit[0];
 	arraysplit.shift();
-	arraysplit = arraysplit.join('');
-	lignedatabase[x] = clean(arraysplit);
-	lignedatabase[x] = lcv +' '+ lignedatabase[x];
+	texte	= arraysplit.join('');
+	texte	= clean(texte);
+	
+	if (lignedatabase[x].indexOf('AP-CRITIQUE') == -1)
+	{
+
+
+		if (lignedatabase[x].indexOf('|(') != -1)
+		{
+			texte = texte.replace(/\|.*?\|\((.*?)\)/gi, "($1)")
+
+			
+			allnominasacra = texte.match(/(\(.*?)\)/g)
+			arrayns = []	
+
+
+			
+
+			for (nomina = 0 ; nomina != allnominasacra.length ; nomina++)
+			{
+
+				if (allnominasacra[nomina].indexOf('_') != -1)
+				{
+
+					arrayns2 = []
+					alldivunderscore = allnominasacra[nomina].slice(1,-1);
+					alldivunderscore = alldivunderscore.split('_');
+
+
+					for (divunderscore=0 ; divunderscore != alldivunderscore.length ; divunderscore++)
+					{
+						arrayns2.push(allnominasacra[nomina]+'::'+alldivunderscore[divunderscore])
+					}
+					arrayns.push(arrayns2)
+					
+				}
+				
+				
+				
+			}
+
+
+		if (lignedatabase[x].indexOf('_') != -1)
+			{
+			marrayns = multi_array(arrayns);
+			xc = 0;
+			for (xnb=0 ; xnb != marrayns.length ; xnb++)
+			{
+				newtexte = texte;
+				for (ynb=0; ynb != marrayns[xnb].length; ynb++)
+				{
+					newtexte = newtexte.replace( marrayns[xnb][ynb].split('::')[0] , marrayns[xnb][ynb].split('::')[1] )
+				}
+				xc++;
+
+				newtexte= lcv+':phrase'+xc+' '+newtexte.replace(/[()]/g,"")
+				lignedatabase.push(newtexte)
+				
+			}
+			texte = '';
+				
+
+			}
+			
+			
+			
+		}
+
+		texte = texte.replace(/[()|_]/g,"")
+
+	}
+
+
+	lignedatabase[x] = lcv +' '+ texte;
+
 }
+
 
 
 
 
 for (x0=0 ; x0!=ligneapostolique.length ; x0++)
 {
+	for (yy=0 ; yy<=ligneapostolique[x0].length-22 ; yy++)
+	{
+		getcode = ligneapostolique[x0].slice(yy,yy+22);
 	
-	
-		for (yy=0 ; yy<=ligneapostolique[x0].length-22 ; yy++)
+		for (x1 = 0 ; x1 != lignedatabase.length ; x1++)
 		{
-			getcode = ligneapostolique[x0].slice(yy,yy+22);
-
-			
-			for (x1 = 0 ; x1 != lignedatabase.length ; x1++)
-			{
-
 				
 				if (lignedatabase[x1].indexOf(getcode) != -1)
 				{
@@ -122,17 +204,8 @@ for (x0=0 ; x0!=ligneapostolique.length ; x0++)
 					console.log(num_verset_database+' '+ligneapostolique_pure[x0]);
 				}
 
-
-
-			}
-
-
-
-
-			
-			
-		}
-		
-		
-
+		}	
+	}
 }
+
+

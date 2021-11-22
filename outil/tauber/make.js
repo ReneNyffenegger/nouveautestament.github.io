@@ -31,7 +31,7 @@ getlivre = {
 
 
 
-result = fichier.readFileSync('tauber.txt', 'utf8');
+result = fichier.readFileSync('sbl-tauber.txt', 'utf8');
 lignes = result.match(/^.*$/mg);
 
 
@@ -217,7 +217,7 @@ for (ligne = 0 ; ligne != lignes.length ; ligne++)
 		//phrase
 		if (v != vb)
 		{	
-			console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2018:TAUBER '+phrase.replace(/\s+$/g,''))
+			console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2018:SBL-TAUBER '+phrase.replace(/\s+$/g,''))
 			phrase = wordm+'='+lemme+'='+morph+' ';
 			
 		}
@@ -244,13 +244,13 @@ for (ligne = 0 ; ligne != lignes.length ; ligne++)
 
 }
 
-console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2018:TAUBER '+phrase.replace(/\s+$/g,''))
+console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2018:SBL-TAUBER '+phrase.replace(/\s+$/g,''))
 
-chapitre_a[c] = verset_a;
-livre_a[l] = chapitre_a;
+//chapitre_a[c] = verset_a;
+//livre_a[l] = chapitre_a;
 
-tlivre = livre_a.length-1;
-livre_a[0]='BIBLE SBL TAUBER - '+tlivre+' livres';
+//tlivre = livre_a.length-1;
+//livre_a[0]='BIBLE SBL TAUBER - '+tlivre+' livres';
 
 
 //FILE_JSON

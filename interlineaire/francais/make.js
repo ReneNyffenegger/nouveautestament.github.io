@@ -170,7 +170,7 @@ if (xxxxx == '')
 
 		<style>
 			html {
-				background-color:	#e7e7e7;
+				
 			}
 			
 			body {

@@ -255,7 +255,9 @@ if (database_fr[line] != "")
 	//V3 1:1:1:MATTHIEU:1:2021:SEBASTIEN-D-G
 	//V4 1:1:1:MATTHIEU:1:274:PAPYRUS1
 	//V5 1:4:2:MATTHIEU:1:2:330:VATICANUS-A:BARNABAS:14.2
-	//   0 1 2 3        4 5 6   7           8        9
+	//V6 1:4:2:MATTHIEU:1:2:330:VATICANUS-A:14.2:BARNABAS
+	//V7 1:4:2:MATTHIEU:1:1:299:PAPYRUS101:1:140:I_CLEMENT:53.2 Μωϋσέως
+	//   0 1 2 3        4 5 6   7          8 9   10        11
          
 	lcvt		= database_fr[line].split(' ');
 	lcv			= lcvt[0];
@@ -270,8 +272,11 @@ if (database_fr[line] != "")
 	classement	= lcv_split[5];
 	date		= lcv_split[6];
 	traducteur	= lcv_split[7];
-	citation	= lcv_split[8];
-	ch_citation	= lcv_split[9];
+	classementc	= lcv_split[8];
+	date_cit	= lcv_split[9];
+	citation	= lcv_split[10];
+	ch_citation	= lcv_split[11];
+	
 
 
 
@@ -337,8 +342,9 @@ if (backverset != verset || (backverset == verset && backchap != chapitre))
 
 
 
+
 xxxxx += `
-<tr><td class="td1">`+traducteur+`</td><td class="td2">`+date+`</td><td>`+citation+`</td><td>`+ch_citation+`</td><td class="td3">`+texte+`</td></tr>
+<tr><td class="td1">`+traducteur+`</td><td class="td2">`+date+`</td><td>`+citation+`</td><td>`+date_cit+`</td><td>`+ch_citation+`</td><td class="td3">`+texte+`</td></tr>
 `;
 
 

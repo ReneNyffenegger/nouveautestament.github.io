@@ -33,25 +33,25 @@ getlivre = {
 4:'JEAN',
 5:'ACTES',
 6:'ROMAINS',
-7:'1 CORINTHIENS',
-8:'2 CORINTHIENS',
+7:'1CORINTHIENS',
+8:'2CORINTHIENS',
 9:'GALATES',
 10:'EPHESIENS',
 11:'PHILIPPIENS',
 12:'COLOSSIENS',
-13:'1 THESSALONICIENS',
-14:'2 THESSALONICIENS',
-15:'1 TIMOTHEE',
-16:'2 TIMOTHEE',
+13:'1THESSALONICIENS',
+14:'2THESSALONICIENS',
+15:'1TIMOTHEE',
+16:'2TIMOTHEE',
 17:'TITE',
 18:'PHILEMON',
 19:'HEBREUX',
 20:'JACQUES',
-21:'1 PIERRE',
-22:'2 PIERRE',
-23:'1 JEAN',
-24:'2 JEAN',
-25:'3 JEAN',
+21:'1PIERRE',
+22:'2PIERRE',
+23:'1JEAN',
+24:'2JEAN',
+25:'3JEAN',
 26:'JUDAS',
 27:'APOCALYPSE' }
 
@@ -98,7 +98,7 @@ for (tr = 0; tr != tr_all.length ; tr++)
 	
 	if (tr_test != ver_nb)
 	{
-		console.log('TR HTML en trop : '+book+':'+chap+':'+tr_test);
+		//console.log('TR HTML en trop : '+book+':'+chap+':'+tr_test);
 	}
 	
 	else 
@@ -106,6 +106,9 @@ for (tr = 0; tr != tr_all.length ; tr++)
 		//JSON_verset[ver_nb]=verset;
 		//JSON_verset[0]='book '+book+' chap '+chap+' vers '+ver_nb;
 		verset_a[ver_nb]=verset
+		//1:1:1:MATTHIEU:3:2:2021:ALAIN-DUMONT Livre de [la] genèse de Jésus Christ, fils de David, fils d’Abraham.
+
+		console.log(book+':'+chap+':'+ver_nb+':'+getlivre[book]+':3:2:2021:ALAIN-DUMONT '+verset.replace(/\s+/g," ").replace(/^ +| +$/g,""))
 		verset_a[0]=book+':'+ chap +':'+ ver_nb;
 	}
 
@@ -137,8 +140,6 @@ chapitre_a=[];
 }
 
 
-livre_a[0] = 'BIBLE DUMONT - '+Object.entries(livre_a).length+' livres';
-
+//livre_a[0] = 'BIBLE DUMONT - '+Object.entries(livre_a).length+' livres';
 //fs2.writeFileSync('dumont.json', JSON.stringify(JSON_livre, null, 1), 'utf8');
-
-fs2.writeFileSync('dumont.js', 'dumont='+JSON.stringify(livre_a,null,1), 'utf8');
+//fs2.writeFileSync('dumont.js', 'dumont='+JSON.stringify(livre_a,null,1), 'utf8');

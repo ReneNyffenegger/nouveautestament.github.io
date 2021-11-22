@@ -72,6 +72,22 @@ apostolique	= fichier.readFileSync(process.argv[2], 'utf8');
 database	= fichier.readFileSync('../../database/database_el.txt', 'utf8');
 
 
+splitfile = process.argv[2].split('.')[0].split('-')
+
+nbf		= parseInt(splitfile[0])
+date	= splitfile[1]
+if (splitfile.length == 4)
+nomf	= splitfile[2].toUpperCase()+'-'+splitfile[3].toUpperCase()
+else
+
+nomf	= splitfile[2].toUpperCase()
+
+
+codagetexte = ':'+nbf+':'+date+':'+nomf+':'
+
+//console.log(codagetexte)
+//15:200:mathetes-DIOGNETUS
+
 
 //line by line
 ligneapostolique	= apostolique.match(/^.*$/mg);
@@ -80,7 +96,7 @@ lignedatabase		= database.match(/^.*$/mg);
 
 //pure line by line
 ligneapostolique_pure	= apostolique.match(/^.*$/mg);
-
+lignedatabase_pure		= database.match(/^.*$/mg);
 
 
 //CLEAN 1
@@ -151,7 +167,7 @@ for (x=0 ; x!=lignedatabase.length ; x++)
 		if (lignedatabase[x].indexOf('_') != -1)
 			{
 			marrayns = multi_array(arrayns);
-			xc = 0;
+			//xc = 0;
 			for (xnb=0 ; xnb != marrayns.length ; xnb++)
 			{
 				newtexte = texte;
@@ -159,10 +175,12 @@ for (x=0 ; x!=lignedatabase.length ; x++)
 				{
 					newtexte = newtexte.replace( marrayns[xnb][ynb].split('::')[0] , marrayns[xnb][ynb].split('::')[1] )
 				}
-				xc++;
+				//xc++;
 
-				newtexte= lcv+':phrase'+xc+' '+newtexte.replace(/[()]/g,"")
+				//newtexte= lcv+'-phrase'+xc+' '+newtexte.replace(/[()]/g,"")
+				newtexte= lcv+'-NSTEST'+' '+newtexte.replace(/[()]/g,"")
 				lignedatabase.push(newtexte)
+				lignedatabase_pure.push(lignedatabase[x])
 				
 			}
 			texte = '';
@@ -189,9 +207,9 @@ for (x=0 ; x!=lignedatabase.length ; x++)
 
 for (x0=0 ; x0!=ligneapostolique.length ; x0++)
 {
-	for (yy=0 ; yy<=ligneapostolique[x0].length-22 ; yy++)
+	for (yy=0 ; yy<=ligneapostolique[x0].length-20 ; yy++)
 	{
-		getcode = ligneapostolique[x0].slice(yy,yy+22);
+		getcode = ligneapostolique[x0].slice(yy,yy+20);
 	
 		for (x1 = 0 ; x1 != lignedatabase.length ; x1++)
 		{
@@ -200,12 +218,9 @@ for (x0=0 ; x0!=ligneapostolique.length ; x0++)
 				{
 					num_verset_apostolique = ligneapostolique[x0].split(' ')[0];
 					num_verset_database = lignedatabase[x1].split(' ')[0];
-
-					console.log(num_verset_database+' '+ligneapostolique_pure[x0]);
+					console.log(num_verset_database+codagetexte+ligneapostolique_pure[x0]+' --||-- '+lignedatabase_pure[x1]);
 				}
 
 		}	
 	}
 }
-
-

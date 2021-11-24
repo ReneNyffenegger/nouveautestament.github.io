@@ -105,6 +105,7 @@ fichier2		= require('fs')
 sebastien_te	= fichier1.readFileSync('../../database/sebastien_te.txt', 'utf8').split('\n')
 sebastien_fr	= fichier1.readFileSync('../../database/sebastien_fr.txt', 'utf8').split('\n')
 tauber_te		= fichier1.readFileSync('../../database/tauber_te.txt', 'utf8').split('\n')
+robinson_te		= fichier1.readFileSync('../../database/robinson_te.txt', 'utf8').split('\n')
 ieronymus_ro	= fichier1.readFileSync('../../database/database_ro.txt', 'utf8').split('\n')
 
 xxxxx		= ''
@@ -118,11 +119,12 @@ end			= 0
 lineseb		= 0
 linejames	= 0
 linejerome	= 0
+lignerobin  = 0
 
 waitseb		= 0
 waitjames	= 0
 waitjerome	= 0
-
+waitrobin   = 0
 
 
 function convnumber(a,b,c)
@@ -154,6 +156,7 @@ while (end == 0) {
 sebastien	=	''
 james		=	''
 ieronymus	=	''
+robin		=	''
 
 
 //get line info seb
@@ -165,6 +168,7 @@ if (sebastien_te[lineseb] != "" && sebastien_te[lineseb]) {
 
 }
 
+
 //get line info james
 if (tauber_te[linejames] != "" && tauber_te[linejames]) { 
 
@@ -173,6 +177,7 @@ if (tauber_te[linejames] != "" && tauber_te[linejames]) {
 
 
 }
+
 
 //get line info ieronymus
 if (ieronymus_ro[linejerome] != "" && ieronymus_ro[linejerome]) { 
@@ -183,7 +188,18 @@ if (ieronymus_ro[linejerome] != "" && ieronymus_ro[linejerome]) {
 }
 
 
-lcvmath	= Math.min(lcvte, lcvta, lcvro).toString();
+//get line info robinson
+if (robinson_te[lignerobin] != "" && robinson_te[lignerobin]) { 
+
+	lcvrobinfo	= robinson_te[lignerobin].split(':');
+	lcvrob		= convnumber( lcvrobinfo[0] , lcvrobinfo[1] , lcvrobinfo[2]);  
+
+}
+
+
+
+
+lcvmath	= Math.min(lcvte, lcvta, lcvro, lcvrob).toString();
 
 
 
@@ -206,7 +222,7 @@ nomdulivre	= xbook[livre];
 
 
 //check wait loop
-if (lcvte != lcvta || lcvte != lcvro) {
+if (lcvte != lcvta || lcvte != lcvro || lcvte != lcvrob) {
 
 	
 	
@@ -214,11 +230,12 @@ if (lcvte != lcvta || lcvte != lcvro) {
 	lcvte = parseInt(lcvte)
 	lcvta = parseInt(lcvta)
 	lcvro = parseInt(lcvro)
+	lcvrob = parseInt(lcvrob)
 
 	//console.log(lcvmath+' '+"TE:"+lcvte+' '+"TA:"+lcvta+' '+"RO:"+lcvro)
 	//console.log(lcvmath+' '+livre+' '+chapitre+' '+verset)
 	
-	if ( lcvta > lcvte || lcvta > lcvro)
+	if ( lcvta > lcvte || lcvta > lcvro || lcvta > lcvrob)
 	{
 		waitjames = 1; 
 	}
@@ -228,7 +245,7 @@ if (lcvte != lcvta || lcvte != lcvro) {
 	}
 
 
-	if ( lcvro > lcvte || lcvro > lcvta)
+	if ( lcvro > lcvte || lcvro > lcvta || lcvro > lcvrob)
 	{
 		waitjerome = 1; 
 	}
@@ -238,7 +255,7 @@ if (lcvte != lcvta || lcvte != lcvro) {
 	}
 	
 
-	if (lcvte > lcvro || lcvte > lcvta)
+	if (lcvte > lcvro || lcvte > lcvta || lcvte > lcvrob)
 	{
 		waitseb = 1; 
 	}
@@ -248,12 +265,23 @@ if (lcvte != lcvta || lcvte != lcvro) {
 	}
 
 
+	if (lcvrob > lcvro || lcvrob > lcvta || lcvrob > lcvte)
+	{
+		waitrobin = 1; 
+	}
+	else
+	{
+		waitrobin = 0;
+	}
+
+
 }
 
 else {
 	waitseb		= 0
 	waitjames	= 0
 	waitjerome	= 0
+	waitrobin	= 0
 }
 
 
@@ -373,6 +401,11 @@ if (waitjerome == 0)
 
 
 
+
+
+
+
+//TAUBER
 if (tauber_te[linejames] != "" && tauber_te[linejames] && waitjames == 0) {
 
 
@@ -420,15 +453,81 @@ james +=`
 }
 
 
+
 }
-
-
 
 
 if (waitjames == 0)
 {
 	linejames++;
 }
+
+
+
+
+
+
+
+
+//ROBINSON
+if (robinson_te[lignerobin] != "" && robinson_te[lignerobin] && waitrobin == 0) {
+
+
+
+	
+	lcvrobinfo	= robinson_te[lignerobin].split(' ')
+
+
+	texterob = robinson_te[lignerobin].replace(lcvrobinfo[0]+' ',"").split(' ');
+
+
+
+
+if (texteta != "")
+{
+
+
+
+//CREATION TR SPAN
+for (s = 0 ; s != texterob.length ; s++)
+{
+	if (texterob[s].split('=')[2].match(/,/))
+	{
+		lem1a = texterob[s].split('=')[2].split(',')[0];
+		lem2a = texterob[s].split('=')[2].replace(lem1a+',',"");
+	}
+
+	else
+	{
+		lem1a = texterob[s].split('=')[2];
+		lem2a = '-';
+	}
+
+
+robin +=`
+<div class="int">
+<span class="el">`+texterob[s].split('=')[0]+`</span>
+<span class="info">`+lem1a+`</span>
+<span class="subinfo">`+lem2a+`</span>
+<span class="lemme">`+texterob[s].split('=')[1]+`</span>
+</div>
+`
+
+}
+}
+
+
+
+}
+
+
+if (waitrobin == 0)
+{
+	lignerobin++;
+}
+
+
+
 
 
 
@@ -634,11 +733,13 @@ xxxxx += `
 
 //add tr 3
 xxxxx += `
-<tr><td class="td1">IERONYMUYS</td><td class="td2">2007</td><td class="td3">`+ieronymus+`</td></tr>
+<tr><td class="td1">ROBINSON</td><td class="td2">2019</td><td class="td3">`+robin+`</td></tr>
 `;
 
-
-
+//add tr 4
+xxxxx += `
+<tr><td class="td1">IERONYMUYS</td><td class="td2">2007</td><td class="td3">`+ieronymus+`</td></tr>
+`;
 
 //check livre chapitre verset
 backlivre	= livre;
@@ -650,7 +751,7 @@ backverset	= verset;
 
 
 //END FILES
-if ( lineseb+1 == sebastien_te.length && linejames+1 == tauber_te.length)
+if ( lineseb+1 == sebastien_te.length && linejames+1 == tauber_te.length && lignerobin+1 == robinson_te.length)
 {
 
 	//add end chapter

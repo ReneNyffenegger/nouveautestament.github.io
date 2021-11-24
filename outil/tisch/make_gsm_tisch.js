@@ -84,47 +84,6 @@ livre_avant	= 1;
 
 
 
-mmm = {
-
-'N-':'nom',
-'A-':'adjectif',
-'T-':'article',
-'V-':'verbe',
-'P-':'pronom-personnel',
-'R-':'pronom-relatif',
-'C-':'pronom-réciproque',
-'D-':'pronom-démonstratif',
-'K-':'pronom-corrélatif',
-'I-':'pronom-interrogatif',
-'X-':'pronom-indéfini',
-'Q-':'pronom-corrélatif-ou-interrogatif',
-'F-':'pronom-réfléchi',
-'S-':'pronom-possessif',
-'ADV':'adverbe',
-'CONJ':'conjonction',
-'COND':'cond',
-'PRT':'particule',
-'PREP':'préposition',
-'INJ':'interjection',
-'ARAM':'araméen',
-'HEB':'hébreu',
-'N-PRI':'nompropre-indéclinable',
-'A-NUI':'chiffre-indéclinable',
-'N-LI':'lettre-indéclinable',
-'N-OI':'nom-autre-type-indéclinable',
-
-}
-
-mmmend = {
-'-S':'superlatif',
-'-C':'comparatif',
-'-ABB':'abrégé',
-'-I':'interrogatif',
-'-N':'négatif',
-'-ATT':'attique',
-'-P':'particule-attachée',
-'-K':'crase',
-}
 
 line = result.match(/^.*$/mg);
 
@@ -204,76 +163,6 @@ for (nb=0;nb!=line.length;nb++)
 					JSON_TISCH_livre[livre_avant] = JSON_TISCH_chapitre;
 					JSON_TISCH_chapitre = []
 			}
-
-
-
-
-/*********
-
-make morph
-
-*********/
-
-
-if (mmm[morph])
-morph = mmm[morph]
-
-
-else if (morph.match(/-/))
-{
-
-
-
-//split
-splitm = morph.split('-');
-
-//mmm1
-if (mmm[splitm[0]+'-'])
-morph = mmm[splitm[0]+'-']
-
-
-if (morph == "V-")
-{
-
-
-}
-
-
-
-else
-{
-
-
-
-
-
-if (splitm[2])
-{
-//mmm2
-if (mmmend['-'+splitm[2]]) 
-morph += mmmend['-'+splitm[2]]
-}
-
-
-
-
-
-
-}
-
-
-
-
-
-}
-else
-{
-
-console.log('nooooooooooooooooooooooooooooooo'+morph)
-
-
-}
-
 
 
 

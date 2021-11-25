@@ -31,7 +31,7 @@ getlivre = {
 
 
 
-result = fichier.readFileSync('byzantine.txt', 'utf8');
+result = fichier.readFileSync('robinson.txt', 'utf8');
 lignes = result.match(/^.*$/mg);
 
 
@@ -92,12 +92,17 @@ for (ligne = 0 ; ligne != lignes.length ; ligne++)
 		//phrase
 		if (ve != vb)
 		{	
-			console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2019:ROBINSON-ET-PIERPONT '+phrase.replace(/\s+$/g,''))
-			phrase = el+'='+le+'='+mo+' ';
+			//console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2019:ROBINSON-ET-PIERPONT '+phrase.replace(/\s+$/g,''))
+			console.log(phrase.replace(/\s+$/g,''))
+			
+			//phrase = el+'='+le+'='+mo+' ';
+			phrase = el+' ';
 			
 		}
 		else
-			phrase += el+'='+le+'='+mo+' ';
+			phrase += el+' ';
+		//phrase += el+'='+le+'='+mo+' ';
+			
 
 		
 		//add verset
@@ -119,5 +124,5 @@ for (ligne = 0 ; ligne != lignes.length ; ligne++)
 
 }
 
-console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2019:ROBINSON-ET-PIERPONT '+phrase.replace(/\s+$/g,''))
-
+//console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2019:ROBINSON-ET-PIERPONT '+phrase.replace(/\s+$/g,''))
+console.log(phrase.replace(/\s+$/g,''))

@@ -192,15 +192,22 @@ if (ieronymus_ro[linejerome] != "" && ieronymus_ro[linejerome]) {
 if (robinson_te[lignerobin] != "" && robinson_te[lignerobin]) { 
 
 	lcvrobinfo	= robinson_te[lignerobin].split(':');
-	lcvrob		= convnumber( lcvrobinfo[0] , lcvrobinfo[1] , lcvrobinfo[2]);  
+	lcvrob		= convnumber( lcvrobinfo[0] , lcvrobinfo[1] , lcvrobinfo[2]);
 
 }
 
 
 
 
+
 lcvmath	= Math.min(lcvte, lcvta, lcvro, lcvrob).toString();
 
+
+
+lcvte = parseInt(lcvte)
+lcvta = parseInt(lcvta)
+lcvro = parseInt(lcvro)
+lcvrob = parseInt(lcvrob)
 
 
 
@@ -221,18 +228,15 @@ nomdulivre	= xbook[livre];
 
 
 
+	
+
+
+
 //check wait loop
 if (lcvte != lcvta || lcvte != lcvro || lcvte != lcvrob) {
 
-	
-	
 
-	lcvte = parseInt(lcvte)
-	lcvta = parseInt(lcvta)
-	lcvro = parseInt(lcvro)
-	lcvrob = parseInt(lcvrob)
-
-	//console.log(lcvmath+' '+"TE:"+lcvte+' '+"TA:"+lcvta+' '+"RO:"+lcvro)
+	//console.log('3 '+lcvmath+' TE:'+lcvte+' TA:'+lcvta+' RO:'+lcvro+' ROB'+lcvrob)
 	//console.log(lcvmath+' '+livre+' '+chapitre+' '+verset)
 	
 	if ( lcvta > lcvte || lcvta > lcvro || lcvta > lcvrob)
@@ -288,10 +292,7 @@ else {
 
 
 
-
-
-
-
+//console.log(lcvmath+' TE:'+lcvte+' TA:'+lcvta+' RO:'+lcvro+' ROB'+lcvrob)
 
 
 if (sebastien_te[lineseb] != "" && sebastien_te[lineseb] && waitseb == 0) {
@@ -308,8 +309,8 @@ if (sebastien_te[lineseb] != "" && sebastien_te[lineseb] && waitseb == 0) {
 	tesplit		= lcvteinfo[0].split(':');
 	frsplit		= lcvfrinfo[0].split(':');
 
-	lcvte		= tesplit[0]+':'+tesplit[1]+':'+tesplit[2].split(':');
-	lcvfr		= frsplit[0]+':'+frsplit[1]+':'+frsplit[2].split(':');
+	lcvtecheck		= tesplit[0]+':'+tesplit[1]+':'+tesplit[2].split(':');
+	lcvfrcheck		= frsplit[0]+':'+frsplit[1]+':'+frsplit[2].split(':');
 	
 
 
@@ -318,7 +319,7 @@ if (sebastien_te[lineseb] != "" && sebastien_te[lineseb] && waitseb == 0) {
 
 
 //CHECKS
-if (lcvte != lcvfr)
+if (lcvtecheck != lcvfrcheck)
 	console.log('erreur')
 if (textete.length != textefr.length)
 	console.log('erreur')
@@ -368,7 +369,7 @@ sebastien +=`
 
 
 
-if (waitseb == 0)
+if (waitseb == 0 && lineseb != sebastien_te.length-1)
 {
 	lineseb++;
 }
@@ -383,9 +384,6 @@ if (ieronymus_ro[linejerome] != "" && ieronymus_ro[linejerome] && waitjerome == 
 
 	textero = ieronymus_ro[linejerome].replace(lcvroinfo[0]+' ',"");
 
-	rosplit		= lcvroinfo[0].split(':');
-
-	lcvro		= rosplit[0]+':'+rosplit[1]+':'+rosplit[2].split(':');
 
 	if (textero != "")
 	{
@@ -394,7 +392,7 @@ if (ieronymus_ro[linejerome] != "" && ieronymus_ro[linejerome] && waitjerome == 
 
 }
 
-if (waitjerome == 0)
+if (waitjerome == 0 && linejerome != ieronymus_ro.length-1)
 {
 	linejerome++;
 }
@@ -457,7 +455,7 @@ james +=`
 }
 
 
-if (waitjames == 0)
+if (waitjames == 0 && linejames != tauber_te.length-1)
 {
 	linejames++;
 }
@@ -521,7 +519,7 @@ robin +=`
 }
 
 
-if (waitrobin == 0)
+if (waitrobin == 0 && lignerobin != robinson_te.length-1)
 {
 	lignerobin++;
 }
@@ -733,7 +731,7 @@ xxxxx += `
 
 //add tr 3
 xxxxx += `
-<tr><td class="td1">ROBINSON</td><td class="td2">2019</td><td class="td3">`+robin+`</td></tr>
+<tr><td class="td1">ROBINSON<br>ULRIK</td><td class="td2">2019</td><td class="td3">`+robin+`</td></tr>
 `;
 
 //add tr 4
@@ -747,11 +745,12 @@ backchap	= chapitre;
 backverset	= verset;
 
 
+//console.log(lineseb+' '+sebastien_te.length+' '+lignerobin+' '+robinson_te.length+' '+linejerome+' '+ieronymus_ro.length)
 
 
 
 //END FILES
-if ( lineseb+1 == sebastien_te.length && linejames+1 == tauber_te.length && lignerobin+1 == robinson_te.length)
+if ( lineseb == sebastien_te.length-1 && linejames == tauber_te.length-1 && lignerobin == robinson_te.length-1 && linejerome == ieronymus_ro.length-1)
 {
 
 	//add end chapter

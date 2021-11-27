@@ -91,43 +91,131 @@ chbook = {
 }
 
 
+function convnumber(a,b,c)
+{
+	if (a.length == 1) a = '0'+a;
+	if (b.length == 1) b = '0'+b;
+	if (c.length == 1) c = '0'+c;
+
+	return a+b+c;
+}
+
 
 //FICHIER LIGNE PAR LIGNE
 fichier1	= require('fs');
 fichier2	= require('fs');
-database_fr	= fichier1.readFileSync('../../database/database_fr.txt', 'utf8').split('\n');
+
+database_fr	= fichier1.readFileSync('../../database/database_fr.txt', 'utf8').split(/\r?\n/);
+sebastien	= fichier1.readFileSync('../../database/sebastien_fr.txt', 'utf8').replace(/#/g,' ').split(/\r?\n/);
 
 
 xxxxx		= '';
 backchap	= 1;
 backlivre	= 1;
 backverset	= 0;
+end			= 0;
+
+
+linedb = 0
+linese = 0
+
+waitdb = 0
+waitse = 0
+
 
 
 //BOUCLE LES LIGNES
-for(line = 0 ; line != database_fr.length ; line++)
-{
-if (database_fr[line] != "")
-{
-	//V1 1:1:1:MATTHIEU:Sébastien:2021
-	//V2 1:1:1:MATTHIEU:1:SEBASTIEN-D-G:2021
-	//V3 1:1:1:MATTHIEU:1:2021:SEBASTIEN-D-G
-	//V4 1:1:1:MATTHIEU:3:1:2021:SEBASTIEN-D-G Bible
-	//   0 1 2 3        4 5 6    7
+while (end == 0) {
 	
-	lcvt		= database_fr[line].split(' ');
-	lcv			= lcvt[0];
-	texte		= database_fr[line].replace(lcv,"");
 	
-	lcv_split	= lcv.split(':');
-	livre		= lcv_split[0];
-	chapitre	= lcv_split[1];
-	verset		= lcv_split[2];
-	nomdulivre	= lcv_split[3];
-	langue		= lcv_split[4];
-	classement	= lcv_split[5];
-	date		= lcv_split[6];
-	traducteur	= lcv_split[7];
+	
+	
+//get line info seb
+if (sebastien[linese] != "" && sebastien[linese]) { 
+
+	lcvseinfo	= sebastien[linese].split(':');
+	lcvse = convnumber( lcvseinfo[0] , lcvseinfo[1] , lcvseinfo[2] );
+
+
+}
+
+
+//get line info db
+if (database_fr[linedb] != "" && database_fr[linedb]) { 
+
+	lcvdbinfo	= database_fr[linedb].split(':');
+	lcvdb		= convnumber( lcvdbinfo[0] , lcvdbinfo[1] , lcvdbinfo[2] );
+
+
+}
+
+
+
+lcvmath	= Math.min(lcvse, lcvdb).toString();
+
+lcvse = parseInt(lcvse)
+lcvdb = parseInt(lcvdb)
+
+
+if (lcvmath.length == 5 )
+{
+livre		= parseInt(lcvmath[0]);
+chapitre	= parseInt(lcvmath[1]+lcvmath[2]);
+verset		= parseInt(lcvmath[3]+lcvmath[4]);
+}
+else if (lcvmath.length == 6)
+{
+livre		= parseInt(lcvmath[0]+lcvmath[1]);
+chapitre	= parseInt(lcvmath[2]+lcvmath[3]);
+verset		= parseInt(lcvmath[4]+lcvmath[5]);
+}
+nomdulivre	= xbook[livre];
+
+
+
+
+
+
+
+
+
+
+
+//check wait loop
+if (lcvse != lcvdb) {
+
+
+	
+	//console.log(lcvmath+' '+livre+' '+chapitre+' '+verset)
+	
+	if ( lcvse > lcvdb)
+	{
+		waitse = 1; 
+	}
+	else
+	{
+		waitse = 0; 
+	}
+
+
+	if ( lcvdb > lcvse)
+	{	
+		waitdb = 1; 
+	}
+
+}
+
+else {
+	waitse	= 0
+	waitdb	= 0
+
+}
+
+
+
+
+
+
 
 
 
@@ -274,9 +362,116 @@ if (backverset != verset)
 
 
 
-xxxxx += `
+
+
+
+
+//SEB
+if (sebastien[linese] != "" && sebastien[linese] && waitse == 0)
+{
+	//V1 1:1:1:MATTHIEU:Sébastien:2021
+	//V2 1:1:1:MATTHIEU:1:SEBASTIEN-D-G:2021
+	//V3 1:1:1:MATTHIEU:1:2021:SEBASTIEN-D-G
+	//V4 1:1:1:MATTHIEU:3:1:2021:SEBASTIEN-D-G Bible
+	//   0 1 2 3        4 5 6    7
+	
+	lcvt		= sebastien[linese].split(' ');
+	lcv			= lcvt[0];
+	texte		= sebastien[linese].replace(lcv,"");
+	
+	lcv_split	= lcv.split(':');
+	//livre		= lcv_split[0];
+	//chapitre	= lcv_split[1];
+	//verset		= lcv_split[2];
+	//nomdulivre	= lcv_split[3];
+	langue		= lcv_split[4];
+	classement	= lcv_split[5];
+	date		= lcv_split[6];
+	traducteur	= lcv_split[7];
+
+
+	xxxxx += `
 <tr><td class="td1">`+traducteur+`</td><td class="td2">`+date+`</td><td class="td3">`+texte+`</td></tr>
 `;
+
+	//lcvseinfo	= database_fr[linedb].split(' ')
+
+	//textese		= database_fr[linedb].replace(lcvseinfo[0]+' ',"");
+
+
+}
+
+if (waitse == 0 && linese != sebastien.length-1)
+{
+	linese++;
+}
+
+
+
+
+
+
+
+
+
+
+//DB
+if (database_fr[linedb] != "" && database_fr[linedb] && waitdb == 0)
+{
+	//V1 1:1:1:MATTHIEU:Sébastien:2021
+	//V2 1:1:1:MATTHIEU:1:SEBASTIEN-D-G:2021
+	//V3 1:1:1:MATTHIEU:1:2021:SEBASTIEN-D-G
+	//V4 1:1:1:MATTHIEU:3:1:2021:SEBASTIEN-D-G Bible
+	//   0 1 2 3        4 5 6    7
+	
+	lcvt		= database_fr[linedb].split(' ');
+	lcv			= lcvt[0];
+	texte		= database_fr[linedb].replace(lcv,"");
+	
+	lcv_split	= lcv.split(':');
+	//livre		= lcv_split[0];
+	//chapitre	= lcv_split[1];
+	//verset		= lcv_split[2];
+	//nomdulivre	= lcv_split[3];
+	langue		= lcv_split[4];
+	classement	= lcv_split[5];
+	date		= lcv_split[6];
+	traducteur	= lcv_split[7];
+
+	
+	xxxxx += `
+<tr><td class="td1">`+traducteur+`</td><td class="td2">`+date+`</td><td class="td3">`+texte+`</td></tr>
+`;
+
+
+	//lcvseinfo	= database_fr[linedb].split(' ')
+
+	//textese		= database_fr[linedb].replace(lcvseinfo[0]+' ',"");
+
+
+}
+
+if (waitdb == 0 && linedb != database_fr.length-1)
+{
+	linedb++;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -286,17 +481,36 @@ xxxxx += `
 backlivre	= livre;
 backchap	= chapitre;
 backverset	= verset;
-}
+
+
+
+
+
+//END FILES
+if ( linese == sebastien.length-1 && linedb == database_fr.length-1)
+{
+
+	//add end chapter
+	intro_ver='';
+	for (nb=0;nb!=backverset;nb++)
+	{
+		nb_for=nb+1;
+		intro_ver+='<a href="#V'+nb_for+'">V'+nb_for+'</a>&ensp;';
+	}
+	xxxxx = xxxxx.replace("----VERSET----",intro_ver+"<br><br>");
+	fichier2.writeFileSync(backlivre+'-'+backchap+'.html',xxxxx+'</tbody></table><br></body></html>', 'utf8');
+
+	end = 1
+
+
 }
 
-intro_ver='';
-for (nb=0;nb!=backverset;nb++)
-{
-	nb_for=nb+1;
-	intro_ver+='<a href="#V'+nb_for+'">V'+nb_for+'</a>&ensp;';
+
+
+
+
+
 }
-xxxxx = xxxxx.replace("----VERSET----",intro_ver+"<br><br>");
-fichier2.writeFileSync(backlivre+'-'+backchap+'.html',xxxxx+'</tbody></table><br></body></html>', 'utf8');
 
 
 

@@ -207,9 +207,9 @@ for (x=0 ; x!=lignedatabase.length ; x++)
 
 for (x0=0 ; x0!=ligneapostolique.length ; x0++)
 {
-	for (yy=0 ; yy<=ligneapostolique[x0].length-20 ; yy++)
+	for (yy=0 ; yy<=ligneapostolique[x0].length-15 ; yy++)
 	{
-		getcode = ligneapostolique[x0].slice(yy,yy+20);
+		getcode = ligneapostolique[x0].slice(yy,yy+15);
 	
 		for (x1 = 0 ; x1 != lignedatabase.length ; x1++)
 		{

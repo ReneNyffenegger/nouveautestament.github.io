@@ -731,12 +731,12 @@ xxxxx += `
 
 //add tr 3
 xxxxx += `
-<tr><td class="td1">ROBINSON<br>ULRIK</td><td class="td2">2019</td><td class="td3">`+robin+`</td></tr>
+<tr><td class="td1">PIERPONT<br>ROBINSON<br>ULRIK</td><td class="td2">2019</td><td class="td3">`+robin+`</td></tr>
 `;
 
 //add tr 4
 xxxxx += `
-<tr><td class="td1">IERONYMUYS</td><td class="td2">2007</td><td class="td3">`+ieronymus+`</td></tr>
+<tr><td class="td1">IERONYMUS</td><td class="td2">2007</td><td class="td3">`+ieronymus+`</td></tr>
 `;
 
 //check livre chapitre verset

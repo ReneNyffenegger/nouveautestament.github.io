@@ -726,12 +726,12 @@ xxxxx += `
 
 //add tr 2
 xxxxx += `
-<tr><td class="td1">SBL<br>TAUBER</td><td class="td2">2018</td><td class="td3">`+james+`</td></tr>
+<tr><td class="td1">SBL</td><td class="td2">2018</td><td class="td3">`+james+`</td></tr>
 `;
 
 //add tr 3
 xxxxx += `
-<tr><td class="td1">PIERPONT<br>ROBINSON<br>ULRIK</td><td class="td2">2019</td><td class="td3">`+robin+`</td></tr>
+<tr><td class="td1">ROBINSON-ET-PIERPONT</td><td class="td2">2019</td><td class="td3">`+robin+`</td></tr>
 `;
 
 //add tr 4

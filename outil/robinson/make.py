@@ -186,9 +186,10 @@ class Verse:
             
             convstrong  = unicode(convstrong, 'utf-8')
             morph       = unicode(morph, 'utf-8')
-            print >> f, ("%s %s %s %s %s %s %s %s" % (booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs , convstrong, w.parsing, morph)).encode("utf-8")
-            #MixedCaseBETAtoBETAtranslateWithStar(w.surface) : beta code
-            #w.prefix : {W} . {C} . 
+            #print >> f, ("%s %s %s %s %s %s %s %s" % (booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs , convstrong, w.parsing, morph)).encode("utf-8")
+            MixedCaseBETAtoBETAtranslateWithStar(w.surface)
+            w.prefix
+            print ("%s %s %s %s %s %s %s %s" % (booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs , convstrong, w.parsing, morph)).encode("utf-8")
             #print filename, booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs, convstrong, w.parsing, morph #.encode("utf-8")
             #print filename, booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs, convstrong, w.parsing, morph #.encode("utf-8")
 

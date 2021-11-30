@@ -6,10 +6,12 @@ file1		= require('fs')
 file2		= require('fs')
 fs			= require('../database/lemme.js')
 
-sebastien	= file1		.readFileSync('../database/sebastien_te.txt',"utf-8")
-sebastien	= sebastien	.split('\n')
+sebastien_te	= file1		.readFileSync('../database/sebastien_te.txt',"utf-8")
+sebastien_te	= sebastien_te	.split('\n')
 
 
+sebastien_fr	= file1			.readFileSync('../database/sebastien_fr.txt',"utf-8")
+sebastien_fr	= sebastien_fr	.split('\n')
 
 
 //HTML
@@ -26,7 +28,7 @@ intro = `<!DOCTYPE html>
 
 		<style>
 			html {
-				
+				font-size:	15px;
 			}
 			
 			body {
@@ -50,9 +52,15 @@ intro = `<!DOCTYPE html>
 			.c {
 				background-color:	yellow;
 			}
+			
+			.l {
+				font-size:13px;
+			}
+			
 			td {
 				padding-left:		10px;
 			}
+			
 			tr:hover {
 				background-color:	#f6f8fa;
 			}			
@@ -96,32 +104,57 @@ for (lem in lemme)
 
 
 
-	for (l = 0 ; l != sebastien.length ; l++)
+	for (l = 0 ; l != sebastien_te.length ; l++)
 	{     
 		
-		if (sebastien[l].indexOf('='+lem+'=') != -1)
+		if (sebastien_te[l].indexOf('='+lem+'=') != -1)
 		{
+				
+			te		= sebastien_te[l].split(' ');
+			fr		= sebastien_fr[l].split(' ');
 			
+			lcvteinfo	= te[0].split(':');
+			lcvfrinfo	= fr[0].split(':');
 
-			splitline	= sebastien[l].split(' ')
-			debline		= splitline[0].split(':');
-			lcv = debline[3]+' '+debline[1]+' '+debline[2]+'<br>'
-
+			lcvte = lcvteinfo[0]+':'+lcvteinfo[1]+':'+lcvteinfo[2]
+			lcvfr = lcvfrinfo[0]+':'+lcvfrinfo[1]+':'+lcvfrinfo[2]
+			
+			//check 3
+			if (lcvte != lcvfr)
+				console.log(lcvte + ' '+ lcvfr)
+		
+		
+			textete = sebastien_te[l].replace(te[0]+' ', "").split(' ')
+			textefr = sebastien_fr[l].replace(fr[0]+' ', "").split('#')
+			
+			
+			lcv = '<br>'+lcvteinfo[3]+' '+lcvteinfo[1]+' '+lcvteinfo[2]+'<br>'
+			
 			main += '<b>'+lcv+'</b>'
 			
-			line = ''
-			for (y=1 ; y!=splitline.length ; y++)
+			
+			
+			elline = ''
+			frline = ''
+			for (y=0 ; y!=textete.length ; y++)
 			{
-				split2 = splitline[y].split('=')
+				split2 = textete[y].split('=')
 				
 				if (split2[1] == lem)
-					line += '<span class="c">'+split2[0]+'</span> '
+				{
+					elline += '<span class="c">'+split2[0]+'</span><span class="l">('+split2[2]+')</span> '
+					frline += '<span class="c">'+textefr[y]+'</span> '
+				}
 				else
-					line += split2[0]+' '
+				{
+					elline += split2[0]+' '
+					frline += textefr[y]+' '
+				}
+				
 				
 			}
 
-			main += line+'<br><br>\n' 
+			main += elline+'<br><br>'+frline+'<br><br>\n' 
 
 		}
 		

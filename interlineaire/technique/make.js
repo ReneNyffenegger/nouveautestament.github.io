@@ -357,7 +357,7 @@ sebastien +=`
 <span class="fr">`+textefr[s]+`</span>
 <span class="info">`+lem1+`</span>
 <span class="subinfo">`+lem2+`</span>
-<span class="lemme">`+textete[s].split('=')[1]+`</span>
+<span class="lemme"><a target="_blank" href="../../lemme/`+textete[s].split('=')[1]+`.html">`+textete[s].split('=')[1]+`</a></span>
 </div>
 `
 

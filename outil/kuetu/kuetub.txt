@@ -835,7 +835,7 @@
 1:24:22:MATTHIEU:3:15:2021:SHORA-KUETU Et si ces jours n'étaient abrégés, aucune chair ne serait sauvée, mais à cause des élus, ces jours seront abrégés.
 1:24:23:MATTHIEU:3:15:2021:SHORA-KUETU Alors si quelqu'un vous dit : Voyez ! Le Mashiah est ici, ou bien : Là ! Ne le croyez pas.
 1:24:24:MATTHIEU:3:15:2021:SHORA-KUETU Car il s'élèvera de faux mashiah et de faux prophètes, et ils donneront de grands signes et des miracles pour égarer, s'il était possible, même les élus.
-1:24:25:MATTHIEU:3:15:2021:SHORA-KUETU Voici, je vous l'ai prédit.
+1:24:25:MATTHIEU:3:15:2021:SHORA-KUETU Voici, je vous l'ai dit d'avance.
 1:24:26:MATTHIEU:3:15:2021:SHORA-KUETU Si donc ils vous disent : « Voici, il est dans le désert ! » N'y allez pas ! « Voici, il est dans les chambres ! » Ne le croyez pas.
 1:24:27:MATTHIEU:3:15:2021:SHORA-KUETU Car, comme l'éclair sort de l'orient et brille jusqu'en occident, il en sera de même de la parousie du Fils d'humain.
 1:24:28:MATTHIEU:3:15:2021:SHORA-KUETU Car là où est le cadavre, là se rassembleront les aigles.
@@ -874,7 +874,7 @@
 1:25:10:MATTHIEU:3:15:2021:SHORA-KUETU Or pendant qu'elles allaient en acheter, l'époux arriva. Celles qui étaient prêtes entrèrent avec lui dans la salle des noces, et la porte fut fermée.
 1:25:11:MATTHIEU:3:15:2021:SHORA-KUETU Mais plus tard viennent aussi les autres vierges disant : Seigneur, Seigneur, ouvre-nous !
 1:25:12:MATTHIEU:3:15:2021:SHORA-KUETU Mais répondant, il dit : Amen, je vous le dis, je ne vous connais pas.
-1:25:13:MATTHIEU:3:15:2021:SHORA-KUETU Veillez donc, car vous ne savez ni le jour ni l'heure où le Fils d'humain viendra.
+1:25:13:MATTHIEU:3:15:2021:SHORA-KUETU Veillez donc, car vous ne savez ni le jour ni l'heure où le Fils d'humain vient.
 1:25:14:MATTHIEU:3:15:2021:SHORA-KUETU Car il en sera comme d'un homme qui, partant pour un voyage, appela ses esclaves et leur remit ses biens.
 1:25:15:MATTHIEU:3:15:2021:SHORA-KUETU Il donna à l'un cinq talents, à l'autre deux, et au troisième un, à chacun selon sa propre capacité, et immédiatement après il partit.
 1:25:16:MATTHIEU:3:15:2021:SHORA-KUETU Mais celui qui avait reçu les cinq talents s'en alla, les fit valoir et gagna cinq autres talents.
@@ -956,13 +956,13 @@
 1:26:46:MATTHIEU:3:15:2021:SHORA-KUETU Levez-vous, allons ! Voici, celui qui me livre s'approche.
 1:26:47:MATTHIEU:3:15:2021:SHORA-KUETU Et comme il parlait encore, voici, Yéhouda, l'un des douze, vint, et avec lui, une grande foule avec des épées et des bâtons, de la part des principaux prêtres et des anciens du peuple.
 1:26:48:MATTHIEU:3:15:2021:SHORA-KUETU Or celui qui le livrait leur avait donné un signe, en disant : Celui à qui je donnerai un baiser, c'est lui, saisissez-le !
-1:26:49:MATTHIEU:3:15:2021:SHORA-KUETU Et aussitôt, s'approchant de Yéhoshoua, il lui dit : Rabbi, je te salue ! Et il l'embrassa tendrement.
+1:26:49:MATTHIEU:3:15:2021:SHORA-KUETU Et immédiatement, s'approchant de Yéhoshoua, il lui dit : Rabbi, je te salue ! Et il l'embrassa tendrement.
 1:26:50:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua lui dit : Compagnon, pour quel sujet es-tu ici ? Alors s'étant approchés, ils mirent les mains sur Yéhoshoua et le saisirent.
 1:26:51:MATTHIEU:3:15:2021:SHORA-KUETU Et voici l'un de ceux qui étaient avec Yéhoshoua, ayant étendu la main, tira son épée et, ayant frappé l'esclave du grand-prêtre, lui emporta l'oreille.
-1:26:52:MATTHIEU:3:15:2021:SHORA-KUETU Alors Yéhoshoua lui dit : Remets ton épée à sa place, car tous ceux qui prendront l'épée, périront par l'épée.
+1:26:52:MATTHIEU:3:15:2021:SHORA-KUETU Alors Yéhoshoua lui dit : Remets ton épée à sa place, car tous ceux qui auront pris l'épée périront par l'épée.
 1:26:53:MATTHIEU:3:15:2021:SHORA-KUETU Penses-tu que je ne puisse pas maintenant appeler mon Père, et il m'offrira à l'instant plus de douze légions d'anges ?
-1:26:54:MATTHIEU:3:15:2021:SHORA-KUETU Comment donc s'accompliraient les Écritures ? Il faut qu’il en arrive ainsi !
-1:26:55:MATTHIEU:3:15:2021:SHORA-KUETU À cette heure-là, Yéhoshoua dit aux foules : Vous êtes venus avec des épées et des bâtons, comme après un brigand, pour me prendre. J'étais tous les jours assis parmi vous, enseignant dans le temple, et vous ne m'avez pas saisi.
+1:26:54:MATTHIEU:3:15:2021:SHORA-KUETU Comment donc s'accompliraient les Écritures, puisqu'il faut que cela arrive ainsi ?
+1:26:55:MATTHIEU:3:15:2021:SHORA-KUETU En cette heure-là, Yéhoshoua dit aux foules : Vous êtes venus avec des épées et des bâtons, comme après un brigand, pour me prendre. J'étais tous les jours assis parmi vous, enseignant dans le temple, et vous ne m'avez pas saisi.
 1:26:56:MATTHIEU:3:15:2021:SHORA-KUETU Mais tout ceci est arrivé afin que les Écritures des prophètes soient accomplies. Alors tous les disciples l'abandonnèrent et s'enfuirent.
 1:26:57:MATTHIEU:3:15:2021:SHORA-KUETU Et ceux qui avaient saisi Yéhoshoua l'amenèrent chez Kaïaphas, le grand-prêtre, où les scribes et les anciens étaient rassemblés.
 1:26:58:MATTHIEU:3:15:2021:SHORA-KUETU Et Petros le suivit de loin jusqu'à la cour du grand-prêtre, y entra et s'assit avec les officiers pour voir comment cela finirait.
@@ -1593,7 +1593,7 @@
 2:13:20:MARC:3:15:2021:SHORA-KUETU Et si le Seigneur n'avait abrégé ces jours, nulle chair ne serait sauvée. Mais, il a abrégé ces jours à cause des élus qu'il a choisis.
 2:13:21:MARC:3:15:2021:SHORA-KUETU Et alors si quelqu'un vous dit : Voici, le Mashiah est ici. Ou : Voici, il est là. Ne le croyez pas.
 2:13:22:MARC:3:15:2021:SHORA-KUETU Car il s'élèvera des faux mashiah et des faux prophètes et ils donneront des signes et des miracles pour égarer, s'il était possible, même les élus.
-2:13:23:MARC:3:15:2021:SHORA-KUETU Mais soyez sur vos gardes, voici, je vous ai tout annoncé d'avance.
+2:13:23:MARC:3:15:2021:SHORA-KUETU Mais soyez sur vos gardes, voici, je vous ai tout dit d'avance !
 2:13:24:MARC:3:15:2021:SHORA-KUETU Mais en ces jours-là, après cette tribulation, le soleil s'obscurcira, et la lune ne donnera plus sa lumière,
 2:13:25:MARC:3:15:2021:SHORA-KUETU et les étoiles du ciel tomberont, et les puissances qui sont dans les cieux seront ébranlées.
 2:13:26:MARC:3:15:2021:SHORA-KUETU Et ils verront alors le Fils d'humain venant sur les nuées, avec une grande puissance et une grande gloire.
@@ -1641,7 +1641,7 @@
 2:14:31:MARC:3:15:2021:SHORA-KUETU Mais il disait encore plus fortement : Quand même il me faudrait mourir avec toi, je ne te renierai jamais. Et tous lui dirent la même chose.
 2:14:32:MARC:3:15:2021:SHORA-KUETU Et ils se rendent dans un lieu appelé Gethsémané, et Yéhoshoua dit à ses disciples : Asseyez-vous ici jusqu'à ce que j'aie prié.
 2:14:33:MARC:3:15:2021:SHORA-KUETU Et il prend avec lui Petros, Yaacov et Yohanan, et il commença à être saisi de frayeur et d'angoisse.
-2:14:34:MARC:3:15:2021:SHORA-KUETU Et il leur dit : Mon âme est très triste jusqu'à la mort, restez ici, et veillez.
+2:14:34:MARC:3:15:2021:SHORA-KUETU Et il leur dit : Mon âme est très triste jusqu'à la mort, restez ici et veillez !
 2:14:35:MARC:3:15:2021:SHORA-KUETU Et s'en allant un peu plus en avant, il se jeta contre terre, et pria que s'il était possible, cette heure s'éloigne de lui.
 2:14:36:MARC:3:15:2021:SHORA-KUETU Et il disait : Abba, Père, toutes choses te sont possibles, éloigne de moi cette coupe ! Toutefois, non pas ce que je veux, mais ce que tu veux.
 2:14:37:MARC:3:15:2021:SHORA-KUETU Et il vient et les trouve endormis, et il dit à Petros : Shim’ôn, tu dors ! Tu n’as pas été capable de veiller une heure !
@@ -7755,7 +7755,7 @@
 27:12:8:APOCALYPSE:3:15:2021:SHORA-KUETU mais ils ne furent pas les plus forts, et leur place ne fut plus trouvée dans le ciel.
 27:12:9:APOCALYPSE:3:15:2021:SHORA-KUETU Et il fut jeté, le grand dragon, le serpent ancien, celui qui est appelé le diable et le Satan, celui qui égare toute la terre habitée ; il fut jeté sur la Terre, et ses anges furent jetés avec lui.
 27:12:10:APOCALYPSE:3:15:2021:SHORA-KUETU Et j'entendis une grande voix dans le ciel, disant : Maintenant le salut est arrivé, et la force, et le Royaume de notre Elohîm et l'autorité de son Mashiah. Parce que l'accusateur de nos frères, qui les accuse devant notre Elohîm jour et nuit, a été précipité vers un lieu plus bas.
-27:12:11:APOCALYPSE:3:15:2021:SHORA-KUETU Et ils ont remporté la victoire sur lui à cause du sang de l'Agneau et à cause de la parole de leur témoignage, et ils n'ont pas aimé leur vie jusqu'à la mort.
+27:12:11:APOCALYPSE:3:15:2021:SHORA-KUETU Et ils ont remporté la victoire sur lui à cause du sang de l'Agneau et à cause de la parole de leur témoignage, et ils n'ont pas aimé leur âme jusqu'à la mort.
 27:12:12:APOCALYPSE:3:15:2021:SHORA-KUETU C'est pourquoi réjouissez-vous cieux et vous qui y dressez vos tentes. Malheur à ceux qui habitent la terre et la mer, parce que le Diable est descendu vers vous, ayant une grande colère, sachant qu'il a peu de temps !
 27:12:13:APOCALYPSE:3:15:2021:SHORA-KUETU Et quand le dragon vit qu'il avait été jeté sur la Terre, il persécuta la femme qui avait enfanté le mâle.
 27:12:14:APOCALYPSE:3:15:2021:SHORA-KUETU Mais les deux ailes du grand aigle furent données à la femme, afin qu'elle s'envole dans le désert, vers son lieu, où elle est nourrie un temps et des temps et la moitié d'un temps, loin de la face du serpent.

@@ -2,6 +2,82 @@
 
 
 
+tablegrec = {
+'Α':'A',
+'α':'a',
+'Β':'B',
+'β':'b',
+'Γ':'G',
+'γ':'g',
+'Δ':'D',
+'δ':'d',
+'Ε':'E',
+'ε':'e',
+'Ζ':'Z',
+'ζ':'z',
+'Η':'Ê',
+'η':'ê',
+'Θ':'Th',
+'θ':'th',
+'Ι':'I',
+'ι':'i',
+'Κ':'K',
+'κ':'k',
+'Λ':'L',
+'λ':'l',
+'Μ':'M',
+'μ':'m',
+'Ν':'N',
+'ν':'n',
+'Ξ':'Ks',
+'ξ':'ks',
+'Ο':'O',
+'ο':'o',
+'Π':'P',
+'π':'p',
+'Ρ':'R',
+'ρ':'r',
+'Σ':'S',
+'σ':'s',
+'ς':'s',
+'Τ':'T',
+'τ':'t',
+'Υ':'Y',
+'υ':'y',
+'Φ':'PH',
+'φ':'ph',
+'Χ':'Ch',
+'χ':'ch',
+'Ψ':'Ps',
+'ψ':'ps',
+'Ω':'Ô',
+'ω':'ô',
+'-':'-',
+'–':'–',
+'_':'_',
+' ':' ',
+'1':'1'}
+
+function grectofrench(grw) {
+	
+
+	grw=grw.split('');
+	send='';
+	for (z=0; z != grw.length;z++)
+	{
+		if (!tablegrec[grw[z]])
+			console.log('ERROR : '+grw[z])
+		
+		send+=tablegrec[grw[z]];
+	}
+	return send;
+}
+
+
+
+
+
+
 file1		= require('fs')
 file2		= require('fs')
 fs			= require('../database/lemme.js')
@@ -88,10 +164,16 @@ for (lem in lemme)
 	morph	= lemme[lem][2]
 	origin	= lemme[lem][3]
 
+
+	nlem = lem.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+	nlem = grectofrench(nlem)
 	
-	main  = '<h2>' + lem + '</h2>\n'
+	
+	main  = '<h2>' + lem + ' ('+nlem+')</h2>\n'
 
 	main += '<h3>' + trad + '</h3>\n'
+	
+	//main += '<br>'+nlem
 	
 	main += '<br>'+exemp
 

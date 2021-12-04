@@ -24847,10 +24847,10 @@ lemme={
   "Vient d'un dérivé présumé de  πρεσβύτερος"
  ],
  "πρεσβύτερος": [
-  "ancien, anciens, ancienne, anciennes",
+  "plus ancien, plus anciens, plus ancienne, plus anciennes",
   "ancien, aîné, plus âgé, vieillard, femmes âgées, ancien, ayant de l'âge.   le plus ancien de deux peuples.  avancé dans la vie, un aîné, un senior.   les ancêtres.    un terme de rang ou de fonction.   parmi les Juifs.   membres du grand conseil ou Sanhédrin (car dans les premiers temps les dirigeants du peuple, juges, etc. étaient sélectionnés parmi les hommes les plus anciens).  de ceux qui géraient les affaires publiques et administraient la justice dans les villes séparées.   parmi les Chrétiens, ceux qui présidaient sur les assemblées (ou églises) le Nouveau Testament utilisant le terme évêques, anciens, et presbytère indifféremment.  les vingt quatre membres du Sanhédrin céleste assis sur des trônes autour du trône de Dieu",
   "Adjectif",
-  "Comparatif de presbus (plus âgé)"
+  "Comparatif de presbus (plus ancien)"
  ],
  "πρεσβύτης": [
   "homme ancien, hommes anciens",
@@ -28471,10 +28471,10 @@ lemme={
   "Vient d'un dérivé d'une variante de  συμπίνω"
  ],
  "συμπρεσβύτερος": [
-  "co-ancien",
-  "co-ancien, ancien avec, un compagnon",
+  "co-plus-ancien",
+  "co-plus-ancien",
   "Nom masculin",
-  "Vient de  σύν  et  πρεσβύτερος"
+  "σύν πρεσβύτερος"
  ],
  "συμφέρω": [
   "être opportun",

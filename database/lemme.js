@@ -24848,7 +24848,7 @@ lemme={
  ],
  "πρεσβύτερος": [
   "plus ancien, plus anciens, plus ancienne, plus anciennes",
-  "ancien, aîné, plus âgé, vieillard, femmes âgées, ancien, ayant de l'âge.   le plus ancien de deux peuples.  avancé dans la vie, un aîné, un senior.   les ancêtres.    un terme de rang ou de fonction.   parmi les Juifs.   membres du grand conseil ou Sanhédrin (car dans les premiers temps les dirigeants du peuple, juges, etc. étaient sélectionnés parmi les hommes les plus anciens).  de ceux qui géraient les affaires publiques et administraient la justice dans les villes séparées.   parmi les Chrétiens, ceux qui présidaient sur les assemblées (ou églises) le Nouveau Testament utilisant le terme évêques, anciens, et presbytère indifféremment.  les vingt quatre membres du Sanhédrin céleste assis sur des trônes autour du trône de Dieu",
+  "plus ancien, plus aîné, plus âgé, senior, doyen, aïeul, membres du grand conseil ou Sanhédrin (car dans les premiers temps les dirigeants du peuple, juges, etc. étaient sélectionnés parmi les hommes les plus anciens).  de ceux qui géraient les affaires publiques et administraient la justice dans les villes séparées.   parmi les Chrétiens, ceux qui présidaient sur les assemblées (ou églises) le Nouveau Testament utilisant le terme évêques, anciens, et presbytère indifféremment.  les vingt quatre membres du Sanhédrin céleste assis sur des trônes autour du trône de Dieu",
   "Adjectif",
   "Comparatif de presbus (plus ancien)"
  ],

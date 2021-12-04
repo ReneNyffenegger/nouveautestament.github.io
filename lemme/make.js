@@ -80,7 +80,8 @@ function grectofrench(grw) {
 
 file1		= require('fs')
 file2		= require('fs')
-fs			= require('../database/lemme.js')
+
+require('../database/lemme.js')
 
 sebastien_te	= file1		.readFileSync('../database/sebastien_te.txt',"utf-8")
 sebastien_te	= sebastien_te	.split('\n')
@@ -89,6 +90,10 @@ sebastien_te	= sebastien_te	.split('\n')
 sebastien_fr	= file1			.readFileSync('../database/sebastien_fr.txt',"utf-8")
 sebastien_fr	= sebastien_fr	.split('\n')
 
+
+require('./biblehub.js');
+require('./perseus.js');
+require('./james.js');
 
 //HTML
 intro = `<!DOCTYPE html>
@@ -177,9 +182,18 @@ for (lem in lemme)
 	
 	main += '<br>'+exemp
 
-	main += '<br>'+morph
+	main += '<br><span style="color:red">'+morph+'</span>'
 
 	main += '<br>'+origin
+
+	if (james[lem])
+		main += '<br><br>'+james[lem]
+	
+	if (perseus[lem])
+		main += '<br><br>'+perseus[lem]
+
+	if (biblehub[lem])
+		main += '<br><br>'+biblehub[lem]
 
 	main += '<br><br><br>\n'
 

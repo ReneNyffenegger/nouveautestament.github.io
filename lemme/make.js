@@ -139,7 +139,7 @@ intro = `<!DOCTYPE html>
 			}
 			
 			td {
-				padding-left:		10px;
+				padding-right:		10px;
 			}
 			
 			tr:hover {
@@ -160,10 +160,23 @@ lemmes = ''
 incoherences = ''
 x = 0
 
+
+
+arraylem = []
+
+//add lemme in array
+for (lem in lemme)
+{
+	arraylem.push(lem)
+}
+
+
 for (lem in lemme)
 {
 
+	
 
+	
 	trad	= lemme[lem][0]
 	exemp	= lemme[lem][1]
 	morph	= lemme[lem][2]
@@ -173,8 +186,17 @@ for (lem in lemme)
 	nlem = lem.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
 	nlem = grectofrench(nlem)
 	
+	if (!arraylem[x-1])
+		main = '<span style="font-size:20px"><a href="lemmes.html">TOUS</a>  <a href="'+arraylem[x+1]+'.html">'+arraylem[x+1]+'--></a></span>'
 	
-	main  = '<h2>' + lem + ' ('+nlem+')</h2>\n'
+	else if (!arraylem[x+1])
+		main = '<span style="font-size:20px"><a href="'+arraylem[x-1]+'.html"><-- '+arraylem[x-1]+'</a> <a href="lemmes.html">TOUS</a></span>'
+	
+	else
+		main = '<span style="font-size:20px"><a href="'+arraylem[x-1]+'.html"><-- '+arraylem[x-1]+'</a> <a href="lemmes.html">TOUS</a>  <a href="'+arraylem[x+1]+'.html">'+arraylem[x+1]+'--></a></span>'
+
+	
+	main  += '<h2>' + lem + ' ('+nlem+')</h2>\n'
 
 	main += '<h3>' + trad + '</h3>\n'
 	
@@ -195,10 +217,13 @@ for (lem in lemme)
 	if (biblehub[lem])
 		main += '<br><br>'+biblehub[lem]
 
-	main += '<br><br><br>\n'
+	
 
 
-
+	
+	
+	concordance = []
+	main2 = ''
 
 	for (l = 0 ; l != sebastien_te.length ; l++)
 	{     
@@ -226,7 +251,7 @@ for (lem in lemme)
 			
 			lcv = '<br>'+lcvteinfo[3]+' '+lcvteinfo[1]+' '+lcvteinfo[2]+'<br>'
 			
-			main += '<b>'+lcv+'</b>'
+			main2 += '<b>'+lcv+'</b>'
 			
 			
 			
@@ -238,8 +263,17 @@ for (lem in lemme)
 				
 				if (split2[1] == lem)
 				{
+					
+					
 					elline += '<span class="c">'+split2[0]+'</span><span class="l">('+split2[2]+')</span> '
 					frline += '<span class="c">'+textefr[y]+'</span> '
+
+					
+				
+					concordance.push ('<td>'+split2[0]+'</td>'+'<td>'+split2[2]+'</td><td>'+textefr[y]+'</td>')
+						
+	
+					
 				}
 				else
 				{
@@ -250,12 +284,50 @@ for (lem in lemme)
 				
 			}
 
-			main += elline+'<br><br>'+frline+'<br><br>\n' 
+			main2 += elline+'<br><br>'+frline+'<br><br>\n' 
 
 		}
 		
 	}
 
+
+	if (concordance.length != 0)
+	{
+		
+		
+		main +=	'<br><br><table><tr>'+
+					'<td><b>Hellène</b></td>'+
+					'<td><b>Morphologie</b></td>'+
+					'<td><b>Traduction</b></td>'+
+					'<td><b>Répétition</b></td>'+
+					'</tr>'
+		
+		//uniq count
+		var uniqs = concordance.reduce((acc, val) => 
+		{
+			acc[val] = acc[val] === undefined ? 1 : acc[val] += 1;
+			return acc;
+		}, {});
+		
+		
+		
+		for (uc in uniqs)
+		{
+			
+			main += '<tr>'+uc+'<td>'+uniqs[uc]+'</td><tr>'
+			
+			
+		}
+		
+		
+		main +=	'</table>';
+	}
+
+	main += '<br><br><br>\n'
+
+	main += main2
+	
+	
 	
 	file2.writeFileSync(lem + '.html' , intro + main + end , "utf-8")
 	

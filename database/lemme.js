@@ -11436,8 +11436,8 @@ lemme={
   "Vient de  ἐπί  et de  βάσις"
  ],
  "ἐπιβάλλω": [
-  "jeter dessus",
-  "mettre, jeter, se jeter, réfléchir, revenir, prendre, jeter sur, poser sur.   utilisé pour celui qui saisit quelqu'un pour en faire un prisonnier.  poser (coudre) sur.   se jeter sur, se ruer.   comme les vagues déferlant dans un navire.  poser son esprit sur quelque chose, réfléchir.  s'attendre à   ce qui m'appartient, qui tombe dans mon partage",
+  "surjeter",
+  "surjeter, jeter sur, jeter dessus, poser sur, utilisé pour celui qui saisit quelqu'un pour en faire un prisonnier.  poser (coudre) sur.   se jeter sur, se ruer.   comme les vagues déferlant dans un navire.  poser son esprit sur quelque chose, réfléchir.  s'attendre à   ce qui m'appartient, qui tombe dans mon partage",
   "Verbe",
   "Vient de  ἐπί  et  βάλλω"
  ],
@@ -11460,8 +11460,8 @@ lemme={
   "Vient de  ἐπί  et  βλέπω"
  ],
  "ἐπίβλημα": [
-  "ajout",
-  "ajout, ce qui est posé ou rajouté sur une chose.   une addition.  une pièce",
+  "surjet",
+  "ajout, ce qui est posé ou rajouté sur une chose,  une addition,  une pièce",
   "Nom neutre",
   "Vient de  ἐπιβάλλω"
  ],

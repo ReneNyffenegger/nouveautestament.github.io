@@ -1,7 +1,7 @@
 
 fichier1		= require('fs')
 //datafile	= fichier1.readFileSync('../database/sebastien_te.txt', 'utf8').split('\n')
-
+//datafile	= fichier1.readFileSync('../database/robinson_te.txt', 'utf8').split('\n')
 datafile	= fichier1.readFileSync('../database/tauber_te.txt', 'utf8').split('\n')
 
 
@@ -20,7 +20,7 @@ function clean(verset) {
 	
 
 	verset = verset.replace(/[a-zA-Z0-9⟦⟧ˉ!"'*,-\\.\/:;᾽?\[\]`¶*+\-\/:;\··͵᾿—†↔◦⳨⸀⸁⸄⸅̣0\·ëʹʼ– ;‘()’⸃⸂“”…�]/g,'');
-	verset = verset.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+	//verset = verset.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 	verset = verset.toLowerCase();
 	//verset = verset.replace(/ς/ig,'σ');
 	//verset = verset.replace(/ϗ/ig,'και');
@@ -53,8 +53,10 @@ for  (lineseb=0 ; lineseb!=datafile.length ; lineseb++)
 				
 				mot=textete[s].split('=')
 				el		= clean(mot[0])
+				lem		= mot[1]
 				morph	= mot[2]
-				console.log(el+' '+morph)
+				
+				console.log(el+' '+lem+' '+morph)
 
 			}
 			

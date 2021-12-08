@@ -16,7 +16,7 @@ function convnumber(a,b,c)
 
 
 
-function clean(verset) {
+function clean(xxx) {
 	
 
 	//verset = verset.replace(/[a-zA-Z0-9⟦⟧ˉ!"'*,-\\.\/:;᾽?\[\]`¶*+\-\/:;\··͵᾿—†↔◦⳨⸀⸁⸄⸅̣0\·ëʹʼ– ;‘()’⸃⸂“”…�]/g,'');
@@ -25,7 +25,7 @@ function clean(verset) {
 	//verset = verset.replace(/ς/ig,'σ');
 	//verset = verset.replace(/ϗ/ig,'και');
 
-	return verset;
+	return xxx;
 }
 
 

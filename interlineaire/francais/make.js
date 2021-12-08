@@ -347,14 +347,20 @@ if (backverset != verset)
 
 	if (verset == 1)
 		xxxxx +=`
-<br><div id="V`+verset+`"></div><a href="#a"><b>`+xbook[livre]+' '+chapitre+' '+verset+`</b></a>&ensp;&ensp;
+<br><div id="V`+verset+`"></div><a href="#a"><b>`+xbook[livre]+' '+chapitre+' '+verset+`</b></a> 
+<a href="../hellene/`+livre+`-`+chapitre+`.html#V`+verset+`">EL</a> 
+<a href="../francais/`+livre+`-`+chapitre+`.html#V`+verset+`">FR</a> 
+<a href="../technique/`+livre+`-`+chapitre+`.html#V`+verset+`">TE</a>
 <table cellspacing="0"><tbody>
 `;
 
 	else 
 		xxxxx +=`
 </tbody></table>
-<br><div id="V`+verset+`"></div><a href="#a"><b>`+xbook[livre]+' '+chapitre+' '+verset+`</b></a>&ensp;&ensp;
+<br><div id="V`+verset+`"></div><a href="#a"><b>`+xbook[livre]+' '+chapitre+' '+verset+`</b></a> 
+<a href="../hellene/`+livre+`-`+chapitre+`.html#V`+verset+`">EL</a> 
+<a href="../francais/`+livre+`-`+chapitre+`.html#V`+verset+`">FR</a> 
+<a href="../technique/`+livre+`-`+chapitre+`.html#V`+verset+`">TE</a>
 <table cellspacing="0"><tbody>
 `;
 

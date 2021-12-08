@@ -13200,26 +13200,26 @@ lemme={
   "Un verbe primaire"
  ],
  "ζῆλος": [
-  "zèle jaloux, zèles jaloux",
+  "zèle, zèles",
   "zèle jaloux, jalousie, sollicitude, ardeur, zèle amer, agitation de l'esprit, ardeur, ferveur de l'esprit.   zèle, ardeur dans l'étreinte, la poursuite, la défense.   zèle en faveur d'une personne ou une chose.  la férocité de l'indignation, un zèle punitif.   une rivalité sérieuse , jalousie",
   "Nom masculin/neutre",
   "Vient de  ζέω"
  ],
  "ζηλόω": [
-  "jalouser de zèle",
-  "jalouser,jaloux, aspirer, envieux, zélé, avoir du zèle, brûler de zèle.   bouillir d'envie, de haine, de colère.   dans un bon sens, être zélé dans la poursuite du bien.   désirer sincèrement, poursuivre.   lutter pour, s'occuper sérieusement de quelque chose.  s'efforcer de faire quelque chose pour quelqu'un.  être l'objet de zèle pour les autres.   envier",
+  "zéler",
+  "jalouser de zèle, jaloux, aspirer, envieux, zélé, avoir du zèle, brûler de zèle.   bouillir d'envie, de haine, de colère.   dans un bon sens, être zélé dans la poursuite du bien.   désirer sincèrement, poursuivre.   lutter pour, s'occuper sérieusement de quelque chose.  s'efforcer de faire quelque chose pour quelqu'un.  être l'objet de zèle pour les autres.   envier",
   "Verbe",
   "Vient de  ζῆλος"
  ],
  "ζηλωτής": [
-  "zélote jaloux, zélotes jaloux",
-  "zélé, plein de zèle, aspirer, celui qui brûle de zèle, un zélote (celui qui est zélé).  utilisé pour Dieu jaloux de toute rivalité et revendiquant sévèrement ce contrôle.  très fortement désireux, zélé pour une chose.   acquérir une chose.  défendre et soutenir une chose avec véhémence",
+  "zélote, zélotes",
+  "zélote jaloux, zélé, plein de zèle, aspirer, celui qui brûle de zèle, un zélote (celui qui est zélé).  utilisé pour Dieu jaloux de toute rivalité et revendiquant sévèrement ce contrôle.  très fortement désireux, zélé pour une chose.   acquérir une chose.  défendre et soutenir une chose avec véhémence",
   "Nom masculin",
   "Vient de  ζηλόω"
  ],
  "1Ζηλωτής": [
-  "Zélote jaloux",
-  "Zélote, zélote = \"celui qui est zélé\"   celui qui brûle de zèle, un zélateur, fanatique.  utilisé par Dieu comme jaloux de tout rival.  désirer très fortement une chose.   acheter une chose.  défendre et soutenir, lutter avec véhémence pour une chose.   membre d'un parti de patriotes Juifs, créé afin de résister aux Romains et de protéger contre la violation de la religion, mais qui dégénéra en un corps d'assassins",
+  "Zélote",
+  "Zélote jaloux, zélote = \"celui qui est zélé\"   celui qui brûle de zèle, un zélateur, fanatique.  utilisé par Dieu comme jaloux de tout rival.  désirer très fortement une chose.   acheter une chose.  défendre et soutenir, lutter avec véhémence pour une chose.   membre d'un parti de patriotes Juifs, créé afin de résister aux Romains et de protéger contre la violation de la religion, mais qui dégénéra en un corps d'assassins",
   "Nom masculin",
   "Même mot que  ζηλωτής"
  ],
@@ -22555,8 +22555,8 @@ lemme={
   "Vient de  παραδίδωμι"
  ],
  "παραζηλόω": [
-  "jalouser à côté",
-  "exciter la jalousie , provoquer la jalousie, provoquer, irriter.   provoquer à la jalousie ou la rivalité  exciter à la colère",
+  "zéler à côté",
+  "jalouser de zèle à côté, exciter la jalousie , provoquer la jalousie, provoquer, irriter.   provoquer à la jalousie ou la rivalité  exciter à la colère",
   "Verbe",
   "Vient de  παρά  et  ζηλόω"
  ],

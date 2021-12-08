@@ -249,11 +249,12 @@ for (lem in lemme)
 			textefr = sebastien_fr[l].replace(fr[0]+' ', "").split('#')
 			
 			
-			lcv = '<br>'+lcvteinfo[3]+' '+lcvteinfo[1]+' '+lcvteinfo[2]+'<br>'
+			//lcv = '<br>'+lcvteinfo[3]+' '+lcvteinfo[1]+' '+lcvteinfo[2]+'<br>'
 			
-			main2 += '<b>'+lcv+'</b>'
-			
-			
+			main2 +=	'<br><b>'+lcvteinfo[3]+' '+lcvteinfo[1]+' '+lcvteinfo[2]+'</b> '+
+						'<a target="_blank" href="../interlineaire/hellene/'+lcvteinfo[0]+'-'+lcvteinfo[1]+'.html#V'+lcvteinfo[2]+'">EL</a> '+
+						'<a target="_blank" href="../interlineaire/francais/'+lcvteinfo[0]+'-'+lcvteinfo[1]+'.html#V'+lcvteinfo[2]+'">FR</a> '+
+						'<a target="_blank" href="../interlineaire/technique/'+lcvteinfo[0]+'-'+lcvteinfo[1]+'.html#V'+lcvteinfo[2]+'">TE</a><br>'
 			
 			elline = ''
 			frline = ''

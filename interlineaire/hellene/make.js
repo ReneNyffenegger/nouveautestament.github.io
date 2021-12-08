@@ -1,33 +1,4 @@
 
-book = {
-1:'MATTHIEU',
-2:'MARC',
-3:'LUC',
-4:'JEAN',
-5:'ACTES',
-6:'ROMAINS',
-7:'1 CORINTHIENS',
-8:'2 CORINTHIENS',
-9:'GALATES',
-10:'EPHESIENS',
-11:'PHILIPPIENS',
-12:'COLOSSIENS',
-13:'1 THESSALONICIENS',
-14:'2 THESSALONICIENS',
-15:'1 TIMOTHEE',
-16:'2 TIMOTHEE',
-17:'TITE',
-18:'PHILEMON',
-19:'HEBREUX',
-20:'JACQUES',
-21:'1 PIERRE',
-22:'2 PIERRE',
-23:'1 JEAN',
-24:'2 JEAN',
-25:'3 JEAN',
-26:'JUDAS',
-27:'APOCALYPSE'
-}
 
 xbook = {
 1:'MATTHIEU',
@@ -356,14 +327,20 @@ if (backverset != verset)
 
 	if (verset == 1)
 		xxxxx +=`
-<br><div id="V`+verset+`"></div><a href="#a"><b>`+xbook[livre]+' '+chapitre+' '+verset+`</b></a>&ensp;&ensp;
+<br><div id="V`+verset+`"></div><a href="#a"><b>`+xbook[livre]+' '+chapitre+' '+verset+`</b></a> 
+<a href="../hellene/`+livre+`-`+chapitre+`.html#V`+verset+`">EL</a> 
+<a href="../francais/`+livre+`-`+chapitre+`.html#V`+verset+`">FR</a> 
+<a href="../technique/`+livre+`-`+chapitre+`.html#V`+verset+`">TE</a>
 <table cellspacing="0"><tbody>
 `;
 
 	else 
 		xxxxx +=`
 </tbody></table>
-<br><div id="V`+verset+`"></div><a href="#a"><b>`+xbook[livre]+' '+chapitre+' '+verset+`</b></a>&ensp;&ensp;
+<br><div id="V`+verset+`"></div><a href="#a"><b>`+xbook[livre]+' '+chapitre+' '+verset+`</b></a> 
+<a href="../hellene/`+livre+`-`+chapitre+`.html#V`+verset+`">EL</a> 
+<a href="../francais/`+livre+`-`+chapitre+`.html#V`+verset+`">FR</a> 
+<a href="../technique/`+livre+`-`+chapitre+`.html#V`+verset+`">TE</a>
 <table cellspacing="0"><tbody>
 `;
 

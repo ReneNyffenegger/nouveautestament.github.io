@@ -129,12 +129,13 @@ class Verse:
             rbt = robinsontags.RobinsonPierpontTag(w.parsing)
             morph = ''
 
+            #PSP
             if robinsontags.get_enum_from_dict(robinsontags.psp_dict, rbt.psp) != "NA":
                 morph += robinsontags.get_enum_from_dict(robinsontags.psp_dict, rbt.psp)
 
-        	#PERSON
-        	if robinsontags.get_enum_from_dict(robinsontags.person_dict, rbt.person) != "NA":
-        	    morph += ","+robinsontags.get_enum_from_dict(robinsontags.person_dict, rbt.person)
+            #MOOD
+        	if robinsontags.get_enum_from_dict(robinsontags.mood_dict, rbt.mood) != "NA":
+        	    morph += ","+robinsontags.get_enum_from_dict(robinsontags.mood_dict, rbt.mood)
 
         	#POSSESSOR
         	if robinsontags.get_enum_from_dict(robinsontags.number_dict, rbt.possessor_number) != "NA":
@@ -148,13 +149,13 @@ class Verse:
         	if robinsontags.get_enum_from_dict(robinsontags.voice_dict, rbt.voice) != "NA":
         	    morph += ","+robinsontags.get_enum_from_dict(robinsontags.voice_dict, rbt.voice)
 
-        	#MOOD
-        	if robinsontags.get_enum_from_dict(robinsontags.mood_dict, rbt.mood) != "NA":
-        	    morph += ","+robinsontags.get_enum_from_dict(robinsontags.mood_dict, rbt.mood)
-
         	#CASE
         	if robinsontags.get_enum_from_dict(robinsontags.case_dict, rbt.case) != "NA":
         	    morph += ","+robinsontags.get_enum_from_dict(robinsontags.case_dict, rbt.case)
+
+            #PERSON
+        	if robinsontags.get_enum_from_dict(robinsontags.person_dict, rbt.person) != "NA":
+        	    morph += ","+robinsontags.get_enum_from_dict(robinsontags.person_dict, rbt.person)
 
         	#NUMBER
         	if robinsontags.get_enum_from_dict(robinsontags.number_dict, rbt.number) != "NA":
@@ -186,10 +187,10 @@ class Verse:
             
             convstrong  = unicode(convstrong, 'utf-8')
             morph       = unicode(morph, 'utf-8')
-            #print >> f, ("%s %s %s %s %s %s %s %s" % (booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs , convstrong, w.parsing, morph)).encode("utf-8")
+            print >> f, ("%s %s %s %s %s %s %s %s" % (booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs , convstrong, w.parsing, morph)).encode("utf-8")
             MixedCaseBETAtoBETAtranslateWithStar(w.surface)
             w.prefix
-            print ("%s %s %s %s %s %s %s %s" % (booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs , convstrong, w.parsing, morph)).encode("utf-8")
+            #print ("%s %s %s %s %s %s %s %s" % (booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs , convstrong, w.parsing, morph)).encode("utf-8")
             #print filename, booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs, convstrong, w.parsing, morph #.encode("utf-8")
             #print filename, booknumber, self.chapter, self.verse, b2u(w.surface), w.strongs, convstrong, w.parsing, morph #.encode("utf-8")
 

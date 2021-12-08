@@ -92,16 +92,16 @@ for (ligne = 0 ; ligne != lignes.length ; ligne++)
 		//phrase
 		if (ve != vb)
 		{	
-			//console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2019:ROBINSON-ET-PIERPONT '+phrase.replace(/\s+$/g,''))
-			console.log(phrase.replace(/\s+$/g,''))
+			console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2019:ROBINSON-ET-PIERPONT '+phrase.replace(/\s+$/g,''))
+			//console.log(phrase.replace(/\s+$/g,''))
 			
-			//phrase = el+'='+le+'='+mo+' ';
-			phrase = el+' ';
+			phrase = el+'='+le+'='+mo+' ';
+			//phrase = el+' ';
 			
 		}
 		else
-			phrase += el+' ';
-		//phrase += el+'='+le+'='+mo+' ';
+			//phrase += el+' ';
+		phrase += el+'='+le+'='+mo+' ';
 			
 
 		
@@ -124,5 +124,5 @@ for (ligne = 0 ; ligne != lignes.length ; ligne++)
 
 }
 
-//console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2019:ROBINSON-ET-PIERPONT '+phrase.replace(/\s+$/g,''))
-console.log(phrase.replace(/\s+$/g,''))
+console.log(lb+':'+cb+':'+vb+':'+getlivre[lb]+':1:0:2019:ROBINSON-ET-PIERPONT '+phrase.replace(/\s+$/g,''))
+//console.log(phrase.replace(/\s+$/g,''))

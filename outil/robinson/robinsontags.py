@@ -503,51 +503,8 @@ for kkk in testkkk:
     print ("\n"+kkk+":")
 
 
-    #PSP
-    if get_enum_from_dict(psp_dict, rbt.psp) != "NA":
-        morph += get_enum_from_dict(psp_dict, rbt.psp)
-
-    #PERSON
-    if get_enum_from_dict(person_dict, rbt.person) != "NA":
-        morph += ","+get_enum_from_dict(person_dict, rbt.person)
-
-    #POSSESSOR
-    if get_enum_from_dict(number_dict, rbt.possessor_number) != "NA":
-        morph += ","+get_enum_from_dict(number_dict, rbt.possessor_number)
-
-    #TENSE
-    if get_enum_from_dict(tense_dict, rbt.tense) != "NA":
-        morph += ","+get_enum_from_dict(tense_dict, rbt.tense)
-
-    #VOICE
-    if get_enum_from_dict(voice_dict, rbt.voice) != "NA":
-        morph += ","+get_enum_from_dict(voice_dict, rbt.voice)
-
-    #MOOD
-    if get_enum_from_dict(mood_dict, rbt.mood) != "NA":
-        morph += ","+get_enum_from_dict(mood_dict, rbt.mood)
-
-    #CASE
-    if get_enum_from_dict(case_dict, rbt.case) != "NA":
-        morph += ","+get_enum_from_dict(case_dict, rbt.case)
-
-    #NUMBER
-    if get_enum_from_dict(number_dict, rbt.number) != "NA":
-        morph += ","+get_enum_from_dict(number_dict, rbt.number)
-
-    #GENDER
-    if get_enum_from_dict(gender_dict, rbt.gender) != "NA":
-        morph += ","+get_enum_from_dict(gender_dict, rbt.gender)
-
-    #EXTRA
-    if get_enum_from_dict(extra_dict, rbt.extra) != "NA":
-        morph += ","+get_enum_from_dict(extra_dict, rbt.extra)
-
-    #SUFFIX
-    if get_enum_from_dict(suffix_dict, rbt.suffix) != "NA":
-        morph += ","+get_enum_from_dict(suffix_dict, rbt.suffix)
-    
-    
+    ...
+   
     print(morph)
 
 '''

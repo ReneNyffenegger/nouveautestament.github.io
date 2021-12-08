@@ -1,8 +1,8 @@
 
 fichier1		= require('fs')
 //datafile	= fichier1.readFileSync('../database/sebastien_te.txt', 'utf8').split('\n')
-//datafile	= fichier1.readFileSync('../database/robinson_te.txt', 'utf8').split('\n')
-datafile	= fichier1.readFileSync('../database/tauber_te.txt', 'utf8').split('\n')
+datafile	= fichier1.readFileSync('../database/robinson_te.txt', 'utf8').split('\n')
+//datafile	= fichier1.readFileSync('../database/tauber_te.txt', 'utf8').split('\n')
 
 
 function convnumber(a,b,c)
@@ -19,9 +19,9 @@ function convnumber(a,b,c)
 function clean(verset) {
 	
 
-	verset = verset.replace(/[a-zA-Z0-9⟦⟧ˉ!"'*,-\\.\/:;᾽?\[\]`¶*+\-\/:;\··͵᾿—†↔◦⳨⸀⸁⸄⸅̣0\·ëʹʼ– ;‘()’⸃⸂“”…�]/g,'');
+	//verset = verset.replace(/[a-zA-Z0-9⟦⟧ˉ!"'*,-\\.\/:;᾽?\[\]`¶*+\-\/:;\··͵᾿—†↔◦⳨⸀⸁⸄⸅̣0\·ëʹʼ– ;‘()’⸃⸂“”…�]/g,'');
 	//verset = verset.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-	verset = verset.toLowerCase();
+	//verset = verset.toLowerCase();
 	//verset = verset.replace(/ς/ig,'σ');
 	//verset = verset.replace(/ϗ/ig,'και');
 

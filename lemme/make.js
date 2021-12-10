@@ -123,7 +123,6 @@ intro = `<!DOCTYPE html>
 			a {
 				color:				black;
 				text-decoration:	none;
-				font-family:		sans-serif;
 			}
 
 			a:hover {
@@ -187,13 +186,13 @@ for (lem in lemme)
 	nlem = grectofrench(nlem)
 	
 	if (!arraylem[x-1])
-		main = '<span style="font-size:20px"><a href="lemmes.html">TOUS</a>  <a href="'+arraylem[x+1]+'.html">'+arraylem[x+1]+'--></a></span>'
+		main = '<span style="font-size:18px;font-family: serif;"><a href="lemmes.html">Πάντα</a><br><a href="'+arraylem[x+1]+'.html">'+arraylem[x+1]+'</a></span>'
 	
 	else if (!arraylem[x+1])
-		main = '<span style="font-size:20px"><a href="'+arraylem[x-1]+'.html"><-- '+arraylem[x-1]+'</a> <a href="lemmes.html">TOUS</a></span>'
+		main = '<span style="font-size:18px;font-family: serif;"><a href="'+arraylem[x-1]+'.html">'+arraylem[x-1]+'</a><br><a href="lemmes.html">Πάντα</a></span>'
 	
 	else
-		main = '<span style="font-size:20px"><a href="'+arraylem[x-1]+'.html"><-- '+arraylem[x-1]+'</a> <a href="lemmes.html">TOUS</a>  <a href="'+arraylem[x+1]+'.html">'+arraylem[x+1]+'--></a></span>'
+		main = '<span style="font-size:18px;font-family: serif;"><a href="'+arraylem[x-1]+'.html">'+arraylem[x-1]+'</a><br><a href="lemmes.html">Πάντα</a><br><a href="'+arraylem[x+1]+'.html">'+arraylem[x+1]+'</a></span>'
 
 	
 	main  += '<h2>' + lem + ' ('+nlem+')</h2>\n'
@@ -202,6 +201,7 @@ for (lem in lemme)
 	
 	//main += '<br>'+nlem
 	
+/*
 	main += '<br>'+exemp
 
 	main += '<br><span style="color:red">'+morph+'</span>'
@@ -218,9 +218,52 @@ for (lem in lemme)
 		main += '<br><br>'+biblehub[lem]
 
 	
+*/
 
+	main += '<table>'
+	
+	main += '<tr><td>Morphologie</td><td><span style="color:red">'+morph+'</span></td><tr>'
+	
+	main += '<tr><td>Origine</td><td>'+origin+'</td><tr>'
+	
+	
+	originsplit = origin.split(/\s+/g)
+	for (nos = 0 ; nos != originsplit.length ; nos++)
+	{
+		if (lemme[originsplit[nos]])
+			main += '<tr><td><a target="_blank" href="'+originsplit[nos]+'.html">'+originsplit[nos]+'</a></td><td>'+lemme[originsplit[nos]][0]+'</td><tr>'
+		
+	}
+	
+	
+	
+	
+	
+	main += '<tr><td>Définition A</td><td>'+exemp+'</td><tr>'
 
 	
+
+	
+
+	if (james[lem])
+		main += '<tr><td>Définition B</td><td>'+james[lem]+'</td><tr>'
+	
+	if (perseus[lem])
+		main += '<tr><td>Définition C</td><td>'+perseus[lem]+'</td><tr>'
+
+	if (biblehub[lem])
+		main += '<tr><td>Définition D</td><td>'+biblehub[lem]+'</td><tr>'
+	
+	
+	main += '<tr><td>Wiktionary	EL</td><td><a target="_blank" href="https://el.wiktionary.org/wiki/'+lem+'">https://el.wiktionary.org/wiki/'+lem+'</a></td><tr>'
+	main += '<tr><td>Wiktionary	EN</td><td><a target="_blank" href="https://en.wiktionary.org/wiki/'+lem+'">https://en.wiktionary.org/wiki/'+lem+'</a></td><tr>'
+	main += '<tr><td>Wiktionary	FR</td><td><a target="_blank" href="https://fr.wiktionary.org/wiki/'+lem+'">https://fr.wiktionary.org/wiki/'+lem+'</a></td><tr>'
+	
+	main += '<tr><td>LIDDELL–SCOTT–JONES</td><td><a target="_blank" href="../dictionnaire/lsj.html#'+lem+'">lsj # '+lem+'</a></td><tr>'
+	main += '<tr><td>BAILLY</td><td><a target="_blank" href="../dictionnaire/bailly.html#'+lem+'">bailly # '+lem+'</a></td><tr>'
+	
+	
+	main += '</table>'
 	
 	concordance = []
 	main2 = ''

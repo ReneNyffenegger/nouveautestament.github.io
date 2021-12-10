@@ -189,7 +189,7 @@ lemme={
   "messager, messagers",
   "messager, ange, anges , messager , envoyés, messager, envoyé, un ange, un messager de Dieu",
   "Nom masculin",
-  "Vient de aggello [probablement dérivé de  ἄγω , cf ἀγέλη] (apporter des nouvelles)"
+  "Vient de aggello [ probablement dérivé de  ἄγω , cf ἀγέλη ] (apporter des nouvelles)"
  ],
  "ἄγε": [
   "Aller",
@@ -1524,7 +1524,7 @@ lemme={
   "Dérivation incertaine"
  ],
  "ἀλυσιτελής": [
-  "désavantageux",
+  "désavantageux finalement",
   "désavantageux, d'aucun avantage, sans profit, préjudiciable, pernicieux",
   "Adjectif",
   "Vient de ἄλφα (négatif) et la base de  λυσιτελέω"
@@ -4656,13 +4656,13 @@ lemme={
   "Vient de  Ἀσία  et  ἀρχή"
  ],
  "ἀσιτία": [
-  "sans nourriture",
+  "abstinence de froment",
   "sans nourriture, on n'avait pas mangé, abstinence de nourriture (volontaire ou forcée)",
   "Nom féminin",
   "Vient de  ἄσιτος"
  ],
  "ἄσιτος": [
-  "sans grains",
+  "sans froments",
   "sans grains, sans manger, jeûne, s'abstenir de nourriture",
   "Adjectif",
   "Vient de ἄλφα (négatif) et  σῖτος"
@@ -27079,28 +27079,28 @@ lemme={
   "Vient de sinion (un tamis)"
  ],
  "σιτευτός": [
-  "gras",
-  "gras, engraissé, gras",
+  "nourri de froment",
+  "nourri de froment, nourri de grain (gras, engraissé)",
   "Adjectif",
-  "Vient d'un dérivé de  σῖτος"
+  "σιτεύω + σῖτος"
  ],
  "σιτιστός": [
-  "grasses",
-  "grasses, engraissé",
+  "nourris de froments",
+  "nourris de froments, grasses, engraissé",
   "Adjectif",
-  "Vient d'un dérivé de  σῖτος"
+  "σιτευτός , σιτεύω + σῖτος"
  ],
  "σιτομέτριον": [
-  "mesure de blé",
+  "mesure de froment",
   "mesure de blé, mesure de grain, une \"portion\" mesurée de grain ou \"nourriture\"",
   "Nom neutre",
   "Vient de  σῖτος  et  μέτρον"
  ],
  "σῖτος": [
-  "blé",
-  "blé, grain, froment, blé, grain",
+  "froment",
+  "froment, blé, grain",
   "Nom masculin",
-  "Vient de sita (see'-tah), de dérivation incertaine"
+  "sita (see'-tah) de dérivation incertaine"
  ],
  "Σιών": [
   "Sion",
@@ -33763,10 +33763,10 @@ lemme={
   "πυρός"
  ],
  "σιτίον": [
-  "grains",
-  "grains, grains",
+  "objets de froments",
+  "objets de froments, petit froment, grains",
   "Nom neutre",
-  "σῖτος"
+  "σῖτος + ον(chose, objet, truc) ou -ίον(petit)"
  ],
  "σοφώτερον": [
   "plus sage",

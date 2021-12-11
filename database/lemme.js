@@ -5640,10 +5640,10 @@ lemme={
   "Vient de baino (marcher)"
  ],
  "βασκαίνω": [
-  "éblouir",
-  "fasciner, fascinés, parler en mal de quelqu'un, calomnier, médire.  apporter le mal sur quelqu'un par une invocation ou un mauvais œil.  charmer, ensorceler, fasciner",
+  "jeter mauvais oeil",
+  "jeter mauvais oeil, faire mauvais oeil, fasciner, apporter le mal sur quelqu'un par un mauvais œil, calomnier, médire, ensorceler",
   "Verbe",
-  "Parent de  φάσκω"
+  "En Hébreu mauvais oeil(רַ֣ע עָ֑יִן) φάσκω"
  ],
  "βαστάζω": [
   "porter",

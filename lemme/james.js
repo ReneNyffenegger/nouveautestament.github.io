@@ -1002,6 +1002,8 @@ james={
  "βολίζω": "βολίζω de βολίς, lancer l'avance : son.",
  "βολίς": "βολίς de βάλλω, un missile, c-à-d javelot : dard.",
  "Βοόζ": "Βοόζ d'origine hébraïque (בֹּ֫עַז), Booz, (c-à-d Boaz), un Israélite : Booz.",
+ "Βόος": "Βοόζ d'origine hébraïque (בֹּ֫עַז), Booz, (c-à-d Boaz), un Israélite : Booz.",
+ "Βόες": "Βοόζ d'origine hébraïque (בֹּ֫עַז), Booz, (c-à-d Boaz), un Israélite : Booz.",
  "βόρβορος": "βόρβορος de dérivation incertaine, boue : bourbier.",
  "βορρᾶς": "βοῤῥᾶς de dérivation incertaine, le nord (correctement, vent) : nord.",
  "βόσκω": "βόσκω une forme prolongée d'un verbe primaire (comparent βιβρώσκω, βοῦς), au pâturage, par l'extension à, fourrage, à la forme réfléchie, pour paître : nourrissez, gardez.",

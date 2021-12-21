@@ -2,7 +2,7 @@
 1:1:2:MATTHIEU:3:1:2021:SEBASTIEN-D-G Abraam#engendra#le#Isaak,#Isaak#cependant#engendra#le#Iakob,#Iakob#cependant#engendra#le#Iouda#et#les#frères#de lui,
 1:1:3:MATTHIEU:3:1:2021:SEBASTIEN-D-G Iouda#cependant#engendra#le#Pharès#et#le#Zara#hors#de la#de Thamar,#Pharès#cependant#engendra#le#Esrom,#Esrom#cependant#engendra#le#Aram,
 1:1:4:MATTHIEU:3:1:2021:SEBASTIEN-D-G Aram#cependant#engendra#le#Aminadab,#Aminadab#cependant#engendra#le#Naasson,#Naasson#cependant#engendra#le#Salmon,
-1:1:5:MATTHIEU:3:1:2021:SEBASTIEN-D-G Salmon#cependant#engendra#le#Booz#hors#de la#de Rachab,#Booz#cependant#engendra#le#Iobed#hors#de la#de Routh,#Iobed#cependant#engendra#le#Iessai,
+1:1:5:MATTHIEU:3:1:2021:SEBASTIEN-D-G Salmon#cependant#engendra#le#Boes#hors#de la#de Rachab,#Boes#cependant#engendra#le#Iobed#hors#de la#de Routh,#Iobed#cependant#engendra#le#Iessai,
 1:1:6:MATTHIEU:3:1:2021:SEBASTIEN-D-G Iessai#cependant#engendra#le#Dauid#le#roi.#Dauid#cependant#engendra#le#Solomon#hors#de celle#de le#de Oureia,
 1:1:7:MATTHIEU:3:1:2021:SEBASTIEN-D-G Solomon#cependant#engendra#le#Roboam,#Roboam#cependant#engendra#le#Abia,#Abia#cependant#engendra#le#Asaph,
 1:1:8:MATTHIEU:3:1:2021:SEBASTIEN-D-G Asaph#cependant#engendra#le#Iosaphat,#Iosaphat#cependant#engendra#le#Ioram,#Ioram#cependant#engendra#le#Ozeia,
@@ -360,7 +360,7 @@
 1:12:15:MATTHIEU:3:1:2021:SEBASTIEN-D-G Le#cependant#Iésous#ayant connu#replaça#de là.#et#suivirent#à lui#nombreux,#et#soigna#eux#tous
 1:12:16:MATTHIEU:3:1:2021:SEBASTIEN-D-G et#survalorisa#à eux#afin que#ne pas#visible#lui#que fassent,
 1:12:17:MATTHIEU:3:1:2021:SEBASTIEN-D-G afin que#que soit fait plénitude#ce#ayant été dit#par#de Ésaïa#de le#de prophète#de disant·
-1:12:18:MATTHIEU:3:1:2021:SEBASTIEN-D-G voici#le#jeune servant#de moi#lequel#je choisis,#le#aimé#de moi#envers#lequel#estima en bien#la#âme#de moi·#je poserai#le#souffle#de moi#sur#lui,#et#jugement#à les#à ethnies#rapportera annonce.
+1:12:18:MATTHIEU:3:1:2021:SEBASTIEN-D-G voici#le#jeune servant#de moi#lequel#je rendis hérésie,#le#aimé#de moi#envers#lequel#estima en bien#la#âme#de moi·#je poserai#le#souffle#de moi#sur#lui,#et#jugement#à les#à ethnies#rapportera annonce.
 1:12:19:MATTHIEU:3:1:2021:SEBASTIEN-D-G non#querellera#non cependant#criera,#non cependant#écoutera#un quelconque#en#à les#à places#la#son de voix#de lui.
 1:12:20:MATTHIEU:3:1:2021:SEBASTIEN-D-G calame#ayant été broyé ensemble#non#fracassera de haut en bas#et#linon#étant fumé#non#éteindra,#jusqu'à ce que#le cas échéant#que éjecte#envers#victoire#la#jugement.
 1:12:21:MATTHIEU:3:1:2021:SEBASTIEN-D-G et#à le#à nom#de lui#ethnies#espéreront.
@@ -1910,7 +1910,7 @@
 3:3:29:LUC:3:1:2021:SEBASTIEN-D-G de celui#de Iésous#de celui#de Éliézer#de celui#de Ioreim#de celui#de Maththat#de celui#de Lévi
 3:3:30:LUC:3:1:2021:SEBASTIEN-D-G de celui#de Syméon#de celui#de Iouda#de celui#de Ioseph#de celui#de Ionan#de celui#de Éliakim
 3:3:31:LUC:3:1:2021:SEBASTIEN-D-G de celui#de Méléa#de celui#de Menna#de celui#de Mattatha#de celui#de Nathan#de celui#de Dauid
-3:3:32:LUC:3:1:2021:SEBASTIEN-D-G de celui#de Iessai#de celui#de Iobed#de celui#de Booz#de celui#de Sala#de celui#de Naasson
+3:3:32:LUC:3:1:2021:SEBASTIEN-D-G de celui#de Iessai#de celui#de Iobed#de celui#de Boos#de celui#de Sala#de celui#de Naasson
 3:3:33:LUC:3:1:2021:SEBASTIEN-D-G de celui#de Aminadab#de celui#de Admein#de celui#de Arnei#de celui#de Esrom#de celui#de Pharès#de celui#de Iouda
 3:3:34:LUC:3:1:2021:SEBASTIEN-D-G de celui#de Iakob#de celui#de Isaak#de celui#de Abraam#de celui#de Thara#de celui#de Nachor
 3:3:35:LUC:3:1:2021:SEBASTIEN-D-G de celui#de Serouch#de celui#de Ragau#de celui#de Phalek#de celui#de Éber#de celui#de Sala
@@ -5787,7 +5787,7 @@
 8:7:16:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G je suis de joie#en ce que#en#à tout#j'encourage#en#à vous.
 8:8:1:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G Nous faisons connaître#cependant#à vous,#frères,#la#grâce#de le#de Dieu#celle#ayante étée donnée#en#à les#à églises#de la#de Macédoine,
 8:8:2:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G en ce que#en#à nombreuse#à épreuve#de oppression#la#surabondance#de la#de joie#de eux#et#celle#contre#de profondeur#pauvreté#de eux#surabonda#envers#le#richesse#de la#de simplicité#de eux·
-8:8:3:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G en ce que#selon#puissance,#je témoigne,#et#à côté#puissance,#de leur propre choix
+8:8:3:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G en ce que#selon#puissance,#je témoigne,#et#à côté#puissance,#de leurs propres hérésies
 8:8:4:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G avec#de nombreuse#de appel à côté#se attachants de lien#de nous#la#grâce#et#la#communion#de la#de service#de celle#envers#les#saints,
 8:8:5:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G et#non#de haut en bas comme#nous espérâmes#mais#eux-mêmes#donnèrent#premièrement#à le#à Maître#et#à nous#par#de volonté#de Dieu
 8:8:6:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G envers#ce#appeler à côté#nous#Titos,#afin que#de haut en bas comme#se commença avant#ainsi#aussi#que achève au-dessus#envers#vous#aussi#la#grâce#celle-ci.
@@ -5801,7 +5801,7 @@
 8:8:14:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G en#à le#maintenant#à moment#le#de vous#superflu#envers#le#de ceux-là#manque,#afin que#aussi#le#de ceux-là#superflu#que se devienne#envers#le#de vous#manque,#de telle manière que#que se devienne#égalité,
 8:8:15:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G de haut en bas comme#a été écrit·#celui#le#nombreux#non#fit plus nombreux,#et#celui#le#peu#non#diminua.
 8:8:16:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G Grâce#cependant#à le#à Dieu#à celui#à ayant donné#la#même#hâte#au-dessus#de vous#en#à la#à coeur#de Titos,
-8:8:17:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G en ce que#la#certes#appel à côté#se accepta,#plus à la hâte#cependant#subsistant#de son propre choix#sortit#vers#vous.
+8:8:17:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G en ce que#la#certes#appel à côté#se accepta,#plus à la hâte#cependant#subsistant#de sa propre hérésie#sortit#vers#vous.
 8:8:18:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G nous mandâmes avec#cependant#avec#de lui#le#frère#de lequel#le#surlouange#en#à le#à évangile#par#de toutes#de les#de églises,
 8:8:19:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G non#seulement#cependant,#mais#aussi#ayant été désigné de main#sous#de les#de églises#compagnon de voyage#de nous#avec#à la#à grâce#à celle-ci#à celle#à étante servie#sous#de nous#vers#la#de le#de Maître#gloire#et#promptitude fureur#de nous,
 8:8:20:2CORINTHIENS:3:1:2021:SEBASTIEN-D-G se équipants#celui-ci,#ne pas#un quelconque#nous#que se reproche#en#à la#à abondance#à celle-ci#à celle#à étante servie#sous#de nous·

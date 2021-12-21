@@ -948,8 +948,8 @@
 1:26:38:MATTHIEU:3:15:2021:SHORA-KUETU Alors il leur dit : Mon âme est très triste jusqu'à la mort. Restez ici et veillez avec moi !
 1:26:39:MATTHIEU:3:15:2021:SHORA-KUETU Et étant allé un peu plus avant, il tomba sur sa face, priant et disant : Mon Père, s'il est possible, fais que cette coupe passe loin de moi. Toutefois, non pas comme moi je veux, mais comme toi.
 1:26:40:MATTHIEU:3:15:2021:SHORA-KUETU Et il vint vers ses disciples, qu'il trouva endormis, et il dit à Petros : Vous n’avez donc pas été capables de veiller une heure avec moi !
-1:26:41:MATTHIEU:3:15:2021:SHORA-KUETU Veillez et priez, afin que vous n'entriez pas en tentation. L'esprit, en effet, est bien disposé, mais la chair est faible.
-1:26:42:MATTHIEU:3:15:2021:SHORA-KUETU Il s'éloigna encore pour la seconde fois et il pria, en disant : Mon Père, s'il n'est pas possible que cette coupe s'éloigne sans que je la boive, que ta volonté soit faite !
+1:26:41:MATTHIEU:3:15:2021:SHORA-KUETU Veillez et priez, afin que vous n'entriez pas en tentation. En effet, l'esprit est bien disposé, mais la chair est faible.
+1:26:42:MATTHIEU:3:15:2021:SHORA-KUETU Il s'éloigna encore pour la seconde fois et il pria, en disant : Mon Père, s'il n'est pas possible que cette coupe passe loin de moi sans que je la boive, que ta volonté soit faite !
 1:26:43:MATTHIEU:3:15:2021:SHORA-KUETU Il revint ensuite et les trouva encore endormis, car leurs yeux étaient appesantis.
 1:26:44:MATTHIEU:3:15:2021:SHORA-KUETU Et les ayant laissés, il s'en alla encore et pria pour la troisième fois, disant la même parole.
 1:26:45:MATTHIEU:3:15:2021:SHORA-KUETU Et il alla vers ses disciples et leur dit : Dormez maintenant et reposez-vous ! Voici, l'heure est proche, et le Fils d'humain va être livré entre les mains des pécheurs.
@@ -1642,7 +1642,7 @@
 2:14:32:MARC:3:15:2021:SHORA-KUETU Et ils se rendent dans un lieu appelé Gethsémané, et Yéhoshoua dit à ses disciples : Asseyez-vous ici jusqu'à ce que j'aie prié.
 2:14:33:MARC:3:15:2021:SHORA-KUETU Et il prend avec lui Petros, Yaacov et Yohanan, et il commença à être saisi de frayeur et d'angoisse.
 2:14:34:MARC:3:15:2021:SHORA-KUETU Et il leur dit : Mon âme est très triste jusqu'à la mort, restez ici et veillez !
-2:14:35:MARC:3:15:2021:SHORA-KUETU Et s'en allant un peu plus en avant, il se jeta contre terre, et pria que s'il était possible, cette heure s'éloigne de lui.
+2:14:35:MARC:3:15:2021:SHORA-KUETU Et s'en allant un peu plus en avant, il tomba par terre et pria pour que, s'il était possible, cette heure passe loin de lui.
 2:14:36:MARC:3:15:2021:SHORA-KUETU Et il disait : Abba, Père, toutes choses te sont possibles, éloigne de moi cette coupe ! Toutefois, non pas ce que je veux, mais ce que tu veux.
 2:14:37:MARC:3:15:2021:SHORA-KUETU Et il vient et les trouve endormis, et il dit à Petros : Shim’ôn, tu dors ! Tu n’as pas été capable de veiller une heure !
 2:14:38:MARC:3:15:2021:SHORA-KUETU Veillez et priez afin que vous n'entriez pas en tentation. En effet, l'esprit est bien disposé, mais la chair est faible.

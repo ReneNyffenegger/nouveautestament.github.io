@@ -834,8 +834,8 @@ lemme={
   "Vient de  αἱρέω"
  ],
  "αἱρετίζω": [
-  "choisir",
-  "choisir, choisir.  appartenir à une secte",
+  "rendre hérésie",
+  "hérétiser, rendre hérésie, choisir,  appartenir à une secte",
   "Verbe",
   "Vient d'un dérivé de  αἱρέω"
  ],
@@ -4980,8 +4980,8 @@ lemme={
   "Vient de  αὐτός  et de  ἡδονή"
  ],
  "αὐθαίρετος": [
-  "de son propre choix, de leur propre choix",
-  "selon ses moyens, de son plein gré, volontairement, choix délibéré, de son plein gré",
+  "de sa propre hérésie, de leurs propres hérésies",
+  "de son propre choix, de leur propre choix, volontairement, choix délibéré, de son plein gré",
   "Adjectif",
   "Vient de  αὐτός  et du même mot que  αἱρετίζω"
  ],
@@ -6017,9 +6017,15 @@ lemme={
   "Nom féminin",
   "Vient de  βάλλω"
  ],
- "Βοόζ": [
-  "Booz",
-  "Booz, Boes = \"en lui est la force\"   un parent de Ruth, devenu ensuite son second mari",
+ "Βόος": [
+  "Boos",
+  "Boos, Boos = \"en lui est la force\"   un parent de Ruth, devenu ensuite son second mari",
+  "Nom propre masculin",
+  "Vient d'un mot Hébreu  01162"
+ ],
+ "Βόες": [
+  "Boes",
+  "Boes, Boes = \"en lui est la force\"   un parent de Ruth, devenu ensuite son second mari",
   "Nom propre masculin",
   "Vient d'un mot Hébreu  01162"
  ],

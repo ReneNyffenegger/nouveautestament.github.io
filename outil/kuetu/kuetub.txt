@@ -228,7 +228,7 @@
 1:8:27:MATTHIEU:3:15:2021:SHORA-KUETU Et les hommes furent dans l'admiration et dirent : Qui est celui-ci à qui obéissent même les vents et la mer ?
 1:8:28:MATTHIEU:3:15:2021:SHORA-KUETU Et quand il fut passé de l'autre côté, dans le pays des Guirgasiens, deux démoniaques sortant des sépulcres vinrent le rencontrer. Ils étaient si dangereux que personne ne pouvait passer par ce chemin-là.
 1:8:29:MATTHIEU:3:15:2021:SHORA-KUETU Et voici, ils s'écrièrent en disant : Qu'y a-t-il entre nous et toi, Yéhoshoua, Fils d'Elohîm ? Es-tu venu ici nous tourmenter avant le temps ?
-1:8:30:MATTHIEU:3:15:2021:SHORA-KUETU Et il y avait loin d'eux un grand troupeau de pourceaux qui paissaient.
+1:8:30:MATTHIEU:3:15:2021:SHORA-KUETU Or il y avait loin d'eux un grand troupeau de pourceaux qui paissait.
 1:8:31:MATTHIEU:3:15:2021:SHORA-KUETU Et les démons le suppliaient, en disant : Si tu nous chasses dehors, permets-nous d'entrer dans ce troupeau de pourceaux.
 1:8:32:MATTHIEU:3:15:2021:SHORA-KUETU Et il leur dit : Allez ! Et étant sortis, ils allèrent dans le troupeau de pourceaux. Et voici, tout le troupeau de pourceaux se précipita des pentes escarpées dans la mer, et ils périrent dans les eaux.
 1:8:33:MATTHIEU:3:15:2021:SHORA-KUETU Mais ceux qui les faisaient paître s'enfuirent et allèrent raconter dans la ville toutes ces choses et ce qui était arrivé aux démoniaques.
@@ -253,11 +253,11 @@
 1:9:18:MATTHIEU:3:15:2021:SHORA-KUETU Comme il leur disait ces choses, voici qu’un chef s’approche, et il se prosternait devant lui en disant : Ma fille est morte il y a un instant ; mais viens et impose-lui ta main et elle vivra.
 1:9:19:MATTHIEU:3:15:2021:SHORA-KUETU Et, se levant, Yéhoshoua le suivit ainsi que ses disciples.
 1:9:20:MATTHIEU:3:15:2021:SHORA-KUETU Et voici, une femme atteinte d'une perte de sang depuis 12 ans s'approcha par-derrière et toucha le bord de son vêtement.
-1:9:21:MATTHIEU:3:15:2021:SHORA-KUETU Car elle disait en elle-même : Si seulement je touche son vêtement, je serai sauvée !
+1:9:21:MATTHIEU:3:15:2021:SHORA-KUETU Car elle se disait en elle-même : Si seulement je touche son vêtement, je serai sauvée !
 1:9:22:MATTHIEU:3:15:2021:SHORA-KUETU Mais Yéhoshoua, se retournant et la voyant, dit : Aie confiance ma fille, ta foi t'a sauvée. Et la femme fut sauvée dès cette heure-là.
 1:9:23:MATTHIEU:3:15:2021:SHORA-KUETU Et lorsque Yéhoshoua fut arrivé à la maison du chef, et qu'il vit les joueurs de flûte et une foule bruyante,
 1:9:24:MATTHIEU:3:15:2021:SHORA-KUETU il leur dit : Retirez-vous, car la jeune fille n'est pas morte, mais elle dort, et ils le tournaient en dérision.
-1:9:25:MATTHIEU:3:15:2021:SHORA-KUETU Mais quand la foule eut été renvoyée, il entra, prit la main de la jeune fille et elle se leva.
+1:9:25:MATTHIEU:3:15:2021:SHORA-KUETU Mais quand la foule eut été mise dehors, il entra, prit la main de la jeune fille et elle se leva.
 1:9:26:MATTHIEU:3:15:2021:SHORA-KUETU Et le bruit s'en répandit dans toute cette contrée.
 1:9:27:MATTHIEU:3:15:2021:SHORA-KUETU Et étant parti de là, Yéhoshoua fut suivi par deux aveugles, qui criaient en disant : Fils de David, aie pitié de nous !
 1:9:28:MATTHIEU:3:15:2021:SHORA-KUETU Et quand il fut arrivé dans la maison, les aveugles s'approchèrent de lui, et Yéhoshoua leur dit : Croyez-vous que je puisse faire cela ? Ils lui disent : Oui, Seigneur !
@@ -5159,7 +5159,7 @@
 6:14:23:ROMAINS:3:15:2021:SHORA-KUETU Mais celui qui doute est condamné s'il mange, parce que cela ne vient pas de la foi. Or tout ce qui ne vient pas de la foi est péché.
 6:15:1:ROMAINS:3:15:2021:SHORA-KUETU Mais nous devons, nous qui sommes forts, supporter les infirmités des faibles et ne pas nous plaire en nous-mêmes.
 6:15:2:ROMAINS:3:15:2021:SHORA-KUETU Que chacun de nous donc plaise au prochain pour ce qui est bon, en vue de la construction.
-6:15:3:ROMAINS:3:15:2021:SHORA-KUETU Car même le Mashiah n'a pas cherché à se satisfaire lui-même. Mais, selon qu'il est écrit : Les insultes de ceux qui t'insultent sont tombés sur moi.
+6:15:3:ROMAINS:3:15:2021:SHORA-KUETU Car même le Mashiah n'a pas cherché à se satisfaire lui-même. Mais, selon qu'il est écrit : Les insultes de ceux qui t'insultent sont tombées sur moi.
 6:15:4:ROMAINS:3:15:2021:SHORA-KUETU Car toutes les choses qui ont été écrites auparavant, ont été écrites pour notre instruction, afin que, par la persévérance et la consolation des Écritures, nous ayons espérance.
 6:15:5:ROMAINS:3:15:2021:SHORA-KUETU Mais que l'Elohîm de persévérance et de consolation vous donne d'avoir une même pensée les uns envers les autres selon Yéhoshoua Mashiah,
 6:15:6:ROMAINS:3:15:2021:SHORA-KUETU afin que tous, d'un même cœur et d'une même bouche, vous glorifiiez l'Elohîm et Père de notre Seigneur Yéhoshoua Mashiah.

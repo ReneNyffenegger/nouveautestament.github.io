@@ -159,7 +159,7 @@ lemmes = ''
 incoherences = ''
 x = 0
 
-
+inco = 0
 
 arraylem = []
 
@@ -392,7 +392,25 @@ for (lem in lemme)
 		{
 			if (trad1 == trad2)
 			{
-				incoherences += '<tr><td><a target="_blank" href="'+lem+'.html">'+lem+'</a></td><td>'+trad1+'</td><td><a target="_blank" href="'+lem2+'.html">'+lem2+'</a></td><td>'+trad2+'</td></tr>\n'
+				if
+				(
+					incoherences.indexOf
+					(
+						'<td><a target="_blank" href="'+lem+'.html">'+lem+'</a></td><td>'+trad1+'</td><td><a target="_blank" href="'+lem2+'.html">'+lem2+'</a></td><td>'+trad2+'</td></tr>\n'
+					) == -1
+					
+					&&
+					
+					incoherences.indexOf
+					(
+						'<td><a target="_blank" href="'+lem2+'.html">'+lem2+'</a></td><td>'+trad2+'</td><td><a target="_blank" href="'+lem+'.html">'+lem+'</a></td><td>'+trad1+'</td></tr>\n'
+					) == -1
+				)
+				{
+					inco++;
+					incoherences += '<tr><td><b>'+inco+'</b></td><td><a target="_blank" href="'+lem+'.html">'+lem+'</a></td><td>'+trad1+'</td><td><a target="_blank" href="'+lem2+'.html">'+lem2+'</a></td><td>'+trad2+'</td></tr>\n'
+				}
+				
 			}
 		}
 

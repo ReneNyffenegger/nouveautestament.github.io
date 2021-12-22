@@ -9486,8 +9486,8 @@ lemme={
   "Vient de  ἐκ  et  λανθάνω"
  ],
  "ἐκλέγομαι": [
-  "appeler dehors",
-  "choisir, élire, faire un choix, choisir, cueillir ou choisir pour soi-même.   choisir un parmi plusieurs : Jésus choisissant ses disciples.  élire quelqu'un pour une fonction.  Dieu choisissant qui il a jugé convenable pour recevoir ses faveurs, pour le séparer des autres humains et pour le garder.    les Israélites.    de Dieu le Père choisissant les Chrétiens, ceux qu'il met à part de la multitude irréligieuse, qui lui sont chers, et qui les a rendus citoyens du royaume Messianique, par leur foi en Christ (Jacques 2.5), et le fondement de ce choix repose en Christ et seulement sur ses mérites",
+  "élire",
+  "appeler dehors, élire, faire un choix, choisir, cueillir ou choisir pour soi-même.   choisir un parmi plusieurs : Jésus choisissant ses disciples.  élire quelqu'un pour une fonction.  Dieu choisissant qui il a jugé convenable pour recevoir ses faveurs, pour le séparer des autres humains et pour le garder.    les Israélites.    de Dieu le Père choisissant les Chrétiens, ceux qu'il met à part de la multitude irréligieuse, qui lui sont chers, et qui les a rendus citoyens du royaume Messianique, par leur foi en Christ (Jacques 2.5), et le fondement de ce choix repose en Christ et seulement sur ses mérites",
   "Verbe",
   "Vient de  ἐκ  et  λέγω  (dans son sens primaire)"
  ],
@@ -9504,8 +9504,8 @@ lemme={
   "Vient de  ἐκλέγομαι"
  ],
  "ἐκλογή": [
-  "sélection",
-  "choisi, élection , élus, l'action de choisir.   action de la libre volonté de Dieu qui avait décrété avant la fondation du monde sa bénédiction pour certaines personnes.  le décret venant du choix par lequel il est déterminé de bénir à travers Christ seul.   une chose ou personne choisie.   personnes : élus de Dieu",
+  "élection",
+  "élection, sélection, choisissement, action de choisir.   action de la libre volonté de Dieu qui avait décrété avant la fondation du monde sa bénédiction pour certaines personnes.  le décret venant du choix par lequel il est déterminé de bénir à travers Christ seul.   une chose ou personne choisie.   personnes : élus de Dieu",
   "Nom féminin",
   "Vient de  ἐκλέγομαι"
  ],
@@ -28771,10 +28771,10 @@ lemme={
   "Vient de  σύν  et de  ἐκδημέω"
  ],
  "συνεκλεκτός": [
-  "appelée dehors avec",
+  "co-élue",
   "appelé dehors avec, élu avec, église ensemble, élus ou choisis ensemble (par Dieu pour la vie éternelle)",
   "Adjectif",
-  "Vient d'un composé de  σύν  et  ἐκλέγομαι"
+  "σύν ἐκλεκτός ἐκλέγομαι"
  ],
  "συνελαύνω": [
   "propulser ensemble",

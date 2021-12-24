@@ -822,10 +822,10 @@ lemme={
   "D'origine hébraïque, dérivé de  05869"
  ],
  "αἱρέω": [
-  "élire",
+  "faire hérésie",
   "saisir, préférer , choisir, aimer, prendre pour soi, préférer, choisir.  choisir par vote, élire pour une fonction",
   "Verbe",
-  "Probablement parent de  αἴρω"
+  "αἵρεσις αἴρω"
  ],
  "αἵρεσις": [
   "hérésie, hérésies, hérésie, hérésies",

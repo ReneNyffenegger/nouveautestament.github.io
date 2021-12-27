@@ -36,6 +36,9 @@ function clean_all(word)
 
 
 
+
+
+
 nomsacre = {
 "αθν":"ανθρωπων",
 "α":"μιας_χιλιας_χιλιων",
@@ -185,7 +188,7 @@ nomsacre = {
 "πνοσ":"πνευματος",
 "πν":"πνευμα",
 "πνσι":"πνευμασι",
-"πνσ":"πνευματος_πνευματος",
+"πνσ":"πνευματος",
 "πντα":"πνευματα",
 "πντι":"πνευματι",
 "πνων":"πνευματων",
@@ -263,12 +266,11 @@ nomsacre = {
 "χρσ":"χριστος",
 "χρυ":"χριστου",
 "χρ":"χριστος_χριστου",
-"χρω":"κυριω_χριστω",
+"χρω":"χριστω",
 "χσ":"χριστος",
 "χυ":"χριστου",
 "χω":"χριστω",
 "ω":"ω"
-
 }
 
 
@@ -357,20 +359,25 @@ require('../database/bible/grec/ga01/ga01a.js');
 require('../database/bible/grec/ga01/ga01b.js');
 require('../database/bible/grec/ga01/ga01c.js');
 require('../database/bible/grec/ga01/ga01d.js');
+
 require('../database/bible/grec/ga02/ga02a.js');
 require('../database/bible/grec/ga02/ga02b.js');
 require('../database/bible/grec/ga02/ga02c.js');
+
 require('../database/bible/grec/ga03/ga03a.js');
 require('../database/bible/grec/ga03/ga03b.js');
 require('../database/bible/grec/ga03/ga03c.js');
 require('../database/bible/grec/ga03/ga03d.js');
+
 require('../database/bible/grec/ga04/ga04a.js');
 require('../database/bible/grec/ga04/ga04b.js');
 require('../database/bible/grec/ga04/ga04c.js');
 require('../database/bible/grec/ga04/ga04d.js');
+
 require('../database/bible/grec/ga05/ga05a.js');
 require('../database/bible/grec/ga05/ga05b.js');
 require('../database/bible/grec/ga05/ga05c.js');
+
 require('../database/bible/grec/ga32/ga32a.js');
 require('../database/bible/grec/ga32/ga32b.js');
 

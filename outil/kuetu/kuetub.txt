@@ -177,41 +177,41 @@
 1:7:5:MATTHIEU:3:15:2021:SHORA-KUETU Hypocrite, ôte premièrement la poutre de ton œil ! Alors tu verras clair pour ôter la paille de l'œil de ton frère.
 1:7:6:MATTHIEU:3:15:2021:SHORA-KUETU Ne donnez pas les choses saintes aux chiens et ne jetez pas vos perles devant les pourceaux, de peur qu'ils ne les foulent aux pieds, ne se retournent et ne vous déchirent.
 1:7:7:MATTHIEU:3:15:2021:SHORA-KUETU Demandez et il vous sera donné, cherchez et vous trouverez, frappez et l'on vous ouvrira.
-1:7:8:MATTHIEU:3:15:2021:SHORA-KUETU Car quiconque demande reçoit, et celui qui cherche trouve, et l'on ouvre à celui qui frappe.
+1:7:8:MATTHIEU:3:15:2021:SHORA-KUETU Car quiconque demande reçoit, et celui qui cherche trouve, et à celui qui frappe on ouvrira.
 1:7:9:MATTHIEU:3:15:2021:SHORA-KUETU Et quel est l'être humain parmi vous qui, si son fils lui demande du pain, lui donnera une pierre ?
 1:7:10:MATTHIEU:3:15:2021:SHORA-KUETU Et, s'il lui demande un poisson, lui donnera-t-il un serpent ?
 1:7:11:MATTHIEU:3:15:2021:SHORA-KUETU Si donc, mauvais comme vous l'êtes, vous savez donner des dons qui sont bons à vos enfants, à combien plus forte raison votre Père qui est dans les cieux, donnera-t-il de bonnes choses à ceux qui les lui demandent ?
 1:7:12:MATTHIEU:3:15:2021:SHORA-KUETU Toutes les choses donc que vous voulez que les gens fassent pour vous, faites-les de même pour eux, car c'est la torah et les prophètes.
-1:7:13:MATTHIEU:3:15:2021:SHORA-KUETU Entrez par la porte étroite. Parce que large et spacieux est le chemin qui mène à la perdition, et il y en a beaucoup qui y entrent.
-1:7:14:MATTHIEU:3:15:2021:SHORA-KUETU Car étroite est la porte, et rétréci le chemin qui mène à la vie, et il y en a peu qui les trouvent.
+1:7:13:MATTHIEU:3:15:2021:SHORA-KUETU Entrez par la porte étroite, parce que large est la porte, et spacieux est le chemin qui mène à la perdition, et il y en a beaucoup qui entrent par elle.
+1:7:14:MATTHIEU:3:15:2021:SHORA-KUETU Car étroite est la porte, et rétréci le chemin qui mène à la vie, et il y en a peu qui le trouvent.
 1:7:15:MATTHIEU:3:15:2021:SHORA-KUETU Mais gardez-vous des faux prophètes qui viennent à vous en habits de brebis, mais au-dedans, ce sont des loups ravisseurs.
 1:7:16:MATTHIEU:3:15:2021:SHORA-KUETU Vous les reconnaîtrez à leurs fruits. Cueille-t-on un raisin sur des épines ou des figues sur des chardons ?
 1:7:17:MATTHIEU:3:15:2021:SHORA-KUETU Ainsi tout bon arbre produit de bons fruits, mais l'arbre pourri produit de mauvais fruits.
 1:7:18:MATTHIEU:3:15:2021:SHORA-KUETU Un bon arbre ne peut produire de mauvais fruits, ni un arbre pourri produire de bons fruits.
 1:7:19:MATTHIEU:3:15:2021:SHORA-KUETU Tout arbre qui ne produit pas de bons fruits est coupé et jeté au feu.
 1:7:20:MATTHIEU:3:15:2021:SHORA-KUETU Vous les reconnaîtrez donc à leurs fruits.
-1:7:21:MATTHIEU:3:15:2021:SHORA-KUETU Ceux qui me disent : Seigneur ! Seigneur ! n'entreront pas tous dans le Royaume des cieux, mais celui qui fait la volonté de mon Père qui est dans les cieux.
+1:7:21:MATTHIEU:3:15:2021:SHORA-KUETU Ce n'est pas tout homme qui me dit : Seigneur ! Seigneur, qui entrera dans le royaume des cieux, mais celui qui fait la volonté de mon Père qui est dans les cieux !
 1:7:22:MATTHIEU:3:15:2021:SHORA-KUETU Beaucoup me diront en ce jour-là : Seigneur, Seigneur, n'est-ce pas en ton Nom que nous avons prophétisé ? En ton Nom que nous avons chassé les démons ? En ton Nom que nous avons fait beaucoup de miracles ?
 1:7:23:MATTHIEU:3:15:2021:SHORA-KUETU Et alors je leur dirai ouvertement : Je ne vous ai jamais connus. Retirez-vous de moi, vous qui travaillez pour la violation de la torah !
 1:7:24:MATTHIEU:3:15:2021:SHORA-KUETU C'est pourquoi quiconque entend de moi ces paroles et les met en pratique, je le comparerai à un homme prudent qui a bâti sa maison sur le rocher.
 1:7:25:MATTHIEU:3:15:2021:SHORA-KUETU Et la pluie est tombée, et les fleuves sont venus, et les vents ont soufflé et se sont précipités sur cette maison : et elle n'est pas tombée, parce qu'elle était fondée sur le rocher.
 1:7:26:MATTHIEU:3:15:2021:SHORA-KUETU Mais quiconque entend de moi ces paroles, et ne les met pas en pratique sera semblable à un homme insensé qui a bâti sa maison sur le sable.
 1:7:27:MATTHIEU:3:15:2021:SHORA-KUETU Et la pluie est descendue, et les fleuves sont venus et les vents ont soufflé et se sont abattus contre cette maison. Et elle est tombée et sa ruine a été grande.
-1:7:28:MATTHIEU:3:15:2021:SHORA-KUETU Or il arriva que, quand Yéhoshoua eut achevé ce discours, les foules furent choquées par sa doctrine,
+1:7:28:MATTHIEU:3:15:2021:SHORA-KUETU Or il arriva que, quand Yéhoshoua eut achevé ces discours, les foules furent choquées par sa doctrine,
 1:7:29:MATTHIEU:3:15:2021:SHORA-KUETU car il les enseignait comme ayant de l'autorité, et non comme les scribes.
 1:8:1:MATTHIEU:3:15:2021:SHORA-KUETU Et quand il fut descendu de la montagne, de grandes foules le suivirent.
 1:8:2:MATTHIEU:3:15:2021:SHORA-KUETU Et voici, qu'un lépreux étant venu, l'adorait en disant : Seigneur, si tu le veux, tu peux me rendre pur.
 1:8:3:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua, étendant la main le toucha, et dit : Je le veux, sois pur. Et à l'instant même, sa lèpre fut purifiée.
-1:8:4:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua lui dit : Attention ! Ne le dis à personne, mais va te montrer au prêtre et offre l'offrande que Moshé a prescrite, en témoignage pour eux.
+1:8:4:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua lui dit : Attention ! Ne le dis à personne, mais va, montre-toi au prêtre et offre l'offrande que Moshé a prescrite, en témoignage pour eux.
 1:8:5:MATTHIEU:3:15:2021:SHORA-KUETU Et quand Yéhoshoua fut entré dans Capernaüm, un officier de l'armée romaine s'approcha de lui, le suppliant
 1:8:6:MATTHIEU:3:15:2021:SHORA-KUETU et disant : Seigneur, mon serviteur est couché à la maison, atteint de paralysie et violemment tourmenté.
 1:8:7:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua lui dit : Moi, je viendrai et je le guérirai.
-1:8:8:MATTHIEU:3:15:2021:SHORA-KUETU Mais l'officier de l'armée romaine répondit et dit : Seigneur, je ne suis pas digne que tu entres sous mon toit, mais dis seulement une parole et mon serviteur sera guéri.
+1:8:8:MATTHIEU:3:15:2021:SHORA-KUETU Et l'officier de l'armée romaine répondit en disant : Seigneur, je ne suis pas digne que tu entres sous mon toit, mais dis seulement une parole et mon serviteur sera guéri.
 1:8:9:MATTHIEU:3:15:2021:SHORA-KUETU Car moi-même qui suis un homme soumis à l'autorité, ayant sous moi des soldats, et je dis à l'un : Va ! et il va, et à un autre : Viens ! et il vient, et à mon esclave : Fais cela ! et il le fait.
-1:8:10:MATTHIEU:3:15:2021:SHORA-KUETU Mais après l'avoir entendu, Yéhoshoua fut étonné et dit à ceux qui le suivaient : Amen, je vous le dis, même en Israël, je n'ai pas trouvé une aussi grande foi.
+1:8:10:MATTHIEU:3:15:2021:SHORA-KUETU Or, en l’entendant, Yéhoshoua fut étonné, et il dit à ceux qui le suivaient : Amen, je vous le dis, même en Israël, je n'ai pas trouvé une aussi grande foi.
 1:8:11:MATTHIEU:3:15:2021:SHORA-KUETU Mais je vous dis que beaucoup viendront de l'orient et de l'occident, et seront à table dans le Royaume des cieux avec Abraham, et Yitzhak et Yaacov.
 1:8:12:MATTHIEU:3:15:2021:SHORA-KUETU Et les fils du Royaume seront jetés dans la ténèbre du dehors : là seront les pleurs et le grincement des dents.
-1:8:13:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua dit à l'officier de l'armée romaine : Va, et qu'il te soit fait selon ta foi. Et à l'heure même son serviteur fut guéri.
+1:8:13:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua dit à l'officier de l'armée romaine : Va, et qu'il te soit fait selon que tu as cru. Et à l'heure même son serviteur fut guéri.
 1:8:14:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua étant venu dans la maison de Petros, vit sa belle-mère qui était couchée et qui avait la fièvre.
 1:8:15:MATTHIEU:3:15:2021:SHORA-KUETU Et il toucha sa main et la fièvre la quitta. Et elle se leva et le servit.
 1:8:16:MATTHIEU:3:15:2021:SHORA-KUETU Et le soir étant venu, on lui amena beaucoup de démoniaques. Et il chassa les esprits par sa parole et guérit tous ceux qui étaient malades,
@@ -222,7 +222,7 @@
 1:8:21:MATTHIEU:3:15:2021:SHORA-KUETU Mais un autre de ses disciples lui dit : Seigneur, permets-moi d'aller d'abord ensevelir mon père.
 1:8:22:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua lui dit : Suis-moi et laisse les morts ensevelir leurs morts.
 1:8:23:MATTHIEU:3:15:2021:SHORA-KUETU Et quand il fut monté dans le bateau, ses disciples le suivirent.
-1:8:24:MATTHIEU:3:15:2021:SHORA-KUETU Et voici, il s'éleva sur la mer une si grande tempête que le bateau était couvert de flots. Et lui, il dormait.
+1:8:24:MATTHIEU:3:15:2021:SHORA-KUETU Et voici, il s'éleva sur la mer une si grande tempête que le bateau était couvert par les grosses vagues. Et lui, il dormait.
 1:8:25:MATTHIEU:3:15:2021:SHORA-KUETU Et ses disciples s'étant approchés le réveillèrent, et dirent : Seigneur, sauve-nous, nous périssons !
 1:8:26:MATTHIEU:3:15:2021:SHORA-KUETU Et il leur dit : Pourquoi avez-vous peur, gens de peu de foi ? Alors s'étant réveillé, il réprimanda d'une manière tranchante les vents et la mer, et il se fit un grand calme.
 1:8:27:MATTHIEU:3:15:2021:SHORA-KUETU Et les hommes furent dans l'admiration et dirent : Qui est celui-ci à qui obéissent même les vents et la mer ?
@@ -245,7 +245,7 @@
 1:9:10:MATTHIEU:3:15:2021:SHORA-KUETU Et il arriva comme il était à table dans la maison, que voici, beaucoup de publicains et de pécheurs vinrent et se mirent à table avec Yéhoshoua et ses disciples.
 1:9:11:MATTHIEU:3:15:2021:SHORA-KUETU Et les pharisiens voyant cela, dirent à ses disciples : Pourquoi votre Docteur mange-t-il avec les publicains et les pécheurs ?
 1:9:12:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua les ayant entendus, leur dit : Ce ne sont pas ceux qui sont en bonne santé qui ont besoin de médecin, mais les malades.
-1:9:13:MATTHIEU:3:15:2021:SHORA-KUETU Mais allez et apprenez ce que signifie : Je prends plaisir à la miséricorde et non aux sacrifices. Car je ne suis pas venu appeler à la repentance les justes, mais les pécheurs.
+1:9:13:MATTHIEU:3:15:2021:SHORA-KUETU Mais allez et apprenez ce que signifie : Je veux la miséricorde et non pas le sacrifice. Car je ne suis pas venu appeler à la repentance les justes, mais les pécheurs.
 1:9:14:MATTHIEU:3:15:2021:SHORA-KUETU Alors les disciples de Yohanan s’approchent de lui en disant : Pourquoi nous et les pharisiens jeûnons-nous souvent, tandis que tes disciples ne jeûnent pas ?
 1:9:15:MATTHIEU:3:15:2021:SHORA-KUETU Et Yéhoshoua leur dit : Les fils de la chambre nuptiale peuvent-ils être en deuil pendant que l'Époux est avec eux ? Mais les jours viendront où l'Époux leur sera enlevé, et alors ils jeûneront.
 1:9:16:MATTHIEU:3:15:2021:SHORA-KUETU Mais personne ne met une pièce de drap neuf à un vieil habit, car ce qui est mis pour remplir emporte l'habit et la déchirure en devient pire.
@@ -348,7 +348,7 @@
 1:12:3:MATTHIEU:3:15:2021:SHORA-KUETU Mais il leur dit : N'avez-vous pas lu ce que fit David quand il eut faim, lui et ceux qui étaient avec lui ?
 1:12:4:MATTHIEU:3:15:2021:SHORA-KUETU Comment il entra dans la maison d'Elohîm et mangea les pains des faces, ce qui n'était pas légal de manger ni pour lui, ni pour ceux qui étaient avec lui, mais pour les prêtres seulement ?
 1:12:5:MATTHIEU:3:15:2021:SHORA-KUETU Ou n'avez-vous pas lu dans la torah que, les jours de shabbat, les prêtres profanent le shabbat dans le temple sans se rendre coupables ?
-1:12:6:MATTHIEU:3:15:2021:SHORA-KUETU Or je vous le dis, qu'il y a ici quelqu'un de plus grand que le temple.
+1:12:6:MATTHIEU:3:15:2021:SHORA-KUETU Mais je vous dis qu’il y a ici quelque chose de plus grand que le temple.
 1:12:7:MATTHIEU:3:15:2021:SHORA-KUETU Mais si vous saviez ce que signifie : Je veux la miséricorde et non pas le sacrifice, vous n'auriez pas condamné des innocents.
 1:12:8:MATTHIEU:3:15:2021:SHORA-KUETU Car le Fils d'humain est Seigneur même du shabbat.
 1:12:9:MATTHIEU:3:15:2021:SHORA-KUETU Et étant parti de là, il entra dans leur synagogue.
@@ -364,7 +364,7 @@
 1:12:19:MATTHIEU:3:15:2021:SHORA-KUETU Il ne se querellera pas, il ne criera pas et personne n'entendra sa voix dans les rues.
 1:12:20:MATTHIEU:3:15:2021:SHORA-KUETU Il ne brisera pas le roseau cassé et n'éteindra pas le lumignon qui fume, jusqu'à ce qu'il ait fait triompher la justice.
 1:12:21:MATTHIEU:3:15:2021:SHORA-KUETU Et les nations espéreront en son Nom.
-1:12:22:MATTHIEU:3:15:2021:SHORA-KUETU Alors, on lui amena un démoniaque aveugle et muet, et il le guérit, de sorte que celui qui avait été aveugle et muet, parlait et voyait.
+1:12:22:MATTHIEU:3:15:2021:SHORA-KUETU Alors, on lui amena un démoniaque aveugle et muet, et il le guérit, de sorte que l'aveugle et muet parlait et voyait.
 1:12:23:MATTHIEU:3:15:2021:SHORA-KUETU Et toutes les foules en furent étonnées et elles disaient : Celui-ci n'est-il pas le Fils de David ?
 1:12:24:MATTHIEU:3:15:2021:SHORA-KUETU Mais les pharisiens ayant entendu cela, disaient : Celui-ci ne chasse les démons que par Béelzéboul, le chef des démons.
 1:12:25:MATTHIEU:3:15:2021:SHORA-KUETU Mais Yéhoshoua connaissant leurs pensées, leur dit : Tout royaume divisé contre lui-même, sera réduit en désert, et toute ville ou maison divisée contre elle-même, ne subsistera pas.
@@ -396,7 +396,7 @@
 1:13:1:MATTHIEU:3:15:2021:SHORA-KUETU Or, en ce jour-là, Yéhoshoua étant sorti de la maison, s'était assis près de la mer.
 1:13:2:MATTHIEU:3:15:2021:SHORA-KUETU Et de grandes foules se rassemblèrent auprès de lui, de sorte que, montant dans le bateau, il s'y assit. Et toute la foule se tenait sur le rivage.
 1:13:3:MATTHIEU:3:15:2021:SHORA-KUETU Et il leur parla en paraboles sur beaucoup de choses, et il dit : Voici que celui qui sème sortit pour semer.
-1:13:4:MATTHIEU:3:15:2021:SHORA-KUETU Il sème et il en tomba en effet à côté du chemin et les oiseaux vinrent et la mangèrent.
+1:13:4:MATTHIEU:3:15:2021:SHORA-KUETU Il sème et il tomba de la semence en effet à côté du chemin et les oiseaux vinrent et la mangèrent.
 1:13:5:MATTHIEU:3:15:2021:SHORA-KUETU Mais une autre tomba dans les endroits pierreux où elle n'avait pas beaucoup de terre, et elle leva immédiatement parce que la terre n'a pas de profondeur.
 1:13:6:MATTHIEU:3:15:2021:SHORA-KUETU Mais, quand le soleil parut, elle fut brûlée par la chaleur et sécha parce qu'elle n'a pas de racines.
 1:13:7:MATTHIEU:3:15:2021:SHORA-KUETU Mais une autre tomba parmi les épines, et les épines montèrent et l'étouffèrent.
@@ -474,7 +474,7 @@
 1:14:21:MATTHIEU:3:15:2021:SHORA-KUETU Or ceux qui avaient mangé étaient environ 5 000 hommes, sans compter les femmes et les petits enfants.
 1:14:22:MATTHIEU:3:15:2021:SHORA-KUETU Et immédiatement après, Yéhoshoua força ses disciples à monter dans le bateau et à passer avant lui de l'autre côté, pendant qu'il renverrait les foules.
 1:14:23:MATTHIEU:3:15:2021:SHORA-KUETU Et, après avoir renvoyé les foules, il monta sur la montagne pour prier à l'écart et, le soir venu, il était là seul.
-1:14:24:MATTHIEU:3:15:2021:SHORA-KUETU Mais le bateau, déjà au milieu de la mer, était battu par les flots, car le vent était contraire.
+1:14:24:MATTHIEU:3:15:2021:SHORA-KUETU Mais le bateau, déjà au milieu de la mer, était battu par les grosses vagues, car le vent était contraire.
 1:14:25:MATTHIEU:3:15:2021:SHORA-KUETU Et vers la quatrième veille de la nuit, Yéhoshoua alla vers eux, marchant sur la mer.
 1:14:26:MATTHIEU:3:15:2021:SHORA-KUETU Et ses disciples le voyant marcher sur la mer, furent troublés et dirent : C'est un fantôme ! Et, dans leur frayeur, ils poussèrent des cris.
 1:14:27:MATTHIEU:3:15:2021:SHORA-KUETU Mais Yéhoshoua leur dit immédiatement : Ayez confiance, c'est moi, n'ayez pas peur !
@@ -1213,7 +1213,7 @@
 2:4:34:MARC:3:15:2021:SHORA-KUETU Et il ne leur parlait pas sans paraboles, mais, en particulier, il expliquait tout à ses disciples.
 2:4:35:MARC:3:15:2021:SHORA-KUETU Et ce jour-là, le soir venu, il leur dit : Passons sur l'autre bord.
 2:4:36:MARC:3:15:2021:SHORA-KUETU Et ayant renvoyé la foule, ils l’emmènent dans le petit bateau où il se trouvait. Et il y avait aussi d'autres petits bateaux avec lui.
-2:4:37:MARC:3:15:2021:SHORA-KUETU Et un grand tourbillon de vent survient, et les flots se jetaient dans le bateau au point de le remplir.
+2:4:37:MARC:3:15:2021:SHORA-KUETU Et un grand tourbillon de vent survient, et les grosses vagues se jetaient dans le bateau au point de le remplir.
 2:4:38:MARC:3:15:2021:SHORA-KUETU Et lui, il était à la poupe, dormant sur l'oreiller. Et ils le réveillent et lui disent : Docteur, ne t'inquiètes-tu pas de ce que nous périssons ?
 2:4:39:MARC:3:15:2021:SHORA-KUETU Et s'étant réveillé, il réprimanda d'une manière tranchante le vent, et dit à la mer : Silence ! Sois muselée ! Et le vent cessa, et il eut un grand calme.
 2:4:40:MARC:3:15:2021:SHORA-KUETU Et il leur dit : Pourquoi avez-vous si peur ? Comment n'avez-vous pas de foi ?
@@ -1518,8 +1518,8 @@
 2:11:22:MARC:3:15:2021:SHORA-KUETU Et Yéhoshoua répondant, leur dit : Ayez foi en Elohîm.
 2:11:23:MARC:3:15:2021:SHORA-KUETU Amen, car je vous dis que quiconque dira à cette montagne : Sois enlevée et jetée dans la mer, et qui n'aura pas douté en son cœur, mais qui croit que ce qu'il dit arrivera, ce qu'il dit se fera pour lui.
 2:11:24:MARC:3:15:2021:SHORA-KUETU C'est pourquoi je vous dis : Tout ce que vous demanderez en priant, croyez que vous le recevez, et cela sera pour vous.
-2:11:25:MARC:3:15:2021:SHORA-KUETU Et quand vous êtes debout pour offrir des prières, si vous avez quelque chose contre quelqu'un, remettez-lui, afin que votre Père qui est dans les cieux vous remette aussi vos fautes.
-2:11:26:MARC:3:15:2021:SHORA-KUETU Mais si vous ne remettez pas, votre Père qui est dans les cieux ne vous remettra pas aussi vos fautes.
+2:11:25:MARC:3:15:2021:SHORA-KUETU Et quand vous êtes debout pour offrir des prières, si vous avez quelque chose contre quelqu'un, remettez-le-lui, afin que votre Père qui est dans les cieux vous remette aussi vos fautes.
+2:11:26:MARC:3:15:2021:SHORA-KUETU Mais si vous ne le lui remettez pas, votre Père qui est dans les cieux ne vous remettra pas aussi vos fautes.
 2:11:27:MARC:3:15:2021:SHORA-KUETU Et ils viennent de nouveau à Yeroushalaim. Et comme il marchait dans le temple, les principaux prêtres, les scribes et les anciens viennent à lui,
 2:11:28:MARC:3:15:2021:SHORA-KUETU et lui disent : Par quelle autorité fais-tu ces choses et qui t'a donné l'autorité de les faire ?
 2:11:29:MARC:3:15:2021:SHORA-KUETU Mais Yéhoshoua répondant, leur dit : Je vous interrogerai, moi aussi sur une parole, et répondez-moi. Et je vous dirai par quelle autorité je fais ces choses.
@@ -2142,7 +2142,7 @@
 3:8:41:LUC:3:15:2021:SHORA-KUETU Et voici qu'arriva un homme du nom de Yaïr, qui était chef de la synagogue. Et, tombant aux pieds de Yéhoshoua, il le suppliait d'entrer dans sa maison,
 3:8:42:LUC:3:15:2021:SHORA-KUETU parce qu'il avait une fille unique, âgée d'environ 12 ans, qui se mourait. Mais comme il y allait, les foules l'étouffaient.
 3:8:43:LUC:3:15:2021:SHORA-KUETU Et une femme ayant une perte de sang depuis 12 ans, et qui, ayant dépensé tout son bien pour les médecins, n'avait pu être guérie par aucun,
-3:8:44:LUC:3:15:2021:SHORA-KUETU s'approchant par derrière et toucha le bord de son vêtement. Immédiatement la perte de sang s'arrêta.
+3:8:44:LUC:3:15:2021:SHORA-KUETU s'approcha par derrière et toucha le bord de son vêtement. Immédiatement la perte de sang s'arrêta.
 3:8:45:LUC:3:15:2021:SHORA-KUETU Et Yéhoshoua dit : Qui m'a touché ? Comme tous le niaient, Petros et ceux qui étaient avec lui, dirent : Maître, la foule qui t'entoure te presse, et tu dis : Qui m'a touché ?
 3:8:46:LUC:3:15:2021:SHORA-KUETU Mais Yéhoshoua dit : Quelqu'un m'a touché, car je sais qu'une force est sortie de moi.
 3:8:47:LUC:3:15:2021:SHORA-KUETU Et la femme, voyant qu'elle n'était pas restée cachée, vint en tremblant et, tombant devant lui, lui déclara devant tout le peuple pour quelle raison elle l'avait touché, et comment elle avait été guérie instantanément.
@@ -2268,13 +2268,13 @@
 3:11:7:LUC:3:15:2021:SHORA-KUETU et que celui-ci répondant de l’intérieur dise : Ne m'importune pas, la porte est déjà fermée, et mes enfants sont au lit avec moi, je ne puis me lever pour t'en donner.
 3:11:8:LUC:3:15:2021:SHORA-KUETU Je vous le dis, même s'il ne se lève pas pour lui donner parce que c'est son ami, il se lèvera à cause de son impudence et lui donnera tout ce dont il a besoin.
 3:11:9:LUC:3:15:2021:SHORA-KUETU Ainsi je vous dis : Demandez, et il vous sera donné. Cherchez, et vous trouverez. Frappez, et l'on vous ouvrira.
-3:11:10:LUC:3:15:2021:SHORA-KUETU Car quiconque demande reçoit, et celui qui cherche trouve, et l'on ouvre à celui qui frappe.
+3:11:10:LUC:3:15:2021:SHORA-KUETU Car quiconque demande reçoit, et celui qui cherche trouve, et l’on ouvrira à celui qui frappe.
 3:11:11:LUC:3:15:2021:SHORA-KUETU Mais quel est parmi vous le père à qui son fils demandera un pain ? Il ne lui donnera pas une pierre. Et s'il demande un poisson, il ne lui donnera pas un serpent à la place d'un poisson !
 3:11:12:LUC:3:15:2021:SHORA-KUETU Ou aussi, s'il demande un œuf, il ne lui donnera pas un scorpion !
 3:11:13:LUC:3:15:2021:SHORA-KUETU Si donc, mauvais comme vous l'êtes, vous savez donner des dons qui sont bons à vos enfants, à combien plus forte raison le Père depuis le ciel donnera-t-il l'Esprit Saint à ceux qui le lui demandent.
 3:11:14:LUC:3:15:2021:SHORA-KUETU Et il chassa un démon qui était muet. Et il arriva que le démon étant sorti, le muet parla et la foule fut dans l'admiration.
 3:11:15:LUC:3:15:2021:SHORA-KUETU Mais quelques-uns d'entre eux dirent : C'est par Béelzéboul, le chef des démons, qu'il chasse les démons.
-3:11:16:LUC:3:15:2021:SHORA-KUETU Mais les autres, pour l'éprouver, lui demandaient un miracle venant du ciel.
+3:11:16:LUC:3:15:2021:SHORA-KUETU Mais les autres, pour l'éprouver, lui demandaient un signe venant du ciel.
 3:11:17:LUC:3:15:2021:SHORA-KUETU Mais lui, connaissant leurs pensées, leur dit : Tout royaume divisé contre lui-même sera dévasté. Et maison, contre maison, tombe.
 3:11:18:LUC:3:15:2021:SHORA-KUETU Mais si Satan aussi est divisé contre lui-même, comment son royaume subsistera-t-il, puisque vous dites que je chasse les démons par Béelzéboul ?
 3:11:19:LUC:3:15:2021:SHORA-KUETU Mais si moi, je chasse les démons par Béelzéboul, vos fils, par qui les chassent-ils ? À cause de cela, ils seront eux-mêmes vos juges !
@@ -2284,16 +2284,16 @@
 3:11:23:LUC:3:15:2021:SHORA-KUETU Celui qui n'est pas avec moi est contre moi et celui qui n'assemble pas avec moi disperse.
 3:11:24:LUC:3:15:2021:SHORA-KUETU Lorsque l'esprit impur est sorti de l’être humain, il passe par des lieux sans eau, cherchant du repos. N'en trouvant pas, il dit : Je retournerai dans ma maison, d'où je suis sorti,
 3:11:25:LUC:3:15:2021:SHORA-KUETU et quand il arrive, il la trouve balayée et ornée.
-3:11:26:LUC:3:15:2021:SHORA-KUETU Alors il s'en va et prend avec lui, sept autres esprits plus méchants que lui, et ils y entrent et s'y établissent, de sorte que la dernière condition de cet homme est pire que la première.
+3:11:26:LUC:3:15:2021:SHORA-KUETU Alors il s'en va et prend avec lui, sept autres esprits plus méchants que lui, et ils y entrent et s'y établissent, de sorte que la dernière condition de cet être humain est pire que la première.
 3:11:27:LUC:3:15:2021:SHORA-KUETU Or il arriva comme il disait ces choses, qu'une femme élevant sa voix du milieu de la foule, lui dit : Béni est le ventre qui t'a porté, et les mamelles que tu as tétées !
 3:11:28:LUC:3:15:2021:SHORA-KUETU Mais il dit : Bénis sont plutôt ceux qui écoutent la parole d'Elohîm et qui la gardent !
 3:11:29:LUC:3:15:2021:SHORA-KUETU Et comme les foules s'amassaient ensemble, il se mit à dire : Cette génération est méchante. Elle demande un signe, mais il ne lui sera pas donné de signe, excepté le signe de Yonah, le prophète.
-3:11:30:LUC:3:15:2021:SHORA-KUETU Car, de même que Yonah fut un signe pour les Ninivites, de même le Fils d'humain en sera un pour cette génération.
+3:11:30:LUC:3:15:2021:SHORA-KUETU Car, de même que Yonah devint un signe pour les Ninivites, de même le Fils d'humain en sera un pour cette génération.
 3:11:31:LUC:3:15:2021:SHORA-KUETU La reine du midi se réveillera au jugement contre les hommes de cette génération et les condamnera, parce qu'elle vint des extrémités de la Terre pour entendre la sagesse de Shelomoh, et voici, il y a ici plus que Shelomoh.
 3:11:32:LUC:3:15:2021:SHORA-KUETU Les hommes de Ninive se relèveront au jugement contre cette génération et la condamneront, parce qu'ils se sont repentis à la prédication de Yonah, et voici, il y a ici plus que Yonah.
 3:11:33:LUC:3:15:2021:SHORA-KUETU Personne, après avoir allumé une lampe, ne la met dans un lieu caché ou sous le boisseau, mais sur un chandelier, afin que ceux qui entrent voient la lumière.
 3:11:34:LUC:3:15:2021:SHORA-KUETU L'œil est la lampe du corps. Si donc ton œil est simple, tout ton corps aussi sera lumineux. Mais s'il est méchant, ton corps sera dans l'obscurité.
-3:11:35:LUC:3:15:2021:SHORA-KUETU Prends donc garde que la lumière qui est en toi ne soit pas ténèbre.
+3:11:35:LUC:3:15:2021:SHORA-KUETU Prends donc garde que la lumière qui est en toi ne soit ténèbre.
 3:11:36:LUC:3:15:2021:SHORA-KUETU Si donc tout ton corps est lumineux, n'ayant aucune partie dans l'obscurité, il sera entièrement lumineux, comme lorsque la lampe t'éclaire de sa lumière.
 3:11:37:LUC:3:15:2021:SHORA-KUETU Et comme il parlait, un pharisien le pria de dîner chez lui. Il entra et se mit à table.
 3:11:38:LUC:3:15:2021:SHORA-KUETU Mais le pharisien vit avec étonnement qu'il ne s'était pas premièrement baptisé avant le dîner.
@@ -2303,14 +2303,14 @@
 3:11:42:LUC:3:15:2021:SHORA-KUETU Mais malheur à vous, pharisiens, parce que vous payez la dîme de la menthe, de la rue, et de chaque légume et que vous négligez la justice et l'amour d'Elohîm. C'est là ce qu'il fallait pratiquer, sans négliger les autres choses.
 3:11:43:LUC:3:15:2021:SHORA-KUETU Malheur à vous, pharisiens ! Parce que vous aimez le premier siège dans les synagogues et les salutations sur les places du marché !
 3:11:44:LUC:3:15:2021:SHORA-KUETU Malheur à vous, scribes et pharisiens hypocrites, parce que vous êtes comme les sépulcres qui ne paraissent pas, et sur lesquels les gens marchent sans le voir.
-3:11:45:LUC:3:15:2021:SHORA-KUETU Mais un des docteurs de la torah prit la parole et lui dit : Docteur, en disant ces choses, tu nous outrages, nous aussi !
+3:11:45:LUC:3:15:2021:SHORA-KUETU Mais un des docteurs de la torah répondit et lui dit : Docteur, en disant ces choses, tu nous outrages, nous aussi !
 3:11:46:LUC:3:15:2021:SHORA-KUETU Et il dit : Malheur à vous aussi, docteurs de la torah ! Car vous chargez les gens de fardeaux difficiles à porter, et vous-mêmes vous ne touchez pas ces fardeaux d'un seul de vos doigts.
 3:11:47:LUC:3:15:2021:SHORA-KUETU Malheur à vous, parce que vous bâtissez les sépulcres des prophètes, que vos pères ont tués.
 3:11:48:LUC:3:15:2021:SHORA-KUETU Vous rendez donc témoignage aux œuvres de vos pères, et vous y prenez plaisir, car eux, ils les ont vraiment tués, et vous, vous bâtissez leurs sépulcres.
 3:11:49:LUC:3:15:2021:SHORA-KUETU À cause de cela, la sagesse d'Elohîm a dit : Je leur enverrai des prophètes et des apôtres, et ils en tueront, et ils en persécuteront,
 3:11:50:LUC:3:15:2021:SHORA-KUETU afin que le sang de tous les prophètes qui a été répandu dès la fondation du monde soit redemandé à cette génération,
 3:11:51:LUC:3:15:2021:SHORA-KUETU depuis le sang d'Abel jusqu'au sang de Zekaryah, qui fut tué entre l'autel et la maison. Oui, je vous le dis qu'il sera redemandé à cette génération.
-3:11:52:LUC:3:15:2021:SHORA-KUETU Malheur à vous docteurs de la torah ! Parce que vous avez enlevé la clé de la connaissance ! Vous n'êtes pas entrés vous-mêmes et vous avez empêché ceux qui entraient !
+3:11:52:LUC:3:15:2021:SHORA-KUETU Malheur à vous docteurs de la torah ! Parce que vous avez enlevé la clé de la connaissance ! Vous n'êtes pas entrés vous-mêmes, et ceux qui entraient, vous les en avez empêchés !
 3:11:53:LUC:3:15:2021:SHORA-KUETU Et comme il leur disait ces choses, les scribes et les pharisiens commencèrent à le presser violemment, et à le faire parler sur beaucoup de choses,
 3:11:54:LUC:3:15:2021:SHORA-KUETU lui tendant des pièges et cherchant à attraper par artifice quelque chose sortie de sa bouche, afin de l'accuser.
 3:12:1:LUC:3:15:2021:SHORA-KUETU Cependant, la foule s'étant rassemblée par milliers, en sorte qu'ils marchaient les uns sur les autres, il se mit à dire à ses disciples : En premier lieu, gardez-vous du levain des pharisiens, qui est l'hypocrisie.
@@ -2704,8 +2704,8 @@
 3:21:22:LUC:3:15:2021:SHORA-KUETU Car ce sont là des jours de vengeance, afin que soient accomplies toutes les choses qui sont écrites.
 3:21:23:LUC:3:15:2021:SHORA-KUETU Mais malheur aux femmes qui seront enceintes et à celles qui allaiteront en ces jours-là ! Car il y aura une grande calamité sur le pays, et de la colère contre ce peuple.
 3:21:24:LUC:3:15:2021:SHORA-KUETU Et ils tomberont sous le tranchant de l'épée, ils seront emmenés captifs parmi toutes les nations, et Yeroushalaim sera foulée aux pieds par les nations, jusqu'à ce que les temps des nations soient accomplis.
-3:21:25:LUC:3:15:2021:SHORA-KUETU Et il y aura des signes dans le soleil, et dans la lune et dans les étoiles, et sur la Terre une détresse des nations en perplexité devant le bruit de la mer et des flots,
-3:21:26:LUC:3:15:2021:SHORA-KUETU et les gens expirant de frayeur dans l'attente des choses qui surviendront sur toute la terre habitée, car les puissances des cieux seront ébranlées.
+3:21:25:LUC:3:15:2021:SHORA-KUETU Et il y aura des signes dans le soleil, et dans la lune et dans les étoiles, et sur la Terre, l’oppression des nations en perplexité à cause du bruit de la mer et de son agitation,
+3:21:26:LUC:3:15:2021:SHORA-KUETU et les humains expirant de frayeur dans l'attente des choses qui surviendront sur toute la terre habitée, car les puissances des cieux seront ébranlées.
 3:21:27:LUC:3:15:2021:SHORA-KUETU Et alors, ils verront le Fils d'humain venant sur une nuée avec puissance et grande gloire.
 3:21:28:LUC:3:15:2021:SHORA-KUETU Mais quand ces choses commenceront à arriver, regardez en haut et levez vos têtes, parce que votre rédemption approche.
 3:21:29:LUC:3:15:2021:SHORA-KUETU Et il leur proposa une parabole : Voyez le figuier et tous les autres arbres.
@@ -2754,7 +2754,7 @@
 3:22:34:LUC:3:15:2021:SHORA-KUETU Mais il lui dit : Petros, je te dis que le coq ne chantera pas aujourd'hui, que premièrement tu n'aies nié trois fois de me connaître.
 3:22:35:LUC:3:15:2021:SHORA-KUETU Et il leur dit : Quand je vous ai envoyés sans bourse, sans sac et sans sandales, avez-vous manqué de quelque chose ? Ils répondirent : De rien.
 3:22:36:LUC:3:15:2021:SHORA-KUETU Et il leur dit : Mais maintenant, que celui qui a une bourse la prenne, de même aussi un sac, et que celui qui n'a pas d'épée vende son vêtement et achète une épée.
-3:22:37:LUC:3:15:2021:SHORA-KUETU Car je vous dis qu'il faut que ceci encore qui est écrit, s’accomplisse en moi : Il a été mis au nombre des violeurs de la torah. Et ce qui me concerne touche en effet à sa fin.
+3:22:37:LUC:3:15:2021:SHORA-KUETU Car je vous dis qu'il faut que ceci encore qui est écrit, s’accomplisse en moi : Et il a été compté parmi les violeurs de la torah. Car aussi les choses qui me concernent ont une fin.
 3:22:38:LUC:3:15:2021:SHORA-KUETU Et ils dirent : Seigneur, voici ici deux épées. Et il leur dit : C'est assez.
 3:22:39:LUC:3:15:2021:SHORA-KUETU Et étant sorti, il s’en alla, selon sa coutume, à la montagne des Oliviers. Et ses disciples aussi le suivirent.
 3:22:40:LUC:3:15:2021:SHORA-KUETU Et lorsqu'il fut arrivé à cet endroit, il leur dit : Priez afin que vous n'entriez pas en tentation.
@@ -2768,7 +2768,7 @@
 3:22:48:LUC:3:15:2021:SHORA-KUETU Mais Yéhoshoua lui dit : Yéhouda, c'est par un baiser que tu livres le Fils d'humain ?
 3:22:49:LUC:3:15:2021:SHORA-KUETU Mais ceux qui étaient autour de lui, voyant ce qui allait arriver, lui dirent : Seigneur, frapperons-nous de l'épée ?
 3:22:50:LUC:3:15:2021:SHORA-KUETU Et l'un d'eux frappa l'esclave du grand-prêtre et lui emporta l'oreille droite.
-3:22:51:LUC:3:15:2021:SHORA-KUETU Mais Yéhoshoua, prenant la parole, dit : Laissez-les faire jusqu'ici. Et, ayant touché son oreille, il le guérit.
+3:22:51:LUC:3:15:2021:SHORA-KUETU Mais Yéhoshoua répondant, dit : Laissez ! Jusque-là ! Et, ayant touché son oreille, il le guérit.
 3:22:52:LUC:3:15:2021:SHORA-KUETU Et Yéhoshoua dit aux principaux prêtres, aux chefs des strategos du temple et aux anciens qui étaient venus contre lui : Vous êtes venus comme contre un brigand, avec des épées et des bâtons.
 3:22:53:LUC:3:15:2021:SHORA-KUETU J'étais tous les jours avec vous dans le temple et vous n'avez pas mis la main sur moi. Mais c'est ici votre heure et l'autorité de la ténèbre.
 3:22:54:LUC:3:15:2021:SHORA-KUETU Et l'ayant pris, ils l'emmenèrent et le conduisirent dans la maison du grand-prêtre. Or Petros suivait de loin.
@@ -2801,9 +2801,9 @@
 3:23:10:LUC:3:15:2021:SHORA-KUETU Et les principaux prêtres et les scribes se tenaient là, l'accusant avec véhémence.
 3:23:11:LUC:3:15:2021:SHORA-KUETU Mais Hérode, avec ses bandes de soldats, le traita avec mépris et, après s'être moqué de lui et l'avoir revêtu d'un vêtement éclatant, il le renvoya à Pilate.
 3:23:12:LUC:3:15:2021:SHORA-KUETU Et ce même jour, Pilate et Hérode devinrent amis, car auparavant ils étaient en inimitié l'un avec l'autre.
-3:23:13:LUC:3:15:2021:SHORA-KUETU Mais Pilate, ayant rassemblé les principaux prêtres, les magistrats et le peuple, leur dit :
-3:23:14:LUC:3:15:2021:SHORA-KUETU Vous m'avez présenté cet homme comme détournant le peuple. Et voici, je l'ai interrogé devant vous et je n’ai trouvé en cet homme aucune faute dont vous l'accusez.
-3:23:15:LUC:3:15:2021:SHORA-KUETU Mais Hérode non plus, car il nous l'a renvoyé, et voici, cet homme n'a rien fait qui soit digne de mort.
+3:23:13:LUC:3:15:2021:SHORA-KUETU Mais Pilate, ayant rassemblé les principaux prêtres, les magistrats et le peuple,
+3:23:14:LUC:3:15:2021:SHORA-KUETU leur dit : Vous m'avez présenté cet homme comme détournant le peuple. Et voilà que, l'ayant moi‑même examiné devant vous, je n’ai trouvé en cet homme aucune faute dont vous l'accusez.
+3:23:15:LUC:3:15:2021:SHORA-KUETU Mais Hérode non plus, car je vous ai renvoyés à lui, et voici, rien n’a été fait par lui qui soit digne de mort.
 3:23:16:LUC:3:15:2021:SHORA-KUETU L’ayant donc châtié, je le relâcherai.
 3:23:17:LUC:3:15:2021:SHORA-KUETU Or il était obligé de leur relâcher quelqu'un à la fête.
 3:23:18:LUC:3:15:2021:SHORA-KUETU Mais ils s'écrièrent tous ensemble, en disant : Ôte celui-ci et relâche-nous Barabbas !
@@ -2835,7 +2835,7 @@
 3:23:44:LUC:3:15:2021:SHORA-KUETU Or il était déjà environ la sixième heure, et la ténèbre survint sur toute la Terre jusqu'à la neuvième heure.
 3:23:45:LUC:3:15:2021:SHORA-KUETU Et le soleil s'obscurcit, et le voile du temple se déchira par le milieu.
 3:23:46:LUC:3:15:2021:SHORA-KUETU Et Yéhoshoua cria d'une grande voix et dit : Père, je dépose mon esprit entre tes mains ! Et ayant dit ces choses, il expira.
-3:23:47:LUC:3:15:2021:SHORA-KUETU Mais l'officier de l'armée romaine, voyant ce qui était arrivé, glorifia Elohîm et dit : Cet homme était vraiment juste
+3:23:47:LUC:3:15:2021:SHORA-KUETU Or l'officier de l'armée romaine, voyant ce qui était arrivé, glorifia Elohîm en disant : Cet homme était vraiment juste
 3:23:48:LUC:3:15:2021:SHORA-KUETU Et toutes les foules qui s'étaient assemblées pour ce spectacle, voyant ce qui était arrivé, s'en retournaient en se frappant la poitrine.
 3:23:49:LUC:3:15:2021:SHORA-KUETU Et tous ceux qui l'avaient connu se tenaient loin, ainsi que les femmes qui l'avaient accompagné de la Galilée, regardant ces choses.
 3:23:50:LUC:3:15:2021:SHORA-KUETU Et voici un homme du nom de Yossef, conseiller, homme bon et juste,
@@ -2849,7 +2849,7 @@
 3:24:2:LUC:3:15:2021:SHORA-KUETU Et elles trouvèrent la pierre roulée à côté du sépulcre.
 3:24:3:LUC:3:15:2021:SHORA-KUETU Et, étant entrées, elles ne trouvèrent pas le corps du Seigneur Yéhoshoua.
 3:24:4:LUC:3:15:2021:SHORA-KUETU Et il arriva que comme elles étaient en perplexité à ce sujet, voici, deux hommes se présentèrent à elles, en vêtements resplendissants.
-3:24:5:LUC:3:15:2021:SHORA-KUETU Mais comme elles étaient effrayées, et qu’elles baissaient le visage contre terre, ils leur dirent : Pourquoi cherchez-vous parmi les morts celui qui est vivant ?
+3:24:5:LUC:3:15:2021:SHORA-KUETU Mais comme elles étaient effrayées, et qu’elles baissaient le visage contre terre, ils leur dirent : Pourquoi cherchez-vous le Vivant parmi les morts ?
 3:24:6:LUC:3:15:2021:SHORA-KUETU Il n'est pas ici, mais il est ressuscité. Souvenez-vous comment il vous a parlé quand il était encore en Galilée,
 3:24:7:LUC:3:15:2021:SHORA-KUETU et qu'il disait : Il faut que le Fils d'humain soit livré aux mains d'hommes pécheurs, et qu'il soit crucifié, et qu'il ressuscite le troisième jour.
 3:24:8:LUC:3:15:2021:SHORA-KUETU Et elles se souvinrent de ses paroles.
@@ -3130,7 +3130,7 @@
 4:6:17:JEAN:3:15:2021:SHORA-KUETU Et étant montés dans le bateau, ils traversaient la mer pour se rendre à Capernaüm. Déjà l’obscurité s’était faite, et Yéhoshoua n'était pas encore venu vers eux.
 4:6:18:JEAN:3:15:2021:SHORA-KUETU Il soufflait un grand vent et la mer était agitée.
 4:6:19:JEAN:3:15:2021:SHORA-KUETU Après avoir ramé environ vingt-cinq ou trente stades, ils virent Yéhoshoua marchant sur la mer et s'approchant du bateau, et ils eurent peur.
-4:6:20:JEAN:3:15:2021:SHORA-KUETU Mais il leur dit : C'est moi, n'ayez pas peur !
+4:6:20:JEAN:3:15:2021:SHORA-KUETU Mais il leur dit : Moi, je suis, n'ayez pas peur !
 4:6:21:JEAN:3:15:2021:SHORA-KUETU Ils le reçurent donc avec plaisir dans le bateau, et immédiatement le bateau toucha la terre, là où ils allaient.
 4:6:22:JEAN:3:15:2021:SHORA-KUETU Le lendemain, la foule qui se tenait de l'autre côté de la mer vit qu'il ne se trouvait là qu'un seul petit bateau et que Yéhoshoua n'y était pas monté avec ses disciples, mais qu'ils étaient partis seuls.
 4:6:23:JEAN:3:15:2021:SHORA-KUETU Mais d'autres petits bateaux étaient arrivés de Tibériade près du lieu où ils avaient mangé le pain, après que le Seigneur eut rendu grâce.
@@ -3167,7 +3167,7 @@
 4:6:54:JEAN:3:15:2021:SHORA-KUETU Celui qui mange ma chair et qui boit mon sang a la vie éternelle, et je le ressusciterai au dernier jour.
 4:6:55:JEAN:3:15:2021:SHORA-KUETU Car ma chair est vraiment un aliment, et mon sang est vraiment une boisson.
 4:6:56:JEAN:3:15:2021:SHORA-KUETU Celui qui mange ma chair et qui boit mon sang demeure en moi, et moi en lui.
-4:6:57:JEAN:3:15:2021:SHORA-KUETU Comme le Père qui est vivant m'a envoyé, et que je suis vivant à cause du Père, ainsi celui qui me mange vivra aussi à cause de moi.
+4:6:57:JEAN:3:15:2021:SHORA-KUETU De même que le Père, le Vivant, m'a envoyé, et que je suis vivant par le Père, ainsi celui qui me mange vivra aussi par moi.
 4:6:58:JEAN:3:15:2021:SHORA-KUETU C'est ici le pain qui est descendu du ciel. Il n'en est pas comme de vos pères qui mangèrent la manne et qui moururent. Celui qui mangera ce pain vivra pour l’éternité.
 4:6:59:JEAN:3:15:2021:SHORA-KUETU Il dit ces choses dans la synagogue, enseignant à Capernaüm.
 4:6:60:JEAN:3:15:2021:SHORA-KUETU Beaucoup de ses disciples ayant donc entendu cela, dirent : Cette parole est dure ! qui peut l'entendre ?
@@ -3367,7 +3367,7 @@
 4:10:30:JEAN:3:15:2021:SHORA-KUETU Moi et le Père nous sommes un.
 4:10:31:JEAN:3:15:2021:SHORA-KUETU Alors les Juifs prirent de nouveau des pierres pour le lapider.
 4:10:32:JEAN:3:15:2021:SHORA-KUETU Et Yéhoshoua leur dit : Je vous ai fait voir beaucoup de bonnes œuvres de la part de mon Père : Pour laquelle me lapidez-vous ?
-4:10:33:JEAN:3:15:2021:SHORA-KUETU Les Juifs répondirent, en lui disant : Nous ne te lapidons pas pour quelque bonne œuvre, mais pour un blasphème, et parce que, n'étant qu'un homme, tu te fais Elohîm.
+4:10:33:JEAN:3:15:2021:SHORA-KUETU Les Juifs répondirent, en lui disant : Nous ne te lapidons pas pour quelque bonne œuvre, mais pour un blasphème, et parce que, n'étant qu'un être humain, tu te fais Elohîm.
 4:10:34:JEAN:3:15:2021:SHORA-KUETU Yéhoshoua leur répondit : N'est-il pas écrit dans votre torah : J'ai dit : Vous êtes des elohîm ?
 4:10:35:JEAN:3:15:2021:SHORA-KUETU Si elle a appelé elohîm ceux à qui la parole d'Elohîm a été adressée, et l'Écriture ne peut être renversée,
 4:10:36:JEAN:3:15:2021:SHORA-KUETU pourquoi dites-vous que je blasphème, moi que le Père a sanctifié et envoyé dans le monde, parce que j'ai dit : Je suis le Fils d'Elohîm ?
@@ -3379,7 +3379,7 @@
 4:10:42:JEAN:3:15:2021:SHORA-KUETU Et dans ce lieu-là, beaucoup crurent en lui.
 4:11:1:JEAN:3:15:2021:SHORA-KUETU Mais il y avait un malade, Èl’azar, de Béthanie, le village de Myriam et de Martha, sa sœur.
 4:11:2:JEAN:3:15:2021:SHORA-KUETU Or, c'était cette Myriam qui oignit le Seigneur d'un baume et qui essuya ses pieds avec ses cheveux. Son frère Èl’azar était malade.
-4:11:3:JEAN:3:15:2021:SHORA-KUETU Les sœurs envoyèrent donc vers lui pour lui dire : Seigneur, voici que celui que tu aimes est malade.
+4:11:3:JEAN:3:15:2021:SHORA-KUETU Les sœurs envoyèrent donc quelqu'un vers lui pour lui dire : Seigneur, voici que celui que tu aimes est malade.
 4:11:4:JEAN:3:15:2021:SHORA-KUETU Mais Yéhoshoua l'ayant entendu, dit : Cette maladie n'est pas à la mort, mais elle est pour la gloire d'Elohîm, afin que le Fils d'Elohîm soit glorifié par elle.
 4:11:5:JEAN:3:15:2021:SHORA-KUETU Or Yéhoshoua aimait Martha, et sa sœur, et Èl’azar.
 4:11:6:JEAN:3:15:2021:SHORA-KUETU Ayant donc appris qu'il était malade, il resta encore en effet deux jours à l'endroit où il était.
@@ -3396,7 +3396,7 @@
 4:11:17:JEAN:3:15:2021:SHORA-KUETU Yéhoshoua, étant donc arrivé, trouva qu'il était déjà depuis quatre jours dans le sépulcre.
 4:11:18:JEAN:3:15:2021:SHORA-KUETU Or Béthanie était près de Yeroushalaim, à quinze stades environ.
 4:11:19:JEAN:3:15:2021:SHORA-KUETU Et beaucoup de Juifs étaient venus vers Martha et Myriam pour les consoler au sujet de leur frère.
-4:11:20:JEAN:3:15:2021:SHORA-KUETU Martha donc, quand elle apprit que Yéhoshoua venait, elle alla au-devant de lui, mais Myriam se tenait assise à la maison.
+4:11:20:JEAN:3:15:2021:SHORA-KUETU Martha ayant donc appris que Yéhoshoua venait, alla au-devant de lui, mais Myriam se tenait assise à la maison.
 4:11:21:JEAN:3:15:2021:SHORA-KUETU Martha donc dit à Yéhoshoua : Seigneur, si tu avais été ici, mon frère ne serait pas mort.
 4:11:22:JEAN:3:15:2021:SHORA-KUETU Mais, même à présent, je sais que tout ce que tu demanderas à Elohîm, Elohîm te le donnera.
 4:11:23:JEAN:3:15:2021:SHORA-KUETU Yéhoshoua lui dit : Ton frère ressuscitera.
@@ -3623,7 +3623,7 @@
 4:17:8:JEAN:3:15:2021:SHORA-KUETU Parce que je leur ai donné les paroles que tu m'as données, ils les ont reçues et ils ont connu vraiment que je suis sorti de toi, et ils ont cru que tu m'as envoyé.
 4:17:9:JEAN:3:15:2021:SHORA-KUETU Je prie pour eux. Je ne prie pas pour le monde, mais pour ceux que tu m'as donnés, parce qu'ils sont à toi.
 4:17:10:JEAN:3:15:2021:SHORA-KUETU Et tout ce qui est à moi est à toi et ce qui est à toi est à moi, et je suis glorifié en eux.
-4:17:11:JEAN:3:15:2021:SHORA-KUETU Et je ne suis plus dans le monde, mais ceux-ci sont dans le monde. Et moi je vais à toi. Père saint, garde-les en ton Nom que tu m'as donné, afin qu'ils soient un comme nous.
+4:17:11:JEAN:3:15:2021:SHORA-KUETU Et je ne suis plus dans le monde, mais ceux-ci sont dans le monde. Et moi, je viens vers toi. Père saint, garde-les en ton Nom que tu m'as donné, afin qu'ils soient un comme nous.
 4:17:12:JEAN:3:15:2021:SHORA-KUETU Quand j'étais avec eux dans le monde, je les gardais en ton Nom que tu m'as donné. Je les ai gardés et aucun d'eux ne s'est perdu, excepté le fils de perdition, afin que l'Écriture soit accomplie.
 4:17:13:JEAN:3:15:2021:SHORA-KUETU Et maintenant je vais à toi, et je dis ces choses dans le monde, afin qu'ils aient ma joie parfaite en eux-mêmes.
 4:17:14:JEAN:3:15:2021:SHORA-KUETU Je leur ai donné ta parole et le monde les a haïs parce qu'ils ne sont pas du monde, comme moi je ne suis pas du monde.
@@ -4282,7 +4282,7 @@
 5:14:12:ACTES:3:15:2021:SHORA-KUETU Et ils appelaient Barnabas Zeus, et Paulos Hermès, parce que c'était lui en effet qui portait la parole.
 5:14:13:ACTES:3:15:2021:SHORA-KUETU Or le prêtre de Zeus qui était devant leur ville, ayant amené des taureaux et des guirlandes aux portes, voulait offrir un sacrifice avec les foules.
 5:14:14:ACTES:3:15:2021:SHORA-KUETU Mais les apôtres Barnabas et Paulos, ayant appris cela, déchirèrent leurs vêtements et se précipitèrent dans la foule en criant
-5:14:15:ACTES:3:15:2021:SHORA-KUETU et disant : hommes, pourquoi faites-vous ces choses ? Nous aussi, nous sommes des humains ayant les mêmes sentiments que vous, et vous annonçant l'Évangile, pour que vous vous détourniez de ces choses vaines vers l'Elohîm vivant, qui a fait le ciel et la Terre, la mer et toutes les choses qui y sont :
+5:14:15:ACTES:3:15:2021:SHORA-KUETU et disant : hommes, pourquoi faites-vous ces choses ? Nous aussi, nous sommes des humains ayant les mêmes sentiments que vous, et vous annonçant l'Évangile, pour que vous vous détourniez de ces choses vaines vers l'Elohîm, le Vivant, qui a fait le ciel et la Terre, la mer et toutes les choses qui y sont :
 5:14:16:ACTES:3:15:2021:SHORA-KUETU Lequel, dans les générations passées, a permis à toutes les nations de suivre leurs propres voies.
 5:14:17:ACTES:3:15:2021:SHORA-KUETU Et cependant il ne s'est pas laissé sans témoignage, en faisant du bien, en nous donnant du ciel les pluies et les saisons fertiles, remplissant nos cœurs de nourriture et de joie.
 5:14:18:ACTES:3:15:2021:SHORA-KUETU Et bien qu'en disant ces choses, c'est avec difficulté qu'ils empêchèrent les foules de leur sacrifier.
@@ -4372,9 +4372,9 @@
 5:16:33:ACTES:3:15:2021:SHORA-KUETU Et les ayant pris avec lui à cette heure même de la nuit, il lava leurs plaies. Immédiatement après, il fut baptisé avec tous ceux de sa maison.
 5:16:34:ACTES:3:15:2021:SHORA-KUETU Et les ayant amenés dans sa maison, il dressa une table et il se réjouit fortement avec toute sa famille d’avoir cru en Elohîm.
 5:16:35:ACTES:3:15:2021:SHORA-KUETU Mais quand il fit jour, les strategos envoyèrent des licteurs pour dire : Relâche ces hommes.
-5:16:36:ACTES:3:15:2021:SHORA-KUETU Et le geôlier rapporta ces paroles à Paulos, disant : Les strategos ont envoyé pour qu'on vous relâche. Sortez donc maintenant et partez dans la paix !
+5:16:36:ACTES:3:15:2021:SHORA-KUETU Et le geôlier rapporta ces paroles à Paulos, disant : Les strategos ont envoyé des hommes pour qu’on vous relâche. Sortez donc maintenant et partez dans la paix !
 5:16:37:ACTES:3:15:2021:SHORA-KUETU Mais Paulos leur dit : Après nous avoir battus de verges publiquement et sans jugement, nous, des hommes, des citoyens romains, ils nous ont jetés en prison et maintenant ils nous jettent dehors secrètement ! Non en effet, mais qu'ils viennent eux-mêmes et nous conduisent dehors !
-5:16:38:ACTES:3:15:2021:SHORA-KUETU Et les licteurs rapportèrent ces paroles aux strategos, qui furent effrayés en apprenant qu'ils sont Romains.
+5:16:38:ACTES:3:15:2021:SHORA-KUETU Et les licteurs rapportèrent ces paroles aux strategos, qui furent effrayés en apprenant qu'ils sont romains.
 5:16:39:ACTES:3:15:2021:SHORA-KUETU Et étant venus, ils les exhortèrent et, les ayant conduits dehors, ils les supplièrent de quitter la ville.
 5:16:40:ACTES:3:15:2021:SHORA-KUETU Mais étant sortis de la prison, ils entrèrent chez Ludia et, après avoir vu et consolé les frères, ils partirent.
 5:17:1:ACTES:3:15:2021:SHORA-KUETU Et ayant traversé Amphipolis et Apollonie, ils arrivèrent à Thessalonique où était la synagogue des Juifs.
@@ -4582,9 +4582,9 @@
 5:22:22:ACTES:3:15:2021:SHORA-KUETU Et ils l'écoutèrent jusqu'à cette parole, mais alors ils élevèrent leur voix, en disant : Ôte de la Terre un tel homme ! Car il n'est pas concevable qu'il vive.
 5:22:23:ACTES:3:15:2021:SHORA-KUETU Mais eux, criant avec force et jetant leurs vêtements et lançant de la poussière en l'air,
 5:22:24:ACTES:3:15:2021:SHORA-KUETU le tribun ordonna de faire entrer Paulos dans la forteresse, disant de l'interroger sous la torture, par le fouet, afin de savoir pour quel sujet ils criaient ainsi contre lui.
-5:22:25:ACTES:3:15:2021:SHORA-KUETU Mais comme on l'étendait avec des courroies de cuir, Paulos dit à l'officier de l'armée romaine qui était près de lui : Est-il légal pour vous de châtier avec un fouet un homme, un romain, et qui n'est même pas condamné ?
-5:22:26:ACTES:3:15:2021:SHORA-KUETU Et l'officier de l'armée romaine ayant entendu cela, alla le rapporter au tribun en disant : Prends garde à ce que tu feras, car cet homme est Romain.
-5:22:27:ACTES:3:15:2021:SHORA-KUETU Et le tribun s'étant approché, lui dit : Dis-moi si tu es Romain ? Et il dit : Oui.
+5:22:25:ACTES:3:15:2021:SHORA-KUETU Mais comme on l'étendait avec des courroies de cuir, Paulos dit à l'officier de l'armée romaine qui était près de lui : Est-il légal pour vous de châtier avec un fouet un homme, un Romain, et qui n'est même pas condamné ?
+5:22:26:ACTES:3:15:2021:SHORA-KUETU Et l'officier de l'armée romaine ayant entendu cela, alla le rapporter au tribun en disant : Prends garde à ce que tu feras, car cet homme est romain.
+5:22:27:ACTES:3:15:2021:SHORA-KUETU Et le tribun s'étant approché, lui dit : Dis-moi si tu es romain ? Et il dit : Oui.
 5:22:28:ACTES:3:15:2021:SHORA-KUETU Et le tribun répondit : Moi, j'ai acquis cette citoyenneté pour une grande somme d'argent. Et Paulos dit : Mais moi, je suis né tel.
 5:22:29:ACTES:3:15:2021:SHORA-KUETU Immédiatement, ceux qui devaient l'interroger sous la torture s'écartèrent de lui et le tribun lui-même eut peur, sachant qu'il est romain et qu'il l'avait fait lier.
 5:22:30:ACTES:3:15:2021:SHORA-KUETU Et le lendemain, voulant savoir avec certitude de quoi il est accusé par les Juifs, le tribun lui fit ôter ses liens, et donna l'ordre aux principaux prêtres et à tout le sanhédrin de se réunir et, ayant fait descendre Paulos, il le plaça devant eux.
@@ -4749,7 +4749,7 @@
 5:27:38:ACTES:3:15:2021:SHORA-KUETU Et quand ils eurent mangé jusqu'à être rassasiés, ils allégèrent le navire en jetant le blé dans la mer.
 5:27:39:ACTES:3:15:2021:SHORA-KUETU Et quand le jour fut venu, ils ne reconnurent pas la terre, mais ils aperçurent une certaine baie ayant une plage, sur laquelle ils résolurent de pousser le navire, s'ils le pouvaient.
 5:27:40:ACTES:3:15:2021:SHORA-KUETU Ils délièrent alors les ancres et les laissèrent aller dans la mer, ils relâchèrent en même temps les attaches des gouvernails et, hissant au vent la voile d'artimon, ils se dirigeaient vers le rivage.
-5:27:41:ACTES:3:15:2021:SHORA-KUETU Mais étant tombés dans un lieu qui avait la mer des deux côtés, ils y firent échouer le navire. La partie avant du navire fortement engagée restait, en effet, immobile, tandis que la poupe se brisait par la violence des vagues.
+5:27:41:ACTES:3:15:2021:SHORA-KUETU Mais étant tombés dans un lieu qui avait la mer des deux côtés, ils y firent échouer le navire. La partie avant du navire fortement engagée restait, en effet, immobile, tandis que la poupe se brisait par la violence des grosses vagues.
 5:27:42:ACTES:3:15:2021:SHORA-KUETU Et la décision des soldats fut de tuer les prisonniers, de peur qu’il ne s’en échappât quelqu’un à la nage.
 5:27:43:ACTES:3:15:2021:SHORA-KUETU Mais l'officier de l'armée romaine, voulant préserver du danger Paulos, s’opposa à leur conseil. Il ordonna à ceux qui pouvaient nager de se jeter les premiers à l'eau pour gagner la terre,
 5:27:44:ACTES:3:15:2021:SHORA-KUETU et le reste, les uns sur des planches, et les autres sur quelques débris du navire. Et ainsi il arriva que tous parvinrent en effet à terre, préservés du danger.
@@ -5316,7 +5316,7 @@
 7:5:6:1CORINTHIENS:3:15:2021:SHORA-KUETU Il n’est pas beau, votre sujet de gloire ! Ne savez-vous pas qu'un peu de levain fait lever toute la pâte ?
 7:5:7:1CORINTHIENS:3:15:2021:SHORA-KUETU Alors nettoyez complètement le vieux levain, afin que vous soyez une nouvelle pâte, puisque vous êtes sans levain, car le Mashiah, notre Pâque, a été sacrifié pour nous.
 7:5:8:1CORINTHIENS:3:15:2021:SHORA-KUETU C'est pourquoi célébrons donc la fête, non avec du vieux levain, non avec un levain de méchanceté et de malice, mais avec les pains sans levain de la sincérité et de la vérité.
-7:5:9:1CORINTHIENS:3:15:2021:SHORA-KUETU Je vous ai écrit dans ma lettre de ne pas vous mêler avec les fornicateurs,
+7:5:9:1CORINTHIENS:3:15:2021:SHORA-KUETU Je vous ai écrit dans la lettre de ne pas vous mêler avec les fornicateurs,
 7:5:10:1CORINTHIENS:3:15:2021:SHORA-KUETU mais non pas d'une manière absolue avec les fornicateurs de ce monde, ou avec les cupides, ou les ravisseurs, ou les idolâtres – autrement, vous devez donc sortir du monde.
 7:5:11:1CORINTHIENS:3:15:2021:SHORA-KUETU Mais maintenant, ce que je vous ai écrit, c'est de ne pas vous mêler avec quelqu'un qui se nomme frère, s'il est fornicateur, ou cupide, ou idolâtre, ou railleur, ou ivrogne, ou ravisseur, de ne pas même manger avec un tel homme.
 7:5:12:1CORINTHIENS:3:15:2021:SHORA-KUETU Car qu’ai-je à juger ceux du dehors ? N'est-ce pas ceux du dedans que vous avez à juger ?
@@ -5363,7 +5363,7 @@
 7:7:20:1CORINTHIENS:3:15:2021:SHORA-KUETU Que chacun demeure dans l'appel où il a été appelé !
 7:7:21:1CORINTHIENS:3:15:2021:SHORA-KUETU As-tu été appelé étant esclave ? Ne t'en inquiète pas mais, si tu peux aussi devenir libre, uses-en plutôt.
 7:7:22:1CORINTHIENS:3:15:2021:SHORA-KUETU Car l'esclave appelé dans le Seigneur est un affranchi du Seigneur. De même aussi, celui qui a été appelé étant libre est un esclave du Mashiah.
-7:7:23:1CORINTHIENS:3:15:2021:SHORA-KUETU Vous avez été achetés à un grand prix, ne devenez pas esclaves des humains.
+7:7:23:1CORINTHIENS:3:15:2021:SHORA-KUETU Vous avez été achetés à un prix, ne devenez pas esclaves des humains.
 7:7:24:1CORINTHIENS:3:15:2021:SHORA-KUETU Frères, que chacun demeure devant Elohîm dans l’état où il a été appelé.
 7:7:25:1CORINTHIENS:3:15:2021:SHORA-KUETU Mais pour ce qui concerne les vierges, je n'ai pas de commandement du Seigneur, mais je donne un avis comme ayant obtenu miséricorde du Seigneur pour être fidèle.
 7:7:26:1CORINTHIENS:3:15:2021:SHORA-KUETU J'estime donc que cela est bon, à cause de la détresse présente, qu'il est bon à un être humain d'être ainsi.
@@ -5404,7 +5404,7 @@
 7:9:8:1CORINTHIENS:3:15:2021:SHORA-KUETU Est-ce en humain que je dis ces choses ? La torah ne les dit-elle pas aussi ?
 7:9:9:1CORINTHIENS:3:15:2021:SHORA-KUETU Car il est écrit dans la torah de Moshé : Tu ne muselleras pas le bœuf qui foule le grain. Elohîm se met-il en peine des bœufs ?
 7:9:10:1CORINTHIENS:3:15:2021:SHORA-KUETU Ou n’est-ce pas sûrement à cause de nous qu’il parle ainsi ? Car c'est à cause de nous qu'il a été écrit que celui qui laboure doit labourer avec espérance, et celui qui foule le grain, avec espérance de participer à l'espérance.
-7:9:11:1CORINTHIENS:3:15:2021:SHORA-KUETU Si nous avons semé en vous les biens spirituels, est-ce une grande chose si nous moissonnons vos biens charnels ?
+7:9:11:1CORINTHIENS:3:15:2021:SHORA-KUETU Si nous avons semé en vous les choses spirituelles, est-ce une grande chose si nous moissonnons vos choses charnelles ?
 7:9:12:1CORINTHIENS:3:15:2021:SHORA-KUETU Si d'autres participent à ce droit sur vous, pourquoi pas plutôt nous-mêmes ? Cependant, nous n'avons pas usé de ce droit, mais nous supportons tout, afin de ne pas faire obstacle à l'Évangile du Mashiah.
 7:9:13:1CORINTHIENS:3:15:2021:SHORA-KUETU Ne savez-vous pas que ceux qui exercent les fonctions sacrées mangent de ce qui vient du temple, et que ceux qui servent assidûment à l'autel ont part à l'autel ?
 7:9:14:1CORINTHIENS:3:15:2021:SHORA-KUETU Ainsi le Seigneur a aussi ordonné à ceux qui annoncent l’Évangile de vivre de l’Évangile.
@@ -5590,20 +5590,20 @@
 7:15:16:1CORINTHIENS:3:15:2021:SHORA-KUETU Mais si les morts ne ressuscitent pas, Mashiah non plus n'est pas ressuscité.
 7:15:17:1CORINTHIENS:3:15:2021:SHORA-KUETU Et si Mashiah n'est pas ressuscité, votre foi est vaine, et vous êtes encore dans vos péchés,
 7:15:18:1CORINTHIENS:3:15:2021:SHORA-KUETU ceux donc aussi qui se sont endormis en Mashiah sont perdus.
-7:15:19:1CORINTHIENS:3:15:2021:SHORA-KUETU Si nous n'avons espéré en Mashiah que pour cette vie seulement, nous sommes les plus misérables de tous les humains.
+7:15:19:1CORINTHIENS:3:15:2021:SHORA-KUETU Si c'est dans cette vie seulement que nous avons espéré en Mashiah, nous sommes les plus misérables de tous les humains.
 7:15:20:1CORINTHIENS:3:15:2021:SHORA-KUETU Mais maintenant Mashiah est ressuscité d’entre les morts, il est devenu l'offrande du premier fruit de ceux qui dorment.
 7:15:21:1CORINTHIENS:3:15:2021:SHORA-KUETU Car puisque la mort est venue à travers un être humain, c’est aussi à travers un être humain qu'est venue la résurrection des morts.
-7:15:22:1CORINTHIENS:3:15:2021:SHORA-KUETU Car comme tous meurent en Adam, de même aussi tous seront vivifiés en Mashiah.
+7:15:22:1CORINTHIENS:3:15:2021:SHORA-KUETU Car comme tous meurent en Adam, de même aussi tous seront vivifiés dans le Mashiah.
 7:15:23:1CORINTHIENS:3:15:2021:SHORA-KUETU Mais chacun en son propre rang : l'offrande du premier fruit, le Mashiah, ensuite ceux du Mashiah en sa parousie.
 7:15:24:1CORINTHIENS:3:15:2021:SHORA-KUETU Ensuite la fin, quand il aura remis le Royaume à Elohîm le Père, quand il aura aboli toute principauté, et toute autorité, et toute puissance.
 7:15:25:1CORINTHIENS:3:15:2021:SHORA-KUETU Car il faut qu'il règne jusqu'à ce qu'il ait mis tous les ennemis sous ses pieds.
-7:15:26:1CORINTHIENS:3:15:2021:SHORA-KUETU L'ennemi qui sera aboli le dernier, c'est la mort.
+7:15:26:1CORINTHIENS:3:15:2021:SHORA-KUETU Le dernier ennemi qui est aboli, c’est la mort.
 7:15:27:1CORINTHIENS:3:15:2021:SHORA-KUETU Car il a soumis toutes choses sous ses pieds. Or quand il a dit que toutes choses ont été soumises, il est évident que celui qui lui a soumis toutes choses est excepté.
 7:15:28:1CORINTHIENS:3:15:2021:SHORA-KUETU Et quand toutes choses lui auront été soumises, alors le Fils lui-même sera soumis à celui qui lui a soumis toutes choses, afin qu'Elohîm soit tout en tous.
 7:15:29:1CORINTHIENS:3:15:2021:SHORA-KUETU Autrement, que feront ceux qui sont baptisés pour les morts ? Si les morts ne ressuscitent absolument pas, pourquoi aussi sont-ils baptisés pour les morts ?
 7:15:30:1CORINTHIENS:3:15:2021:SHORA-KUETU Et nous, pourquoi sommes-nous en danger à toute heure ?
 7:15:31:1CORINTHIENS:3:15:2021:SHORA-KUETU Je meurs chaque jour, je l'atteste par le sujet que j'ai de me glorifier de vous en Mashiah Yéhoshoua notre Seigneur.
-7:15:32:1CORINTHIENS:3:15:2021:SHORA-KUETU Si j'ai combattu contre des animaux sauvages à Éphèse selon l'homme, quel profit en ai-je ? Si les morts ne ressuscitent pas, mangeons et buvons, car demain nous mourrons !
+7:15:32:1CORINTHIENS:3:15:2021:SHORA-KUETU Si c'est selon l'humain que j'ai combattu contre les bêtes sauvages à Éphèse, quel profit en ai-je ? Si les morts ne ressuscitent pas, mangeons et buvons, car demain nous mourrons !
 7:15:33:1CORINTHIENS:3:15:2021:SHORA-KUETU Ne vous égarez pas : Les mauvaises compagnies corrompent les bonnes mœurs.
 7:15:34:1CORINTHIENS:3:15:2021:SHORA-KUETU Quittez l'ivrognerie, comme il convient et ne péchez pas ! Car quelques-uns sont dans l'ignorance d'Elohîm, je le dis à votre honte.
 7:15:35:1CORINTHIENS:3:15:2021:SHORA-KUETU Mais quelqu'un dira : Comment les morts ressuscitent-ils, et avec quel corps viennent-ils ?
@@ -5669,10 +5669,10 @@
 8:1:13:2CORINTHIENS:3:15:2021:SHORA-KUETU Car nous ne vous écrivons pas d'autres choses que celles que vous lisez et que même vous reconnaissez. Et j'espère que vous les reconnaîtrez aussi jusqu'à la fin,
 8:1:14:2CORINTHIENS:3:15:2021:SHORA-KUETU selon que vous avez reconnu en partie que nous sommes votre gloire, comme vous êtes aussi la nôtre pour le jour du Seigneur Yéhoshoua.
 8:1:15:2CORINTHIENS:3:15:2021:SHORA-KUETU Et dans une telle confiance, je voulais premièrement aller vers vous, afin que vous ayez une seconde grâce.
-8:1:16:2CORINTHIENS:3:15:2021:SHORA-KUETU Et passer de chez vous en Macédoine, et de Macédoine revenir vers vous, et être accompagné par vous en Judée.
-8:1:17:2CORINTHIENS:3:15:2021:SHORA-KUETU Est-ce donc qu'en voulant cela, j'aurais agi avec légèreté ? Ou bien ce que je veux, est-ce selon la chair que je le veux, de sorte qu'il y ait eu en moi le oui oui et le non non ?
+8:1:16:2CORINTHIENS:3:15:2021:SHORA-KUETU Et par chez vous passer en Macédoine, et de Macédoine revenir vers vous, et être accompagné par vous en Judée.
+8:1:17:2CORINTHIENS:3:15:2021:SHORA-KUETU En formant ce dessein, aurais-je donc agi avec légèreté ? Ou bien, mes desseins sont-ils des desseins selon la chair, en sorte qu'il y ait en moi le oui, oui, et le non, non ?
 8:1:18:2CORINTHIENS:3:15:2021:SHORA-KUETU Mais Elohîm est fidèle, la parole que nous vous avons adressée n'a pas été oui et non.
-8:1:19:2CORINTHIENS:3:15:2021:SHORA-KUETU Car le Fils d'Elohîm, Yéhoshoua Mashiah, qui a été prêché par notre moyen au milieu de vous, par le moyen de moi et de Silvanos et de Timotheos, n'a pas été oui et non, mais en lui était oui.
+8:1:19:2CORINTHIENS:3:15:2021:SHORA-KUETU Car le Fils d'Elohîm, Yéhoshoua Mashiah, qui a été prêché par notre moyen au milieu de vous, par le moyen de moi et de Silvanos et de Timotheos, n'a pas été oui et non, mais il n’y a eu que oui en lui.
 8:1:20:2CORINTHIENS:3:15:2021:SHORA-KUETU Car autant qu'il y a de promesses d'Elohîm : en lui est le oui, et en lui est l'amen, à la gloire d'Elohîm par notre moyen.
 8:1:21:2CORINTHIENS:3:15:2021:SHORA-KUETU Or celui qui nous affermit avec vous en Mashiah et qui nous a oints c'est Elohîm,
 8:1:22:2CORINTHIENS:3:15:2021:SHORA-KUETU qui nous a aussi marqués de son sceau et nous a donné le gage de l'Esprit dans nos cœurs.
@@ -5682,13 +5682,13 @@
 8:2:2:2CORINTHIENS:3:15:2021:SHORA-KUETU Car si je vous attriste, qui est-ce qui me réjouira, sinon celui qui est attristé par moi ?
 8:2:3:2CORINTHIENS:3:15:2021:SHORA-KUETU Et je vous ai même écrit ceci, afin que, quand je viendrai, je n’aie pas de douleur de la part de ceux au sujet de qui je devais me réjouir, ayant cette confiance en vous tous que ma joie est celle de vous tous.
 8:2:4:2CORINTHIENS:3:15:2021:SHORA-KUETU Car je vous ai écrit dans une grande tribulation et angoisse de cœur, avec beaucoup de larmes, non afin que vous soyez attristés, mais afin que vous connaissiez l'amour que j'ai spécialement pour vous.
-8:2:5:2CORINTHIENS:3:15:2021:SHORA-KUETU Or si quelqu’un a attristé, ce n’est pas moi qu’il a attristé, mais vous tous, du moins en partie, afin que je ne vous surcharge.
+8:2:5:2CORINTHIENS:3:15:2021:SHORA-KUETU Or si quelqu’un a causé de la tristesse, ce n’est pas moi qu’il a attristé, mais vous tous, du moins en partie, afin que je ne vous surcharge.
 8:2:6:2CORINTHIENS:3:15:2021:SHORA-KUETU Le châtiment par le plus grand nombre est suffisant pour un tel homme.
 8:2:7:2CORINTHIENS:3:15:2021:SHORA-KUETU C'est pourquoi, bien au contraire, faites-lui plutôt grâce et consolez-le, de peur qu’un tel homme ne soit accablé par une douleur excessive.
 8:2:8:2CORINTHIENS:3:15:2021:SHORA-KUETU C'est pourquoi je vous exhorte à confirmer publiquement votre amour pour lui.
 8:2:9:2CORINTHIENS:3:15:2021:SHORA-KUETU Car c'est aussi pour cela que je vous ai écrit, afin de connaître, en vous mettant à l'épreuve, si vous êtes obéissants en toutes choses.
 8:2:10:2CORINTHIENS:3:15:2021:SHORA-KUETU Or à qui vous pardonnez, je pardonne aussi. Et si j'ai pardonné quelque chose à quelqu'un, je l'ai fait à cause de vous, en présence du Mashiah,
-8:2:11:2CORINTHIENS:3:15:2021:SHORA-KUETU afin que Satan n'ait pas le dessus sur nous, car nous n'ignorons pas ses mauvais desseins.
+8:2:11:2CORINTHIENS:3:15:2021:SHORA-KUETU afin que Satan n’ait pas l’avantage sur nous, car nous n'ignorons pas ses mauvais desseins.
 8:2:12:2CORINTHIENS:3:15:2021:SHORA-KUETU Or étant venu à Troas pour l'Évangile du Mashiah, quoique le Seigneur m'y ait ouvert une porte,
 8:2:13:2CORINTHIENS:3:15:2021:SHORA-KUETU je n’ai pas eu de repos en mon esprit, parce que je n'ai pas trouvé Titos, mon frère. Mais ayant pris congé d'eux, je suis parti pour la Macédoine.
 8:2:14:2CORINTHIENS:3:15:2021:SHORA-KUETU Mais grâce soit à Elohîm, qui nous fait toujours triompher dans le Mashiah et qui manifeste par notre moyen l'odeur de sa connaissance en tout lieu.
@@ -5811,16 +5811,16 @@
 8:8:23:2CORINTHIENS:3:15:2021:SHORA-KUETU Ainsi, pour Titos, il est mon associé et mon compagnon d'œuvre auprès de vous ; pour ce qui est de nos frères, ils sont les apôtres des assemblées et la gloire du Mashiah.
 8:8:24:2CORINTHIENS:3:15:2021:SHORA-KUETU Montrez donc envers eux et devant les assemblées une preuve de votre amour et du sujet que nous avons de nous glorifier de vous.
 8:9:1:2CORINTHIENS:3:15:2021:SHORA-KUETU Car il est vraiment superflu pour moi que je vous écrive au sujet du service en faveur des saints.
-8:9:2:2CORINTHIENS:3:15:2021:SHORA-KUETU Car je connais votre promptitude, dont je me glorifie de vous devant ceux de Macédoine, leur disant que l'Achaïe est prête depuis l'année dernière, et votre zèle a stimulé la plupart d'entre eux.
+8:9:2:2CORINTHIENS:3:15:2021:SHORA-KUETU Car je connais votre promptitude, dont je me glorifie de vous devant ceux de Macédoine, leur disant que l'Achaïe est prête depuis l'année dernière, et le zèle de chez vous a stimulé la plupart d'entre eux.
 8:9:3:2CORINTHIENS:3:15:2021:SHORA-KUETU Mais j'ai envoyé les frères, afin que notre sujet de nous glorifier de vous ne soit pas réduit à néant sur ce point-là, et que vous soyez prêts, comme je l’ai dit.
 8:9:4:2CORINTHIENS:3:15:2021:SHORA-KUETU De peur que si les Macédoniens venaient avec moi et ne vous trouvaient pas prêts, nous (pour ne pas dire vous) soyons honteux de l'assurance dont nous nous sommes glorifiés.
-8:9:5:2CORINTHIENS:3:15:2021:SHORA-KUETU C'est pourquoi j'ai estimé qu'il était nécessaire de prier les frères d'aller premièrement chez vous, et d'achever de préparer votre bénédiction que vous avez déjà promise, afin qu'elle soit prête comme une bénédiction et non pas comme une cupidité.
-8:9:6:2CORINTHIENS:3:15:2021:SHORA-KUETU Mais je vous dis ceci : Celui qui sème économiquement moissonnera aussi économiquement, et celui qui sème avec bénédictions moissonnera aussi avec bénédictions.
-8:9:7:2CORINTHIENS:3:15:2021:SHORA-KUETU Que chacun donne selon ce qu'il a résolu dans son cœur, non pas avec douleur, ni par contrainte, car Elohîm aime celui qui donne avec joie.
+8:9:5:2CORINTHIENS:3:15:2021:SHORA-KUETU C'est pourquoi j'ai estimé nécessaire de prier les frères d'aller d'avance chez vous, et d'achever de préparer votre bénédiction que vous avez déjà promise, afin qu'elle soit prête comme une bénédiction et non pas comme une cupidité.
+8:9:6:2CORINTHIENS:3:15:2021:SHORA-KUETU Mais je vous dis ceci : Celui qui sème économiquement moissonnera aussi économiquement, et celui qui sème avec bénédictions moissonnera aussi avec bénédictions :
+8:9:7:2CORINTHIENS:3:15:2021:SHORA-KUETU chacun, selon qu'il l'a résolu dans son cœur, non pas avec douleur, ni par contrainte, car Elohîm aime celui qui donne avec joie.
 8:9:8:2CORINTHIENS:3:15:2021:SHORA-KUETU Et Elohîm est puissant pour vous combler de toute grâce, afin que, possédant toujours tout ce qui vous est nécessaire, vous abondiez en toute bonne œuvre,
-8:9:9:2CORINTHIENS:3:15:2021:SHORA-KUETU selon ce qui est écrit : Il a répandu, il a donné aux pauvres. Sa justice demeure à perpétuité.
+8:9:9:2CORINTHIENS:3:15:2021:SHORA-KUETU selon qu'il est écrit : Il a répandu, il a donné aux pauvres. Sa justice demeure à perpétuité.
 8:9:10:2CORINTHIENS:3:15:2021:SHORA-KUETU Mais que celui qui fournit de la semence au semeur et du pain pour sa nourriture vous fournisse et vous multiplie la semence, et qu’il augmente les fruits de votre justice.
-8:9:11:2CORINTHIENS:3:15:2021:SHORA-KUETU Afin que vous soyez riches en tout, pour une entière libéralité qui, par notre moyen, produit l'action de grâce à Elohîm.
+8:9:11:2CORINTHIENS:3:15:2021:SHORA-KUETU En sorte que vous soyez riches en tout, pour une entière libéralité qui, par notre moyen, produit l'action de grâce à Elohîm.
 8:9:12:2CORINTHIENS:3:15:2021:SHORA-KUETU Parce que le service de ce don ne comble pas seulement les besoins des saints, mais il abonde aussi au moyen de beaucoup d’actions de grâces à Elohîm.
 8:9:13:2CORINTHIENS:3:15:2021:SHORA-KUETU À travers la preuve de ce service, ils glorifient Elohîm pour la soumission dont vous faites profession pour l'Évangile du Mashiah et de la libéralité de votre communion envers eux et envers tous.
 8:9:14:2CORINTHIENS:3:15:2021:SHORA-KUETU Et par leur supplication pour vous, ils soupirent après vous à cause de l’excellente grâce d'Elohîm sur vous.
@@ -5846,7 +5846,7 @@
 8:11:1:2CORINTHIENS:3:15:2021:SHORA-KUETU Si seulement vous pouviez me supporter un peu dans ma folie... mais vous me supportez !
 8:11:2:2CORINTHIENS:3:15:2021:SHORA-KUETU Car je suis jaloux pour vous d'une jalousie d'Elohîm, car je vous ai fiancés à un seul époux, pour présenter une vierge pure au Mashiah.
 8:11:3:2CORINTHIENS:3:15:2021:SHORA-KUETU Mais je crains que, comme le serpent a trompé Chavvah par sa ruse, votre pensée aussi ne se corrompe en se détournant de la simplicité qui est en Mashiah.
-8:11:4:2CORINTHIENS:3:15:2021:SHORA-KUETU Car, si quelqu'un en effet vient vous prêcher un autre Yéhoshoua que nous n'avons pas prêché, ou si vous recevez un autre esprit que vous n'avez pas reçu, ou un autre évangile que vous n’avez pas embrassé, vous le supportiez très bien !
+8:11:4:2CORINTHIENS:3:15:2021:SHORA-KUETU Car, si quelqu'un en effet vient vous prêcher un autre Yéhoshoua que nous n'avons pas prêché, ou si vous recevez un autre esprit que vous n'avez pas reçu, ou un autre évangile que vous n’avez pas embrassé, vous le supporteriez fort bien.
 8:11:5:2CORINTHIENS:3:15:2021:SHORA-KUETU Car j'estime que je n'ai été inférieur en rien à ces apôtres par excellence !
 8:11:6:2CORINTHIENS:3:15:2021:SHORA-KUETU Et même si je suis un ignorant pour la parole, je ne le suis pas pour la connaissance, mais de toute façon nous avons été manifestés en toutes choses auprès de vous.
 8:11:7:2CORINTHIENS:3:15:2021:SHORA-KUETU Ou bien ai-je fait un péché en m'abaissant moi-même pour que vous soyez élevés, parce que je vous ai annoncé l'Évangile d'Elohîm gratuitement ?
@@ -5868,13 +5868,13 @@
 8:11:23:2CORINTHIENS:3:15:2021:SHORA-KUETU Sont-ils serviteurs du Mashiah ? – je parle comme un aliéné –, je le suis plus qu'eux ! Par les travaux, bien plus ! Par les blessures, plus qu'eux. Par les emprisonnements, bien plus ! Dans les morts souvent,
 8:11:24:2CORINTHIENS:3:15:2021:SHORA-KUETU cinq fois j'ai reçu des Juifs quarante coups moins un,
 8:11:25:2CORINTHIENS:3:15:2021:SHORA-KUETU j'ai été battu de verges trois fois, j'ai été lapidé une fois, j'ai fait naufrage trois fois, j'ai passé un jour et une nuit dans la mer profonde.
-8:11:26:2CORINTHIENS:3:15:2021:SHORA-KUETU J'ai été souvent en voyage, en péril sur les fleuves, en péril de la part des brigands, en péril de la part de ceux de ma race, en péril parmi les nations, en péril dans les villes, en péril dans les régions inhabitées, en péril sur la mer, en péril parmi les faux frères ;
+8:11:26:2CORINTHIENS:3:15:2021:SHORA-KUETU Souvent en voyage, en péril sur les fleuves, en péril de la part des brigands, en péril de la part de ceux de ma race, en péril parmi les nations, en péril dans les villes, en péril dans les régions inhabitées, en péril sur la mer, en péril parmi les faux frères ;
 8:11:27:2CORINTHIENS:3:15:2021:SHORA-KUETU dans la peine et dans le travail dur et difficile, dans de fréquentes veilles, dans la faim, dans la soif, souvent dans les jeûnes, dans le froid et dans la nudité.
 8:11:28:2CORINTHIENS:3:15:2021:SHORA-KUETU Outre les choses de dehors, ce qui me tient assiégé tous les jours, c'est le souci que j'ai de toutes les assemblées.
 8:11:29:2CORINTHIENS:3:15:2021:SHORA-KUETU Qui est malade, que je ne sois aussi malade ? Qui est scandalisé, que je n'en sois aussi brûlé ?
 8:11:30:2CORINTHIENS:3:15:2021:SHORA-KUETU S'il faut se glorifier, c'est de ma faiblesse que je me glorifierai.
 8:11:31:2CORINTHIENS:3:15:2021:SHORA-KUETU L'Elohîm et Père de notre Seigneur Yéhoshoua Mashiah, qui est béni pour l’éternité, sait que je ne mens pas.
-8:11:32:2CORINTHIENS:3:15:2021:SHORA-KUETU À Damas, le gouverneur du roi Arétas faisait garder la ville des Damascéniens voulant se saisir de moi,
+8:11:32:2CORINTHIENS:3:15:2021:SHORA-KUETU À Damas, le gouverneur du roi Arétas gardait la ville des Damascéniens, voulant se saisir de moi,
 8:11:33:2CORINTHIENS:3:15:2021:SHORA-KUETU et à travers une fenêtre, dans une corbeille, on me descendit à travers la muraille, et j'échappai de ses mains.
 8:12:1:2CORINTHIENS:3:15:2021:SHORA-KUETU Se glorifier n'est vraiment pas utile, car j'en viendrai aux apparitions et aux révélations du Seigneur.
 8:12:2:2CORINTHIENS:3:15:2021:SHORA-KUETU Je connais un homme en Mashiah, il y a 14 ans passés, si ce fut dans le corps je ne sais, si ce fut hors du corps je ne sais, Elohîm le sait, qui a été enlevé jusqu'au troisième ciel.
@@ -5915,7 +5915,7 @@
 9:1:2:GALATES:3:15:2021:SHORA-KUETU et tous les frères qui sont avec moi, aux assemblées de Galatie :
 9:1:3:GALATES:3:15:2021:SHORA-KUETU à vous, grâce et shalôm, de la part d'Elohîm le Père et notre Seigneur Yéhoshoua Mashiah,
 9:1:4:GALATES:3:15:2021:SHORA-KUETU qui s'est donné lui-même pour nos péchés afin de nous arracher du présent âge mauvais, selon la volonté de notre Elohîm et Père.
-9:1:5:GALATES:3:15:2021:SHORA-KUETU À lui soit la gloire d'âges en âges ! Amen !
+9:1:5:GALATES:3:15:2021:SHORA-KUETU À lui soit la gloire pour les âges des âges ! Amen !
 9:1:6:GALATES:3:15:2021:SHORA-KUETU Je m'étonne que vous vous détourniez si rapidement de celui qui vous a appelés par la grâce du Mashiah pour un autre évangile.
 9:1:7:GALATES:3:15:2021:SHORA-KUETU Non qu'il y en ait un autre, mais il y a des gens qui vous troublent et qui veulent renverser l'Évangile du Mashiah.
 9:1:8:GALATES:3:15:2021:SHORA-KUETU Mais si nous-mêmes, ou un ange du ciel vous prêche un autre évangile que celui que nous vous avons prêché, qu'il soit anathème !
@@ -6125,7 +6125,7 @@
 10:3:18:EPHESIENS:3:15:2021:SHORA-KUETU afin d’être éminemment capables de saisir avec tous les saints, quelle est la largeur et la longueur et la profondeur et la hauteur,
 10:3:19:EPHESIENS:3:15:2021:SHORA-KUETU et de connaître l'amour du Mashiah qui surpasse toute connaissance, afin que vous soyez remplis jusqu'à toute la plénitude d'Elohîm.
 10:3:20:EPHESIENS:3:15:2021:SHORA-KUETU Or à celui qui par la puissance qui agit en nous avec efficacité, peut faire infiniment au-delà de tout ce que nous demandons et pensons,
-10:3:21:EPHESIENS:3:15:2021:SHORA-KUETU à lui soit la gloire dans l'Assemblée, en Mashiah Yéhoshoua, pour toutes les générations, d'âges en âges ! Amen !
+10:3:21:EPHESIENS:3:15:2021:SHORA-KUETU à lui soit la gloire dans l'Assemblée, en Mashiah Yéhoshoua, pour toutes les générations, pour les âges des âges ! Amen !
 10:4:1:EPHESIENS:3:15:2021:SHORA-KUETU Je vous prie donc, moi, le prisonnier dans le Seigneur, à marcher d'une manière digne de la vocation à laquelle vous avez été appelés,
 10:4:2:EPHESIENS:3:15:2021:SHORA-KUETU avec toute humilité et douceur, avec patience, vous supportant les uns les autres dans l'amour,
 10:4:3:EPHESIENS:3:15:2021:SHORA-KUETU vous efforçant de garder l'unité de l'Esprit dans le lien de la paix :
@@ -6315,7 +6315,7 @@
 11:4:17:PHILIPPIENS:3:15:2021:SHORA-KUETU Ce n'est pas que je cherche le don, mais je cherche le fruit qui se multiplie pour votre compte.
 11:4:18:PHILIPPIENS:3:15:2021:SHORA-KUETU Mais j'ai tout et je suis dans l'abondance. J'ai été comblé de biens en recevant d'Epaphroditos ce qui vient de vous, un parfum de bonne odeur, un sacrifice accepté, agréable à Elohîm.
 11:4:19:PHILIPPIENS:3:15:2021:SHORA-KUETU Mais mon Elohîm comblera tous vos besoins selon sa richesse, avec gloire en Yéhoshoua Mashiah.
-11:4:20:PHILIPPIENS:3:15:2021:SHORA-KUETU Mais à notre Elohîm et Père soit la gloire d'âges en âges ! Amen !
+11:4:20:PHILIPPIENS:3:15:2021:SHORA-KUETU Mais à notre Elohîm et Père soit la gloire pour les âges des âges ! Amen !
 11:4:21:PHILIPPIENS:3:15:2021:SHORA-KUETU Saluez chaque saint en Mashiah Yéhoshoua. Les frères qui sont avec moi vous saluent.
 11:4:22:PHILIPPIENS:3:15:2021:SHORA-KUETU Tous les saints, et surtout ceux de la maison de César, vous saluent.
 11:4:23:PHILIPPIENS:3:15:2021:SHORA-KUETU Que la grâce de notre Seigneur Yéhoshoua Mashiah soit avec vous tous, Amen !
@@ -6475,7 +6475,7 @@
 13:4:16:1THESSALONICIENS:3:15:2021:SHORA-KUETU Parce que le Seigneur lui-même, avec un cri de commandement, avec une voix d'archange et avec la trompette d'Elohîm, descendra du ciel et les morts en Mashiah ressusciteront premièrement.
 13:4:17:1THESSALONICIENS:3:15:2021:SHORA-KUETU Ensuite nous, les vivants restés, nous serons enlevés ensemble avec eux dans les nuées à la rencontre du Seigneur dans les airs, et ainsi nous serons toujours avec le Seigneur.
 13:4:18:1THESSALONICIENS:3:15:2021:SHORA-KUETU C'est pourquoi consolez-vous les uns les autres par ces paroles.
-13:5:1:1THESSALONICIENS:3:15:2021:SHORA-KUETU Mais concernant les temps et les époques, frères, vous n'avez pas besoin qu'on vous en écrive,
+13:5:1:1THESSALONICIENS:3:15:2021:SHORA-KUETU Mais concernant les temps et les mesures de temps, frères, vous n'avez pas besoin qu'on vous en écrive,
 13:5:2:1THESSALONICIENS:3:15:2021:SHORA-KUETU car vous savez vous-mêmes précisément que le jour du Seigneur vient comme un voleur dans la nuit.
 13:5:3:1THESSALONICIENS:3:15:2021:SHORA-KUETU Car quand ils disent : Paix et sûreté ! alors une destruction soudaine les surprend, comme les douleurs de l'enfantement surprennent la femme enceinte, et ils n'échapperont jamais.
 13:5:4:1THESSALONICIENS:3:15:2021:SHORA-KUETU Mais quant à vous, frères, vous n'êtes pas dans la ténèbre pour que ce jour-là vous surprenne comme un voleur.
@@ -6566,7 +6566,7 @@
 15:1:14:1TIMOTHEE:3:15:2021:SHORA-KUETU Mais la grâce de notre Seigneur a débordé avec la foi et l'amour qui est en Mashiah Yéhoshoua.
 15:1:15:1TIMOTHEE:3:15:2021:SHORA-KUETU La parole est sûre et entièrement digne d'être reçue, que Yéhoshoua Mashiah est venu dans le monde pour sauver des pécheurs, dont je suis le premier.
 15:1:16:1TIMOTHEE:3:15:2021:SHORA-KUETU Mais à cause de ceci miséricorde m'a été faite, afin que Yéhoshoua Mashiah fasse voir en moi le premier, toute sa clémence, pour que je serve de modèle à ceux qui ont l'intention de croire en lui pour la vie éternelle.
-15:1:17:1TIMOTHEE:3:15:2021:SHORA-KUETU Or, au Roi des âges, incorruptible, invisible, à Elohîm seul sage, soient honneur et gloire d'âges en âges ! Amen !
+15:1:17:1TIMOTHEE:3:15:2021:SHORA-KUETU Or, au Roi des âges, incorruptible, invisible, à Elohîm seul sage, soient honneur et gloire pour les âges des âges ! Amen !
 15:1:18:1TIMOTHEE:3:15:2021:SHORA-KUETU Mon fils Timotheos, voici le commandement que je te confie, conformément aux prophéties faites précédemment sur toi, afin que par elles tu combattes le bon combat,
 15:1:19:1TIMOTHEE:3:15:2021:SHORA-KUETU en ayant la foi et une bonne conscience. Quelques-uns ayant rejeté celle-ci ont fait naufrage quant à la foi.
 15:1:20:1TIMOTHEE:3:15:2021:SHORA-KUETU De ce nombre sont Hymenaïos et Alexandros que j'ai livrés à Satan afin qu'ils apprennent à ne pas blasphémer.
@@ -6671,7 +6671,7 @@
 16:1:6:2TIMOTHEE:3:15:2021:SHORA-KUETU C'est à cause de cela que je te rappelle de ranimer le don de grâce d'Elohîm qui est en toi à travers l'imposition de mes mains.
 16:1:7:2TIMOTHEE:3:15:2021:SHORA-KUETU Car Elohîm ne nous a pas donné un esprit de timidité, mais de force, d'amour et d'auto-contrôle.
 16:1:8:2TIMOTHEE:3:15:2021:SHORA-KUETU N'aie donc pas honte du témoignage de notre Seigneur, ni de moi son prisonnier. Mais souffre avec moi pour l'Évangile, selon la force d'Elohîm,
-16:1:9:2TIMOTHEE:3:15:2021:SHORA-KUETU qui nous a sauvés et a appelés par une sainte vocation, non selon nos œuvres, mais selon son propre dessein et selon la grâce qui nous a été accordée en Yéhoshoua Mashiah avant les temps éternels,
+16:1:9:2TIMOTHEE:3:15:2021:SHORA-KUETU qui nous a sauvés et nous a appelés par une sainte vocation, non selon nos œuvres, mais selon son propre dessein et selon la grâce qui nous a été accordée en Yéhoshoua Mashiah avant les temps éternels,
 16:1:10:2TIMOTHEE:3:15:2021:SHORA-KUETU mais qui maintenant a été manifestée à travers l'apparition de notre Sauveur Yéhoshoua Mashiah, qui a en effet aboli la mort et qui a mis en lumière la vie et l'immortalité à travers l'Évangile,
 16:1:11:2TIMOTHEE:3:15:2021:SHORA-KUETU pour lequel j'ai été établi prédicateur, apôtre et docteur des nations.
 16:1:12:2TIMOTHEE:3:15:2021:SHORA-KUETU C'est pourquoi aussi je souffre ces choses, mais je n'en ai pas honte, car je connais celui en qui j'ai cru et je suis persuadé qu'il est puissant pour garder mon dépôt jusqu'à ce jour-là.
@@ -6711,7 +6711,7 @@
 16:3:2:2TIMOTHEE:3:15:2021:SHORA-KUETU Car les gens seront amoureux d'eux-mêmes, aimant l'argent, fanfarons, orgueilleux, blasphémateurs, rebelles à leurs parents, ingrats, sans religion,
 16:3:3:2TIMOTHEE:3:15:2021:SHORA-KUETU sans affection naturelle, sans loyauté, calomniateurs, sans auto-contrôle, cruels, opposés à la bonté et aux hommes bons,
 16:3:4:2TIMOTHEE:3:15:2021:SHORA-KUETU traîtres, téméraires, enflés d'orgueil, amis des voluptés plutôt qu'amis d'Elohîm,
-16:3:5:2TIMOTHEE:3:15:2021:SHORA-KUETU ayant l'apparence de la piété, mais en ayant renié la puissance. Éloigne-toi donc de telles gens.
+16:3:5:2TIMOTHEE:3:15:2021:SHORA-KUETU ayant l'apparence de la piété, mais ayant renié sa puissance. Éloigne-toi aussi de ces gens-là.
 16:3:6:2TIMOTHEE:3:15:2021:SHORA-KUETU Car c'est d'entre eux que sortent ceux qui se glissent dans les maisons et qui emmènent captives de petites femmes, chargées de péchés et guidées par toutes sortes de désirs,
 16:3:7:2TIMOTHEE:3:15:2021:SHORA-KUETU qui apprennent toujours et qui ne peuvent jamais venir à la connaissance précise et correcte de la vérité.
 16:3:8:2TIMOTHEE:3:15:2021:SHORA-KUETU Mais comme Jannès et Jambrès s'opposèrent à Moshé, ceux-ci de même s'opposent à la vérité, gens à l'esprit corrompu et réprouvés en ce qui concerne la foi.
@@ -6741,7 +6741,7 @@
 16:4:15:2TIMOTHEE:3:15:2021:SHORA-KUETU Garde-toi aussi de lui, car il s'est fortement opposé à nos paroles.
 16:4:16:2TIMOTHEE:3:15:2021:SHORA-KUETU Personne n'est venu à mon aide dans ma première plaidoirie, mais tous m'ont abandonné. Qu'il ne leur en soit pas tenu compte !
 16:4:17:2TIMOTHEE:3:15:2021:SHORA-KUETU Mais le Seigneur s'est tenu près de moi et m'a fortifié, afin que par mon moyen la prédication soit pleinement assurée et que toutes les nations l'entendent. Et j'ai été délivré de la gueule du lion.
-16:4:18:2TIMOTHEE:3:15:2021:SHORA-KUETU Le Seigneur me délivrera aussi de toute mauvaise œuvre et me sauvera dans son Royaume céleste. À lui la gloire d'âges en âges ! Amen !
+16:4:18:2TIMOTHEE:3:15:2021:SHORA-KUETU Le Seigneur me délivrera aussi de toute mauvaise œuvre et me sauvera dans son Royaume céleste. À lui la gloire pour les âges des âges ! Amen !
 16:4:19:2TIMOTHEE:3:15:2021:SHORA-KUETU Salue Priska et Akulas, et la famille d'Onésiphoros.
 16:4:20:2TIMOTHEE:3:15:2021:SHORA-KUETU Erastos est resté à Corinthe, et j'ai laissé Trophimos malade à Milet.
 16:4:21:2TIMOTHEE:3:15:2021:SHORA-KUETU Hâte-toi de venir avant l'hiver. Euboulos et Poudes, et Linos, et Klaudia, et tous les frères te saluent.
@@ -6773,8 +6773,8 @@
 17:2:9:TITE:3:15:2021:SHORA-KUETU Que les esclaves soient soumis à leurs maîtres, qu'ils leur plaisent en toutes choses, n'étant pas contredisants,
 17:2:10:TITE:3:15:2021:SHORA-KUETU ne détournant rien, mais faisant toujours paraître une grande fidélité, afin qu'en toutes choses ils ornent la doctrine d'Elohîm, notre Sauveur.
 17:2:11:TITE:3:15:2021:SHORA-KUETU Car la grâce d'Elohîm qui apporte le salut à tous les humains est apparue.
-17:2:12:TITE:3:15:2021:SHORA-KUETU Et elle nous enseigne à renoncer à l'impiété et aux convoitises mondaines, pour que nous vivions dans l'âge présent discrètement, justement et pieusement,
-17:2:13:TITE:3:15:2021:SHORA-KUETU en attendant l'espérance bénie et l'apparition de la gloire de Yéhoshoua Mashiah notre grand Elohîm et Sauveur,
+17:2:12:TITE:3:15:2021:SHORA-KUETU Elle nous enseigne, pour qu’en renonçant à l'impiété et aux convoitises mondaines, nous vivions dans l'âge présent discrètement, justement et pieusement,
+17:2:13:TITE:3:15:2021:SHORA-KUETU en attendant l'espérance bénie et l'apparition de la gloire de notre grand Elohîm et Sauveur Yéhoshoua Mashiah,
 17:2:14:TITE:3:15:2021:SHORA-KUETU qui s'est donné lui-même pour nous, afin de nous racheter de toute violation de la torah et de nous purifier, et de se purifier un peuple qui soit son bien propre, zélateur des bonnes œuvres.
 17:2:15:TITE:3:15:2021:SHORA-KUETU Enseigne ces choses, exhorte et reprends avec un mandat entier. Et que personne ne te méprise.
 17:3:1:TITE:3:15:2021:SHORA-KUETU Rappelle-leur d'être soumis aux chefs et aux autorités, d'obéir, d'être prêts à faire toutes sortes de bonnes actions,
@@ -7115,7 +7115,7 @@
 19:13:18:HEBREUX:3:15:2021:SHORA-KUETU Priez pour nous, car nous sommes persuadés que nous avons une bonne conscience, désirant en toutes choses bien nous conduire.
 19:13:19:HEBREUX:3:15:2021:SHORA-KUETU Et je vous exhorte spécialement à le faire, afin que je vous sois rendu plus vite.
 19:13:20:HEBREUX:3:15:2021:SHORA-KUETU Mais que l'Elohîm de paix, qui a emmené ailleurs, hors des morts, le grand Berger des brebis, par le sang de l'alliance éternelle, notre Seigneur Yéhoshoua,
-19:13:21:HEBREUX:3:15:2021:SHORA-KUETU vous équipe de toute bonne œuvre pour faire sa volonté. Qu'il fasse en vous ce qui lui est agréable par le moyen de Yéhoshoua Mashiah, auquel soit la gloire d'âges en âges ! Amen !
+19:13:21:HEBREUX:3:15:2021:SHORA-KUETU vous équipe de toute bonne œuvre pour faire sa volonté. Qu'il fasse en vous ce qui lui est agréable par le moyen de Yéhoshoua Mashiah, auquel soit la gloire pour les âges des âges ! Amen !
 19:13:22:HEBREUX:3:15:2021:SHORA-KUETU Mais je vous prie, frères, supportez la parole d'exhortation ! Car je vous ai écrit en peu de mots en effet.
 19:13:23:HEBREUX:3:15:2021:SHORA-KUETU Sachez que notre frère Timotheos a été relâché. S'il vient plus vite, je vous verrai avec lui.
 19:13:24:HEBREUX:3:15:2021:SHORA-KUETU Saluez tous vos conducteurs et tous les saints. Ceux d'Italie vous saluent.
@@ -7310,7 +7310,7 @@
 21:4:8:1PIERRE:3:15:2021:SHORA-KUETU Mais avant toutes choses, ayez les uns pour les autres un amour assidu, parce que l'amour couvrira une multitude de péchés,
 21:4:9:1PIERRE:3:15:2021:SHORA-KUETU étant hospitaliers les uns envers les autres, sans murmures.
 21:4:10:1PIERRE:3:15:2021:SHORA-KUETU Que chacun de vous rende service aux autres selon le don de grâce qu'il a reçu, comme de bons gestionnaires de la grâce diverse d'Elohîm.
-21:4:11:1PIERRE:3:15:2021:SHORA-KUETU Si quelqu'un parle, que ce soit comme oracles d'Elohîm. Si quelqu’un sert, que ce soit comme par la force qu'Elohîm fournit, afin qu'en toutes choses Elohîm soit glorifié par le moyen de Yéhoshoua Mashiah, auquel sont la gloire et la force souveraine, d'âges en âges. Amen !
+21:4:11:1PIERRE:3:15:2021:SHORA-KUETU Si quelqu'un parle, que ce soit comme oracles d'Elohîm. Si quelqu’un sert, que ce soit comme par la force qu'Elohîm fournit, afin qu'en toutes choses Elohîm soit glorifié par le moyen de Yéhoshoua Mashiah, auquel sont la gloire et la force souveraine, pour les âges des âges. Amen !
 21:4:12:1PIERRE:3:15:2021:SHORA-KUETU Bien-aimés, ne soyez pas choqués qu'il y ait au milieu de vous le feu pour votre tentation, comme s'il vous arrivait quelque chose de nouveau.
 21:4:13:1PIERRE:3:15:2021:SHORA-KUETU Mais réjouissez-vous de ce que vous participez aux souffrances du Mashiah, afin que lors de la révélation de sa gloire, vous vous réjouissiez et exultiez.
 21:4:14:1PIERRE:3:15:2021:SHORA-KUETU Si vous êtes insultés pour le Nom du Mashiah, vous êtes bénis, parce que l'Esprit de gloire et d'Elohîm repose sur vous. Il est en effet blasphémé par eux, mais il est glorifié par vous.
@@ -7329,7 +7329,7 @@
 21:5:8:1PIERRE:3:15:2021:SHORA-KUETU Soyez sobres, veillez ! Parce que le diable, votre adversaire, marche comme un lion rugissant, cherchant qui il dévorera.
 21:5:9:1PIERRE:3:15:2021:SHORA-KUETU Résistez-lui, étant fermes dans la foi, sachant que les mêmes souffrances sont imposées à votre fraternité dans le monde.
 21:5:10:1PIERRE:3:15:2021:SHORA-KUETU Mais l'Elohîm de toute grâce, qui nous a appelés à sa gloire éternelle en Mashiah Yéhoshoua, lorsque vous aurez souffert un peu de temps, vous perfectionnera lui-même, vous affermira, vous fortifiera, vous rendra stables !
-21:5:11:1PIERRE:3:15:2021:SHORA-KUETU À lui la gloire et la force souveraine, d'âges en âges ! Amen !
+21:5:11:1PIERRE:3:15:2021:SHORA-KUETU À lui la gloire et la force souveraine, pour les âges des âges ! Amen !
 21:5:12:1PIERRE:3:15:2021:SHORA-KUETU C'est par le moyen de Silvanos que je considère comme un frère fidèle, que je vous ai écrit en peu de mots, exhortant et rendant témoignage que cette grâce d'Elohîm dans laquelle vous êtes établis est la vraie.
 21:5:13:1PIERRE:3:15:2021:SHORA-KUETU Celle qui est à Babel, élue avec vous, vous salue, ainsi que Markos mon fils.
 21:5:14:1PIERRE:3:15:2021:SHORA-KUETU Saluez-vous les uns les autres par un baiser d'amour. Shalôm à vous tous qui êtes dans le Mashiah Yéhoshoua ! Amen !
@@ -7538,7 +7538,7 @@
 26:1:10:JUDAS:3:15:2021:SHORA-KUETU Mais ceux-là blasphèment en effet contre tout ce qu'ils ne connaissent pas, et ils se corrompent dans tout ce qu'ils savent naturellement, comme les bêtes dépourvues de raison.
 26:1:11:JUDAS:3:15:2021:SHORA-KUETU Malheur à eux ! Parce qu'ils ont suivi la voie de Qayin, et qu'ils se sont jetés dans l'égarement de Balaam pour une récompense, et qu'ils ont péri par la rébellion de Koré.
 26:1:12:JUDAS:3:15:2021:SHORA-KUETU Ce sont des écueils dans vos agapes, faisant des festins somptueux avec vous sans crainte, se nourrissant eux-mêmes. Ce sont des nuées sans eau, emportées par des vents çà et là, des arbres de fin d'automne sans fruits, deux fois morts, déracinés,
-26:1:13:JUDAS:3:15:2021:SHORA-KUETU des vagues impétueuses de la mer, rejetant l'écume de leurs impuretés, des étoiles errantes, à qui l'obscurité de la ténèbre est réservée pour l’éternité.
+26:1:13:JUDAS:3:15:2021:SHORA-KUETU des grosses vagues sauvages de la mer, rejetant l'écume de leurs propres hontes, des étoiles errantes, à qui l'obscurité de la ténèbre est réservée pour l’éternité.
 26:1:14:JUDAS:3:15:2021:SHORA-KUETU Mais c'est aussi pour eux que Hanowk, le septième homme après Adam, a prophétisé, en disant : Voici, le Seigneur est venu avec la multitude innombrable de ses saints,
 26:1:15:JUDAS:3:15:2021:SHORA-KUETU pour exercer un jugement contre tous et pour convaincre tous les impies d'entre eux, de toutes leurs actions d'impiété qu'ils ont commises d'une manière impie, et de toutes les paroles injurieuses que les pécheurs impies ont proférées contre lui.
 26:1:16:JUDAS:3:15:2021:SHORA-KUETU Ce sont eux qui murmurent continuellement, qui se plaignent de leur sort, qui marchent selon leurs convoitises, dont la bouche prononce des propos enflés, et qui admirent les personnes pour l'amour du profit.
@@ -7556,7 +7556,7 @@
 27:1:3:APOCALYPSE:3:15:2021:SHORA-KUETU Béni est celui qui lit et ceux qui entendent les paroles de cette prophétie, et qui gardent les choses qui y sont écrites ! Car le temps est proche.
 27:1:4:APOCALYPSE:3:15:2021:SHORA-KUETU Yohanan aux sept assemblées qui sont en Asie : à vous grâce et shalôm, de la part de celui qui est, et qui était et qui vient, et de la part des sept Esprits qui sont devant son trône,
 27:1:5:APOCALYPSE:3:15:2021:SHORA-KUETU et de la part de Yéhoshoua Mashiah, le témoin fidèle, le premier-né d'entre les morts et le chef des rois de la Terre. À celui qui nous a aimés et qui nous a lavés de nos péchés dans son sang,
-27:1:6:APOCALYPSE:3:15:2021:SHORA-KUETU et qui a fait de nous des rois et des prêtres pour Elohîm, son Père, à lui soient la gloire et la force souveraine d'âges en âges. Amen !
+27:1:6:APOCALYPSE:3:15:2021:SHORA-KUETU et qui a fait de nous des rois et des prêtres pour Elohîm, son Père, à lui soient la gloire et la force souveraine pour les âges des âges. Amen !
 27:1:7:APOCALYPSE:3:15:2021:SHORA-KUETU Voici, il vient avec les nuées. Et tout œil le verra, même ceux qui l'ont percé, et toutes les tribus de la Terre se frapperont la poitrine de chagrin à cause de lui. Oui, amen !
 27:1:8:APOCALYPSE:3:15:2021:SHORA-KUETU Moi, je suis l'Aleph et le Tav, le commencement et la fin, dit le Seigneur, qui est, et qui était, et qui vient, le Tout-Puissant.
 27:1:9:APOCALYPSE:3:15:2021:SHORA-KUETU Moi, Yohanan, votre frère, qui participe aussi avec vous à la tribulation, et au règne, et à la patience en Yéhoshoua Mashiah, j'étais sur l'île appelée Patmos à cause de la parole d'Elohîm et du témoignage de Yéhoshoua Mashiah.
@@ -7568,7 +7568,7 @@
 27:1:15:APOCALYPSE:3:15:2021:SHORA-KUETU Et ses pieds, semblables à du cuivre ardent, comme brûlés dans une fournaise, et sa voix, comme le bruit des grandes eaux.
 27:1:16:APOCALYPSE:3:15:2021:SHORA-KUETU Et dans sa main droite il a sept étoiles et de sa bouche sort une grande épée aiguë à deux tranchants. Et son visage, comme le soleil qui brille dans sa force.
 27:1:17:APOCALYPSE:3:15:2021:SHORA-KUETU Et quand je le vis, je tombai à ses pieds comme mort, et il posa sa main droite sur moi en me disant : N'aie pas peur ! Moi, je suis le Premier et le Dernier,
-27:1:18:APOCALYPSE:3:15:2021:SHORA-KUETU et le Vivant. Et j'étais mort et voici, je suis vivant d'âges en âges. Amen ! Et j'ai les clés de l'Hadès et de la mort.
+27:1:18:APOCALYPSE:3:15:2021:SHORA-KUETU et le Vivant. Et j'étais mort et voici, je suis vivant pour les âges des âges. Amen ! Et j'ai les clés de l'Hadès et de la mort.
 27:1:19:APOCALYPSE:3:15:2021:SHORA-KUETU Écris les choses que tu as vues et celles qui sont, et celles qui doivent arriver après celles-ci,
 27:1:20:APOCALYPSE:3:15:2021:SHORA-KUETU le mystère des sept étoiles que tu as vues sur ma main droite, et les sept chandeliers d'or. Les sept étoiles sont les anges des sept assemblées, et les sept chandeliers que tu as vus sont les sept assemblées.
 27:2:1:APOCALYPSE:3:15:2021:SHORA-KUETU Écris à l'ange de l'assemblée d'Éphèse : Voici ce que dit celui qui tient les sept étoiles dans sa main droite, et qui marche au milieu des sept chandeliers d'or :
@@ -7630,8 +7630,8 @@
 27:4:6:APOCALYPSE:3:15:2021:SHORA-KUETU Et devant le trône, une mer de verre semblable à du cristal. Et au milieu du trône et autour du trône, quatre êtres vivants, remplis d'yeux devant et derrière.
 27:4:7:APOCALYPSE:3:15:2021:SHORA-KUETU Et le premier être vivant ressemble à un lion, le second être vivant ressemble à un veau, le troisième être vivant a la face comme un être humain, et le quatrième être vivant ressemble à un aigle qui vole.
 27:4:8:APOCALYPSE:3:15:2021:SHORA-KUETU Et les quatre êtres vivants ont chacun six ailes et ils sont remplis d'yeux tout autour et à l'intérieur. Et ils ne cessent de dire jour et nuit : Saint ! Saint ! Saint est le Seigneur Elohîm le Tout-Puissant, qui était, qui est et qui vient.
-27:4:9:APOCALYPSE:3:15:2021:SHORA-KUETU Et quand ces êtres vivants donneront gloire, et honneur, et action de grâce à celui qui est assis sur le trône, à celui qui est vivant d'âges en âges,
-27:4:10:APOCALYPSE:3:15:2021:SHORA-KUETU les vingt-quatre anciens tomberont devant celui qui est assis sur le trône, en adorant aussi celui qui est vivant d'âges en âges, et en jetant leurs couronnes devant le trône en disant :
+27:4:9:APOCALYPSE:3:15:2021:SHORA-KUETU Et quand les êtres vivants donneront gloire, et honneur, et action de grâce à celui qui est assis sur le trône, le Vivant pour les âges des âges,
+27:4:10:APOCALYPSE:3:15:2021:SHORA-KUETU les vingt-quatre anciens tomberont devant celui qui est assis sur le trône, en adorant aussi le Vivant pour les âges des âges, et en jetant leurs couronnes devant le trône en disant :
 27:4:11:APOCALYPSE:3:15:2021:SHORA-KUETU Seigneur, tu es digne de recevoir la gloire, et l'honneur et la puissance, parce que tu as créé toutes choses, et c'est par ta volonté qu'elles existent et qu'elles ont été créées.
 27:5:1:APOCALYPSE:3:15:2021:SHORA-KUETU Et je vis dans la main droite de celui qui est assis sur le trône, un livre écrit en dedans et en dehors, scellé de sept sceaux.
 27:5:2:APOCALYPSE:3:15:2021:SHORA-KUETU Et je vis aussi un ange puissant, proclamant à grande voix : Qui est digne d'ouvrir le livre et d’en délier les sceaux ?
@@ -7645,7 +7645,7 @@
 27:5:10:APOCALYPSE:3:15:2021:SHORA-KUETU Et tu as fait de nous des rois et des prêtres pour notre Elohîm, et nous régnerons sur la Terre.
 27:5:11:APOCALYPSE:3:15:2021:SHORA-KUETU Et je regardai et j'entendis la voix de beaucoup d'anges autour du trône, des êtres vivants et des anciens, et leur nombre était des myriades de myriades et des milliers de milliers.
 27:5:12:APOCALYPSE:3:15:2021:SHORA-KUETU Ils disent à grande voix : Digne est l'Agneau qui a été tué, de recevoir la puissance, et la richesse, et la sagesse, et la force, et l'honneur, et la gloire et la louange !
-27:5:13:APOCALYPSE:3:15:2021:SHORA-KUETU J'entendis aussi chaque créature qui est dans le ciel, sur la Terre et sous la Terre, et dans la mer et tout ce qui est en elle, disant : À celui qui est assis sur le trône et à l'Agneau, soient la louange et l'honneur, et la gloire et la force souveraine, d'âges en âges !
+27:5:13:APOCALYPSE:3:15:2021:SHORA-KUETU J'entendis aussi chaque créature qui est dans le ciel, sur la Terre et sous la Terre, et dans la mer et tout ce qui est en elle, disant : À celui qui est assis sur le trône et à l'Agneau, soient la louange et l'honneur, et la gloire et la force souveraine, pour les âges des âges !
 27:5:14:APOCALYPSE:3:15:2021:SHORA-KUETU Et les quatre êtres vivants disaient : Amen ! Et les vingt-quatre anciens tombèrent et adorèrent celui qui est vivant d'âges en âges.
 27:6:1:APOCALYPSE:3:15:2021:SHORA-KUETU Et je regardai quand l'Agneau ouvrit l'un des sceaux, et j'entendis l'un des quatre êtres vivants dire comme d'une voix de tonnerre : Viens et vois !
 27:6:2:APOCALYPSE:3:15:2021:SHORA-KUETU Et je regardai, et voici un cheval blanc. Celui qui était monté dessus avait un arc. Et une couronne lui fut donnée, il est sorti remportant la victoire et pour remporter la victoire.
@@ -7672,10 +7672,10 @@
 27:7:6:APOCALYPSE:3:15:2021:SHORA-KUETU De la tribu d'Asher, 12 000 marqués du sceau. De la tribu de Nephthali, 12 000 marqués du sceau. De la tribu de Menashè, 12 000 marqués du sceau.
 27:7:7:APOCALYPSE:3:15:2021:SHORA-KUETU De la tribu de Shim’ôn, 12 000 marqués du sceau. De la tribu de Lévi, 12 000 marqués du sceau. De la tribu de Yissakar, 12 000 marqués du sceau.
 27:7:8:APOCALYPSE:3:15:2021:SHORA-KUETU De la tribu de Zebouloun, 12 000 marqués du sceau. De la tribu de Yossef, 12 000 marqués du sceau. De la tribu de Benyamin, 12 000 marqués du sceau.
-27:7:9:APOCALYPSE:3:15:2021:SHORA-KUETU Après ces choses, je regardai, et voici une grande foule que personne ne pouvait compter, de toute nation et tribus, et peuples et langues, qui se tenaient devant le trône et devant l'Agneau, vêtus de longues robes blanches et de palmiers dans leurs mains.
+27:7:9:APOCALYPSE:3:15:2021:SHORA-KUETU Après ces choses, je regardai, et voici une grande foule que personne ne pouvait compter, de toute nation et tribus, et peuples et langues, qui se tenaient devant le trône et devant l'Agneau, vêtus de longues robes blanches, avec de palmiers dans leurs mains.
 27:7:10:APOCALYPSE:3:15:2021:SHORA-KUETU Et ils crient à grande voix, en disant : Le salut est à notre Elohîm, qui est assis sur le trône et à l'Agneau !
 27:7:11:APOCALYPSE:3:15:2021:SHORA-KUETU Et tous les anges se tenaient autour du trône, et des anciens, et des quatre êtres vivants, et ils tombèrent devant le trône sur leurs faces et adorèrent Elohîm,
-27:7:12:APOCALYPSE:3:15:2021:SHORA-KUETU en disant : Amen ! La louange, la gloire, la sagesse, l'action de grâce, l'honneur, la puissance et la force soient à notre Elohîm, d'âges en âges. Amen !
+27:7:12:APOCALYPSE:3:15:2021:SHORA-KUETU en disant : Amen ! La louange, la gloire, la sagesse, l'action de grâce, l'honneur, la puissance et la force soient à notre Elohîm, pour les âges des âges. Amen !
 27:7:13:APOCALYPSE:3:15:2021:SHORA-KUETU Et l'un des anciens prit la parole et me dit : Ceux qui sont vêtus de longues robes blanches, qui sont-ils et d'où sont-ils venus ?
 27:7:14:APOCALYPSE:3:15:2021:SHORA-KUETU Et je lui dis : Seigneur, tu le sais. Et il me dit : Ce sont ceux qui viennent de la grande tribulation. Et ils ont lavé leurs robes, et ils ont blanchi leurs robes dans le sang de l'Agneau.
 27:7:15:APOCALYPSE:3:15:2021:SHORA-KUETU C'est pourquoi ils sont devant le trône d'Elohîm, et le servent jour et nuit dans son temple. Et celui qui est assis sur le trône dressera sa tente sur eux.
@@ -7720,7 +7720,7 @@
 27:10:3:APOCALYPSE:3:15:2021:SHORA-KUETU Et il cria d'une grande voix comme rugit un lion. Et quand il cria, les sept tonnerres firent entendre leurs voix.
 27:10:4:APOCALYPSE:3:15:2021:SHORA-KUETU Et quand les sept tonnerres eurent fait entendre leurs voix, j'allais écrire, et j'entendis une voix du ciel me disant : Scelle les choses que les sept tonnerres ont fait entendre, et ne les écris pas.
 27:10:5:APOCALYPSE:3:15:2021:SHORA-KUETU Et l'ange que je voyais debout sur la mer et sur la terre leva sa main vers le ciel
-27:10:6:APOCALYPSE:3:15:2021:SHORA-KUETU et jura par celui qui est vivant d'âges en âges, qui a créé le ciel avec les choses qui y sont, et la Terre avec les choses qui y sont, et la mer avec les choses qui y sont, qu'il n'y aurait plus de temps,
+27:10:6:APOCALYPSE:3:15:2021:SHORA-KUETU et jura par le Vivant pour les âges des âges, qui a créé le ciel avec les choses qui y sont, et la Terre avec les choses qui y sont, et la mer avec les choses qui y sont, qu'il n'y aura plus de temps,
 27:10:7:APOCALYPSE:3:15:2021:SHORA-KUETU mais qu'aux jours de la voix du septième ange, quand il sera sur le point de sonner de la trompette, alors le mystère d'Elohîm s'accomplira, comme il en avait annoncé la bonne nouvelle à ses esclaves les prophètes.
 27:10:8:APOCALYPSE:3:15:2021:SHORA-KUETU Et la voix que j'avais entendue du ciel me parla encore et me dit : Va et prends le petit livre ouvert qui est dans la main de l'ange qui se tient sur la mer et sur la terre.
 27:10:9:APOCALYPSE:3:15:2021:SHORA-KUETU Et j'allai vers l'ange, en lui disant : Donne-moi le petit livre. Et il me dit : Prends-le et dévore-le. Et il rendra ton ventre amer, mais il sera doux dans ta bouche comme du miel.
@@ -7740,7 +7740,7 @@
 27:11:12:APOCALYPSE:3:15:2021:SHORA-KUETU Et ils entendirent une grande voix du ciel qui leur disait : Montez ici ! Et ils montèrent au ciel sur une nuée, et leurs ennemis les virent.
 27:11:13:APOCALYPSE:3:15:2021:SHORA-KUETU Et à cette même heure, il y eut un grand tremblement de terre, et la dixième partie de la ville tomba. Et 7 000 noms d'humains furent tués par ce tremblement de terre. Et les autres furent terrifiés et donnèrent gloire à l'Elohîm du ciel.
 27:11:14:APOCALYPSE:3:15:2021:SHORA-KUETU Le second malheur est passé. Voici, le troisième malheur vient à toute vitesse.
-27:11:15:APOCALYPSE:3:15:2021:SHORA-KUETU Et le septième ange sonna de la trompette et il y eut dans le ciel de grandes voix, disant : Les royaumes du monde sont revenus à notre Seigneur et à son Mashiah, et il régnera d'âges en âges.
+27:11:15:APOCALYPSE:3:15:2021:SHORA-KUETU Et le septième ange sonna de la trompette et il y eut dans le ciel de grandes voix, disant : Les royaumes du monde sont revenus à notre Seigneur et à son Mashiah, et il régnera pour les âges des âges.
 27:11:16:APOCALYPSE:3:15:2021:SHORA-KUETU Et les vingt-quatre anciens qui sont assis devant Elohîm sur leurs trônes, tombèrent sur leurs faces et adorèrent Elohîm,
 27:11:17:APOCALYPSE:3:15:2021:SHORA-KUETU en disant : Nous te rendons grâces, Seigneur Elohîm le Tout-Puissant, celui qui est, et qui était et qui vient, parce que tu as pris en main ta grande puissance et que tu as exercé ton règne !
 27:11:18:APOCALYPSE:3:15:2021:SHORA-KUETU Et les nations se sont irritées, mais ta colère est venue. C'est aussi le temps de juger les morts, et de donner le salaire à tes esclaves les prophètes et aux saints, et à ceux qui craignent ton Nom, petits et grands, et de détruire ceux qui détruisent la Terre.
@@ -7790,7 +7790,7 @@
 27:14:8:APOCALYPSE:3:15:2021:SHORA-KUETU Et un autre ange le suivit, en disant : Elle est tombée, elle est tombée Babel, la grande ville, parce qu'elle a donné à boire à toutes les nations du vin de la colère de sa relation sexuelle illicite !
 27:14:9:APOCALYPSE:3:15:2021:SHORA-KUETU Et un troisième ange les suivit, en disant à grande voix : Si quelqu'un adore la bête et son image, et reçoit la marque sur son front ou sur sa main,
 27:14:10:APOCALYPSE:3:15:2021:SHORA-KUETU il boira, lui aussi, du vin de la colère d'Elohîm, du vin pur versé dans la coupe de sa colère, et il sera tourmenté dans le feu et le soufre devant les saints anges et devant l'Agneau.
-27:14:11:APOCALYPSE:3:15:2021:SHORA-KUETU Et la fumée de leur tourment monte d'âges en âges et ils n'ont de repos ni jour ni nuit, ceux qui adorent la bête et son image, et quiconque reçoit la marque de son nom.
+27:14:11:APOCALYPSE:3:15:2021:SHORA-KUETU Et la fumée de leur tourment monte pour les âges des âges et ils n'ont de repos ni jour ni nuit, ceux qui adorent la bête et son image, et quiconque reçoit la marque de son nom.
 27:14:12:APOCALYPSE:3:15:2021:SHORA-KUETU Ici est la persévérance des saints, ici, ceux qui gardent les commandements d'Elohîm et la foi de Yéhoshoua.
 27:14:13:APOCALYPSE:3:15:2021:SHORA-KUETU Et j'entendis une voix du ciel me disant : Écris : Bénis sont dès à présent les morts qui meurent dans le Seigneur ! Oui, c'est vrai ! dit l'Esprit, afin qu'ils se reposent de leurs travaux, mais leurs œuvres les suivent.
 27:14:14:APOCALYPSE:3:15:2021:SHORA-KUETU Et je regardai, et voici une nuée blanche, et sur la nuée quelqu'un d'assis, semblable au fils d'humain, ayant sur sa tête une couronne d'or et dans sa main une faucille tranchante.
@@ -7806,7 +7806,7 @@
 27:15:4:APOCALYPSE:3:15:2021:SHORA-KUETU Seigneur, qui ne te craindrait et qui ne glorifierait ton Nom ? Parce que toi seul tu es saint, c'est pourquoi toutes les nations viendront et se prosterneront devant toi, parce que tes jugements ont été manifestés.
 27:15:5:APOCALYPSE:3:15:2021:SHORA-KUETU Et après ces choses, je regardai, et voici le temple du tabernacle du témoignage fut ouvert dans le ciel.
 27:15:6:APOCALYPSE:3:15:2021:SHORA-KUETU Et les sept anges qui ont en main les sept fléaux sortirent du temple, revêtus d'un lin pur et éclatant, et ceints autour de la poitrine de ceintures d'or.
-27:15:7:APOCALYPSE:3:15:2021:SHORA-KUETU Et l'un des quatre êtres vivants donna aux sept anges sept coupes d'or remplies de la colère d'Elohîm qui vit d'âges en âges.
+27:15:7:APOCALYPSE:3:15:2021:SHORA-KUETU Et l'un des quatre êtres vivants donna aux sept anges sept coupes d'or remplies de la colère d'Elohîm, le Vivant pour les âges des âges.
 27:15:8:APOCALYPSE:3:15:2021:SHORA-KUETU Et le temple fut rempli de la fumée par la gloire d'Elohîm et par sa puissance, et personne ne pouvait entrer dans le temple jusqu'à ce que les sept fléaux des sept anges soient accomplis.
 27:16:1:APOCALYPSE:3:15:2021:SHORA-KUETU Et j'entendis du temple une grande voix disant aux sept anges : Allez et versez sur la Terre les coupes de la colère d'Elohîm.
 27:16:2:APOCALYPSE:3:15:2021:SHORA-KUETU Et le premier s'en alla et versa sa coupe sur la Terre. Et un ulcère pernicieux et malin vint sur les humains qui avaient la marque de la bête et sur ceux qui adoraient son image.
@@ -7873,7 +7873,7 @@
 27:18:24:APOCALYPSE:3:15:2021:SHORA-KUETU Et c'est chez elle qu'a été trouvé le sang des prophètes et des saints, et de tous ceux qui ont été tués sur la Terre.
 27:19:1:APOCALYPSE:3:15:2021:SHORA-KUETU Et après ces choses, j'entendis comme la grande voix d'une foule nombreuse dans le ciel, disant : Allélou-Yah ! Le salut, et la gloire, et l'honneur, et la puissance, au Seigneur notre Elohîm,
 27:19:2:APOCALYPSE:3:15:2021:SHORA-KUETU parce que ses jugements sont véritables et justes, parce qu'il a jugé la grande prostituée qui a corrompu la Terre par sa relation sexuelle illicite, et qu'il a vengé le sang de ses esclaves versé de sa main.
-27:19:3:APOCALYPSE:3:15:2021:SHORA-KUETU Et ils dirent une seconde fois : Allélou-Yah ! Et sa fumée monte d'âges en âges.
+27:19:3:APOCALYPSE:3:15:2021:SHORA-KUETU Et ils dirent une seconde fois : Allélou-Yah ! Et sa fumée monte pour les âges des âges.
 27:19:4:APOCALYPSE:3:15:2021:SHORA-KUETU Et les vingt-quatre anciens et les quatre êtres vivants se prosternèrent sur leurs faces, et adorèrent Elohîm qui est assis sur le trône, en disant : Amen ! Allélou-Yah !
 27:19:5:APOCALYPSE:3:15:2021:SHORA-KUETU Et une voix sortit du trône, disant : Louez notre Elohîm, vous tous ses esclaves, et vous qui le craignez, tant les petits que les grands.
 27:19:6:APOCALYPSE:3:15:2021:SHORA-KUETU Et j'entendis comme la voix d'une foule nombreuse, et comme la voix de grandes eaux, et comme la voix de puissants tonnerres, disant : Allélou-Yah ! Parce que le Seigneur, l'Elohîm Tout-Puissant a exercé son règne.
@@ -7901,7 +7901,7 @@
 27:20:7:APOCALYPSE:3:15:2021:SHORA-KUETU Et quand les 1 000 ans seront accomplis, Satan sera délié de sa prison.
 27:20:8:APOCALYPSE:3:15:2021:SHORA-KUETU Et il sortira pour égarer les nations aux quatre coins de la Terre, Gog et Magog, afin de les rassembler pour la guerre, et leur nombre est comme le sable de la mer.
 27:20:9:APOCALYPSE:3:15:2021:SHORA-KUETU Et ils montèrent sur l'étendue de la Terre et ils encerclèrent le camp des saints, et la ville aimée. Et du feu descendit du ciel de la part d'Elohîm et les dévora.
-27:20:10:APOCALYPSE:3:15:2021:SHORA-KUETU Et le diable qui les égare fut jeté dans le lac de feu et de soufre où sont la bête et le faux prophète. Et ils seront tourmentés jour et nuit, d'âges en âges.
+27:20:10:APOCALYPSE:3:15:2021:SHORA-KUETU Et le diable qui les égare fut jeté dans le lac de feu et de soufre où sont la bête et le faux prophète. Et ils seront tourmentés jour et nuit, pour les âges des âges.
 27:20:11:APOCALYPSE:3:15:2021:SHORA-KUETU Et je vis un grand trône blanc et celui qui est assis dessus. Le ciel et la terre s’enfuirent de devant sa face et l’on ne trouva plus de place pour eux.
 27:20:12:APOCALYPSE:3:15:2021:SHORA-KUETU Et je vis les morts, les grands et les petits, qui se tenaient devant Elohîm. Des livres furent ouverts. Et un autre livre fut ouvert, celui qui est le livre de vie. Et les morts furent jugés d'après les choses écrites dans les livres, selon leurs œuvres.
 27:20:13:APOCALYPSE:3:15:2021:SHORA-KUETU Et la mer donna les morts qui étaient en elle, et la mort et l'Hadès donnèrent les morts qui étaient en eux, et ils furent jugés chacun selon ses œuvres.
@@ -7938,7 +7938,7 @@
 27:22:2:APOCALYPSE:3:15:2021:SHORA-KUETU Au milieu de sa rue et des deux côtés du fleuve, l'arbre de vie portant douze fruits et rendant son fruit chaque mois, et les feuilles de l'arbre sont pour la guérison des nations.
 27:22:3:APOCALYPSE:3:15:2021:SHORA-KUETU Et il n'y aura plus aucune malédiction. Et le trône d'Elohîm et de l'Agneau y sera. Et ses esclaves le serviront,
 27:22:4:APOCALYPSE:3:15:2021:SHORA-KUETU et ils verront sa face, et son Nom sera sur leurs fronts.
-27:22:5:APOCALYPSE:3:15:2021:SHORA-KUETU Et il n’y aura plus là de nuit. Et ils n'ont pas besoin de lampe, ni de la lumière du soleil, parce que le Seigneur Elohîm les illuminera. Et ils régneront d'âges en âges.
+27:22:5:APOCALYPSE:3:15:2021:SHORA-KUETU Et il n’y aura plus là de nuit. Et ils n'ont pas besoin de lampe, ni de la lumière du soleil, parce que le Seigneur Elohîm les illuminera. Et ils régneront pour les âges des âges.
 27:22:6:APOCALYPSE:3:15:2021:SHORA-KUETU Et il me dit : Ces paroles sont sûres et véritables. Et le Seigneur, l'Elohîm des saints prophètes, a envoyé son ange pour manifester à ses esclaves les choses qui doivent arriver vite :
 27:22:7:APOCALYPSE:3:15:2021:SHORA-KUETU Voici, je viens à toute vitesse. Béni est celui qui garde les paroles de la prophétie de ce livre !
 27:22:8:APOCALYPSE:3:15:2021:SHORA-KUETU Et c'est moi, Yohanan, qui ai entendu et vu ces choses. Et après les avoir entendues et vues, je tombai à terre aux pieds de l'ange qui me les montrait pour l'adorer.
